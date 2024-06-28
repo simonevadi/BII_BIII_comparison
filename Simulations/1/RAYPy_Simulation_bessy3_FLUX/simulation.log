@@ -1,0 +1,61 @@
+2024-06-28 09:42:47,683 - INFO - Simulation started, using 7 workers
+2024-06-28 09:42:47,684 - INFO - Start round 0
+2024-06-28 09:42:47,686 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy3_FLUX/round_0/0_bessy3_FLUX.rml
+2024-06-28 09:42:47,687 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy3_FLUX/round_0/1_bessy3_FLUX.rml
+2024-06-28 09:42:47,687 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy3_FLUX/round_0/2_bessy3_FLUX.rml
+2024-06-28 09:42:47,688 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy3_FLUX/round_0/3_bessy3_FLUX.rml
+2024-06-28 09:42:47,689 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy3_FLUX/round_0/4_bessy3_FLUX.rml
+2024-06-28 09:42:47,690 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy3_FLUX/round_0/5_bessy3_FLUX.rml
+2024-06-28 09:42:47,691 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy3_FLUX/round_0/6_bessy3_FLUX.rml
+2024-06-28 09:42:47,692 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy3_FLUX/round_0/7_bessy3_FLUX.rml
+2024-06-28 09:42:47,693 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy3_FLUX/round_0/8_bessy3_FLUX.rml
+2024-06-28 09:42:47,695 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy3_FLUX/round_0/9_bessy3_FLUX.rml
+2024-06-28 09:42:47,696 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy3_FLUX/round_0/10_bessy3_FLUX.rml
+2024-06-28 09:42:47,697 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy3_FLUX/round_0/11_bessy3_FLUX.rml
+2024-06-28 09:42:47,697 - INFO - Start round 1
+2024-06-28 09:42:47,698 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy3_FLUX/round_1/0_bessy3_FLUX.rml
+2024-06-28 09:42:47,699 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy3_FLUX/round_1/1_bessy3_FLUX.rml
+2024-06-28 09:42:47,699 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy3_FLUX/round_1/2_bessy3_FLUX.rml
+2024-06-28 09:42:47,700 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy3_FLUX/round_1/3_bessy3_FLUX.rml
+2024-06-28 09:42:47,701 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy3_FLUX/round_1/4_bessy3_FLUX.rml
+2024-06-28 09:42:47,702 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy3_FLUX/round_1/5_bessy3_FLUX.rml
+2024-06-28 09:42:47,703 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy3_FLUX/round_1/6_bessy3_FLUX.rml
+2024-06-28 09:42:47,704 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy3_FLUX/round_1/7_bessy3_FLUX.rml
+2024-06-28 09:42:47,705 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy3_FLUX/round_1/8_bessy3_FLUX.rml
+2024-06-28 09:42:47,706 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy3_FLUX/round_1/9_bessy3_FLUX.rml
+2024-06-28 09:42:47,707 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy3_FLUX/round_1/10_bessy3_FLUX.rml
+2024-06-28 09:42:47,707 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy3_FLUX/round_1/11_bessy3_FLUX.rml
+2024-06-28 09:42:47,719 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-06-28 09:42:56,089 - INFO - Completed: 1, remaining: 34, RAYPy_Simulation_bessy3_FLUX/round_0/2_bessy3_FLUX.rml
+2024-06-28 09:42:56,286 - INFO - Completed: 2, remaining: 33, RAYPy_Simulation_bessy3_FLUX/round_0/4_bessy3_FLUX.rml
+2024-06-28 09:42:57,679 - INFO - Completed: 3, remaining: 32, RAYPy_Simulation_bessy3_FLUX/round_0/5_bessy3_FLUX.rml
+2024-06-28 09:42:58,378 - INFO - Completed: 4, remaining: 31, RAYPy_Simulation_bessy3_FLUX/round_0/3_bessy3_FLUX.rml
+2024-06-28 09:42:58,537 - INFO - Completed: 5, remaining: 30, RAYPy_Simulation_bessy3_FLUX/round_0/6_bessy3_FLUX.rml
+2024-06-28 09:42:59,187 - INFO - Completed: 6, remaining: 29, RAYPy_Simulation_bessy3_FLUX/round_0/1_bessy3_FLUX.rml
+2024-06-28 09:43:03,985 - INFO - Completed: 7, remaining: 28, RAYPy_Simulation_bessy3_FLUX/round_0/0_bessy3_FLUX.rml
+2024-06-28 09:43:07,175 - INFO - Completed: 8, remaining: 27, RAYPy_Simulation_bessy3_FLUX/round_0/7_bessy3_FLUX.rml
+2024-06-28 09:43:09,836 - INFO - Completed: 9, remaining: 26, RAYPy_Simulation_bessy3_FLUX/round_0/10_bessy3_FLUX.rml
+2024-06-28 09:43:11,340 - INFO - Completed: 10, remaining: 25, RAYPy_Simulation_bessy3_FLUX/round_1/0_bessy3_FLUX.rml
+2024-06-28 09:43:12,025 - INFO - Completed: 11, remaining: 24, RAYPy_Simulation_bessy3_FLUX/round_0/11_bessy3_FLUX.rml
+2024-06-28 09:43:12,860 - INFO - Completed: 12, remaining: 23, RAYPy_Simulation_bessy3_FLUX/round_0/9_bessy3_FLUX.rml
+2024-06-28 09:43:13,487 - INFO - Completed: 13, remaining: 22, RAYPy_Simulation_bessy3_FLUX/round_0/8_bessy3_FLUX.rml
+2024-06-28 09:43:14,558 - INFO - Completed: 14, remaining: 21, RAYPy_Simulation_bessy3_FLUX/round_1/1_bessy3_FLUX.rml
+2024-06-28 09:43:20,672 - INFO - Completed: 15, remaining: 20, RAYPy_Simulation_bessy3_FLUX/round_1/2_bessy3_FLUX.rml
+2024-06-28 09:43:21,490 - INFO - Completed: 16, remaining: 19, RAYPy_Simulation_bessy3_FLUX/round_1/4_bessy3_FLUX.rml
+2024-06-28 09:43:23,072 - INFO - Completed: 17, remaining: 18, RAYPy_Simulation_bessy3_FLUX/round_1/5_bessy3_FLUX.rml
+2024-06-28 09:43:23,650 - INFO - Completed: 18, remaining: 17, RAYPy_Simulation_bessy3_FLUX/round_1/3_bessy3_FLUX.rml
+2024-06-28 09:43:24,171 - INFO - Completed: 19, remaining: 16, RAYPy_Simulation_bessy3_FLUX/round_1/6_bessy3_FLUX.rml
+2024-06-28 09:43:25,229 - INFO - Completed: 20, remaining: 15, RAYPy_Simulation_bessy3_FLUX/round_1/7_bessy3_FLUX.rml
+2024-06-28 09:43:28,164 - INFO - Completed: 21, remaining: 14, RAYPy_Simulation_bessy3_FLUX/round_1/8_bessy3_FLUX.rml
+2024-06-28 09:43:29,565 - INFO - Completed: 22, remaining: 13, RAYPy_Simulation_bessy3_FLUX/round_1/10_bessy3_FLUX.rml
+2024-06-28 09:43:30,855 - INFO - Completed: 23, remaining: 12, RAYPy_Simulation_bessy3_FLUX/round_1/9_bessy3_FLUX.rml
+2024-06-28 09:43:31,724 - INFO - Completed: 24, remaining: 11, RAYPy_Simulation_bessy3_FLUX/round_1/11_bessy3_FLUX.rml
+2024-06-28 09:43:31,724 - INFO - Batch Completed
+2024-06-28 09:43:31,724 - INFO - Waiting For batch, 35 simulations to go
+2024-06-28 09:43:31,724 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-06-28 09:43:31,724 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-06-28 09:43:31,724 - INFO - Executor shutdown completed.
+2024-06-28 09:43:31,725 - INFO - Simulation completed successfully.
+2024-06-28 09:43:31,725 - INFO - Starting cleanup
+2024-06-28 09:43:31,745 - INFO - Done with the cleanup
+2024-06-28 09:43:31,745 - INFO - Brute force exit
