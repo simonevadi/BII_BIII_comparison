@@ -1,7 +1,0 @@
-I am writing simulations and evaluations to 
-tune the M3 short radius.
-
-at the moment the mirror is not focusing 
-vertically on the exit slits. I have to put an image
-plane before the ExitSlit to see the focus, or maybe 
-I can use the exit slits open at the maximum.
