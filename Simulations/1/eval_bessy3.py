@@ -26,6 +26,7 @@ flux_simulation_folder = 'RAYPy_Simulation_'+rml_file_name+'_FLUX'
 rp_simulation_folder = 'RAYPy_Simulation_'+rml_file_name+'_RP'
 
 
+
 varying_var = SlitSize
 varying_var_n = 'Exit Slit'
 varying_var_unit = 'um'
