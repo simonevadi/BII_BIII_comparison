@@ -16,7 +16,6 @@ beamline = sim.rml.beamline
 # cpu
 from parameter import ncpu
 
-
 # name for simulation folder
 sim_name = rml_file_name+'_FLUX'
 
