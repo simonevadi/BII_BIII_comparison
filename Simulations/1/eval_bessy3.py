@@ -18,7 +18,7 @@ from helper_lib import scale_undulator_flux, order
 from parameter import energy_rp, energy_flux
 from parameter import SlitSize
 from parameter import rml_file_name_b3 as rml_file_name
-from parameter import colors
+from parameter import colors, grating
 SlitSize = SlitSize*1000
 
 # file/folder/ml index definition
@@ -40,11 +40,11 @@ en_flux_path = os.path.join(flux_simulation_folder, 'input_param_SU_photonEnergy
 energy_flux  = np.loadtxt(en_flux_path)
 
 # load RP simulations results
-folder_name  = flux_simulation_folder
+folder_name  = rp_simulation_folder
 oe           = 'DetectorAtFocus'
-rp_path      = os.path.join(flux_simulation_folder, oe+'_RawRaysOutgoing.dat')
+rp_path      = os.path.join(rp_simulation_folder, oe+'_RawRaysOutgoing.dat')
 rp           = pd.read_csv(rp_path, sep='\t')
-en_rp_path   = os.path.join(flux_simulation_folder, 'input_param_SU_photonEnergy.dat')
+en_rp_path   = os.path.join(rp_simulation_folder, 'input_param_SU_photonEnergy.dat')
 energy_rp    = np.loadtxt(en_rp_path)
 
 
@@ -54,7 +54,7 @@ energy_rp    = np.loadtxt(en_rp_path)
 # plotting Flux and RP
 
 fig, (axs) = plt.subplots(3, 2,figsize=(10,10))
-fig.suptitle("NAP-LEEM, 1200 l/mm grating")
+fig.suptitle(f"{rml_file_name}, {grating[0]} l/mm grating")
 
 
 # MIRROR COATING

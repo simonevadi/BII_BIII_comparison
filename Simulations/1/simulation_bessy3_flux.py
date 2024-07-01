@@ -2,6 +2,7 @@ from raypyng import Simulate
 import numpy as np
 import os
 
+from helper_lib import delete_round_folders
 from parameter import rml_file_name_b3 as rml_file_name
 
 this_file_dir=os.path.dirname(os.path.realpath(__file__))
@@ -63,3 +64,4 @@ sim.exports  =  [{beamline.SU:['RawRaysOutgoing']},
 
 #uncomment to run the simulations
 sim.run(multiprocessing=ncpu, force=False)
+delete_round_folders('RAYPy_Simulation_'+sim_name)

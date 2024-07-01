@@ -45,3 +45,27 @@ def order(unordered):
         for v in range(10):
             ordered.append(unordered[int(i+v*5)])
     return np.array(ordered)
+
+
+import os
+import shutil
+
+def delete_round_folders(directory):
+    # Check if the provided directory exists
+    if not os.path.exists(directory):
+        print(f"Directory not found: {directory}")
+        return
+
+    # Loop through each item in the directory
+    for item in os.listdir(directory):
+        item_path = os.path.join(directory, item)
+        # Check if the item is a directory and matches the 'round*' pattern
+        if os.path.isdir(item_path) and item.startswith("round"):
+            # Remove the directory and all its contents
+            shutil.rmtree(item_path)
+            print(f"Deleted: {item_path}")
+        
+# Example usage:
+# Replace '/path/to/folder' with the path to the directory where you want to delete the subfolders
+# delete_round_folders('/path/to/folder')
+

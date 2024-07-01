@@ -1,36 +1,40 @@
-2024-06-28 09:43:32,077 - INFO - Simulation started, using 7 workers
-2024-06-28 09:43:32,079 - INFO - Start round 0
-2024-06-28 09:43:32,080 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy3_RP/round_0/0_bessy3_RP.rml
-2024-06-28 09:43:32,081 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy3_RP/round_0/1_bessy3_RP.rml
-2024-06-28 09:43:32,083 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy3_RP/round_0/2_bessy3_RP.rml
-2024-06-28 09:43:32,084 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy3_RP/round_0/3_bessy3_RP.rml
-2024-06-28 09:43:32,085 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy3_RP/round_0/4_bessy3_RP.rml
-2024-06-28 09:43:32,086 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy3_RP/round_0/5_bessy3_RP.rml
-2024-06-28 09:43:32,088 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy3_RP/round_0/6_bessy3_RP.rml
-2024-06-28 09:43:32,089 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy3_RP/round_0/7_bessy3_RP.rml
-2024-06-28 09:43:32,090 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy3_RP/round_0/8_bessy3_RP.rml
-2024-06-28 09:43:32,091 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy3_RP/round_0/9_bessy3_RP.rml
-2024-06-28 09:43:32,092 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy3_RP/round_0/10_bessy3_RP.rml
-2024-06-28 09:43:32,094 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy3_RP/round_0/11_bessy3_RP.rml
-2024-06-28 09:43:32,112 - INFO - Waiting for batch number: 0, timeout: 60s
-2024-06-28 09:43:34,714 - INFO - Completed: 1, remaining: 34, RAYPy_Simulation_bessy3_RP/round_0/1_bessy3_RP.rml
-2024-06-28 09:43:35,480 - INFO - Completed: 2, remaining: 33, RAYPy_Simulation_bessy3_RP/round_0/0_bessy3_RP.rml
-2024-06-28 09:43:35,853 - INFO - Completed: 3, remaining: 32, RAYPy_Simulation_bessy3_RP/round_0/2_bessy3_RP.rml
-2024-06-28 09:43:37,625 - INFO - Completed: 4, remaining: 31, RAYPy_Simulation_bessy3_RP/round_0/5_bessy3_RP.rml
-2024-06-28 09:43:38,738 - INFO - Completed: 5, remaining: 30, RAYPy_Simulation_bessy3_RP/round_0/4_bessy3_RP.rml
-2024-06-28 09:43:39,028 - INFO - Completed: 6, remaining: 29, RAYPy_Simulation_bessy3_RP/round_0/3_bessy3_RP.rml
-2024-06-28 09:43:39,098 - INFO - Completed: 7, remaining: 28, RAYPy_Simulation_bessy3_RP/round_0/6_bessy3_RP.rml
-2024-06-28 09:43:39,399 - INFO - Completed: 8, remaining: 27, RAYPy_Simulation_bessy3_RP/round_0/7_bessy3_RP.rml
-2024-06-28 09:43:39,831 - INFO - Completed: 9, remaining: 26, RAYPy_Simulation_bessy3_RP/round_0/9_bessy3_RP.rml
-2024-06-28 09:43:41,032 - INFO - Completed: 10, remaining: 25, RAYPy_Simulation_bessy3_RP/round_0/10_bessy3_RP.rml
-2024-06-28 09:43:41,179 - INFO - Completed: 11, remaining: 24, RAYPy_Simulation_bessy3_RP/round_0/8_bessy3_RP.rml
-2024-06-28 09:43:41,694 - INFO - Completed: 12, remaining: 23, RAYPy_Simulation_bessy3_RP/round_0/11_bessy3_RP.rml
-2024-06-28 09:43:41,694 - INFO - Batch Completed
-2024-06-28 09:43:41,694 - INFO - Waiting For batch, 35 simulations to go
-2024-06-28 09:43:41,694 - INFO - Remaning Simulations 0, stop the simulations loop
-2024-06-28 09:43:41,694 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
-2024-06-28 09:43:41,695 - INFO - Executor shutdown completed.
-2024-06-28 09:43:41,695 - INFO - Simulation completed successfully.
-2024-06-28 09:43:41,696 - INFO - Starting cleanup
-2024-06-28 09:43:41,706 - INFO - Done with the cleanup
-2024-06-28 09:43:41,707 - INFO - Brute force exit
+2024-07-01 10:37:13,765 - INFO - Simulation started, using 30 workers
+2024-07-01 10:37:13,767 - INFO - Start round 0
+2024-07-01 10:37:13,768 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy3_RP/round_0/0_bessy3_RP.rml
+2024-07-01 10:37:13,768 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy3_RP/round_0/1_bessy3_RP.rml
+2024-07-01 10:37:13,769 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy3_RP/round_0/2_bessy3_RP.rml
+2024-07-01 10:37:13,770 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy3_RP/round_0/3_bessy3_RP.rml
+2024-07-01 10:37:13,771 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy3_RP/round_0/4_bessy3_RP.rml
+2024-07-01 10:37:13,772 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy3_RP/round_0/5_bessy3_RP.rml
+2024-07-01 10:37:13,772 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy3_RP/round_0/6_bessy3_RP.rml
+2024-07-01 10:37:13,773 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy3_RP/round_0/7_bessy3_RP.rml
+2024-07-01 10:37:13,801 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-07-01 10:37:14,512 - INFO - Completed: 1, remaining: 149, RAYPy_Simulation_bessy3_RP/round_0/4_bessy3_RP.rml
+2024-07-01 10:37:14,579 - INFO - Completed: 2, remaining: 148, RAYPy_Simulation_bessy3_RP/round_0/1_bessy3_RP.rml
+2024-07-01 10:37:16,567 - INFO - Completed: 3, remaining: 147, RAYPy_Simulation_bessy3_RP/round_0/7_bessy3_RP.rml
+2024-07-01 10:37:18,538 - INFO - Completed: 4, remaining: 146, RAYPy_Simulation_bessy3_RP/round_0/5_bessy3_RP.rml
+2024-07-01 10:37:20,586 - INFO - Completed: 5, remaining: 145, RAYPy_Simulation_bessy3_RP/round_0/6_bessy3_RP.rml
+2024-07-01 10:37:22,612 - INFO - Completed: 6, remaining: 144, RAYPy_Simulation_bessy3_RP/round_0/2_bessy3_RP.rml
+2024-07-01 10:37:22,619 - INFO - Completed: 7, remaining: 143, RAYPy_Simulation_bessy3_RP/round_0/3_bessy3_RP.rml
+2024-07-01 10:37:24,556 - INFO - Completed: 8, remaining: 142, RAYPy_Simulation_bessy3_RP/round_0/0_bessy3_RP.rml
+2024-07-01 10:37:24,556 - INFO - Batch Completed
+2024-07-01 10:37:24,556 - INFO - Waiting For batch, 150 simulations to go
+2024-07-01 10:37:24,556 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-07-01 10:37:24,556 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-07-01 10:37:24,556 - INFO - Executor shutdown completed.
+2024-07-01 10:37:24,556 - INFO - Simulation completed successfully.
+2024-07-01 10:37:24,556 - INFO - Starting cleanup
+2024-07-01 10:37:24,559 - INFO - Done with the cleanup
+2024-07-01 10:37:24,559 - INFO - Brute force exit
+2024-07-01 10:40:10,084 - INFO - Simulation started, using 30 workers
+2024-07-01 10:40:10,086 - INFO - Start round 0
+2024-07-01 10:40:10,086 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-07-01 10:40:10,086 - INFO - Batch Completed
+2024-07-01 10:40:10,086 - INFO - Waiting For batch, 150 simulations to go
+2024-07-01 10:40:10,086 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-07-01 10:40:10,086 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-07-01 10:40:10,086 - INFO - Executor shutdown completed.
+2024-07-01 10:40:10,087 - INFO - Simulation completed successfully.
+2024-07-01 10:40:10,087 - INFO - Starting cleanup
+2024-07-01 10:40:10,088 - INFO - Done with the cleanup
+2024-07-01 10:40:10,088 - INFO - Brute force exit
