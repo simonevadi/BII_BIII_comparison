@@ -5,7 +5,7 @@ rml_file_name_b2= 'bessy2'
 
 
 order       = 1
-SlitSize    = np.array([ .05, .01])
+SlitSize    = np.array([ .05])
 grating     = np.array([2400])
 cff         = np.array([2.25])
 
