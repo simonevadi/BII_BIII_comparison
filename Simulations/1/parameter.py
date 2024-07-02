@@ -5,12 +5,12 @@ rml_file_name_b2= 'bessy2'
 
 
 order       = 1
-SlitSize    = np.array([ .05])
+SlitSize    = np.array([ .05, .01])
 grating     = np.array([2400])
 cff         = np.array([2.25])
 
 energy_flux = np.arange(100, 2001,50)
-energy_rp   = np.arange(100, 2001,500)
+energy_rp   = np.arange(100, 2001,50)
 
 nrays_flux  = 1e5
 nrays_rp    = 1e5
@@ -19,7 +19,7 @@ round_flux = 1
 round_rp   = 1
 
 
-ncpu = 30
+ncpu = 10
 ### plotting colors
 import matplotlib
 import matplotlib.pyplot as plt
