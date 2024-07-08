@@ -1,0 +1,523 @@
+2024-07-08 11:04:32,442 - INFO - Simulation started, using 10 workers
+2024-07-08 11:04:32,446 - INFO - Start round 0
+2024-07-08 11:04:32,456 - INFO - Prepared sim number: 0: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,465 - INFO - Prepared sim number: 1: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/1_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,481 - INFO - Prepared sim number: 2: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/2_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,500 - INFO - Prepared sim number: 3: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/3_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,509 - INFO - Prepared sim number: 4: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/4_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,519 - INFO - Prepared sim number: 5: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/5_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,527 - INFO - Prepared sim number: 6: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/6_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,536 - INFO - Prepared sim number: 7: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/7_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,544 - INFO - Prepared sim number: 8: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/8_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,552 - INFO - Prepared sim number: 9: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/9_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,559 - INFO - Prepared sim number: 10: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/10_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,567 - INFO - Prepared sim number: 11: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/11_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,577 - INFO - Prepared sim number: 12: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/12_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,585 - INFO - Prepared sim number: 13: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/13_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,592 - INFO - Prepared sim number: 14: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/14_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,599 - INFO - Prepared sim number: 15: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/15_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,605 - INFO - Prepared sim number: 16: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/16_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,612 - INFO - Prepared sim number: 17: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/17_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,619 - INFO - Prepared sim number: 18: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/18_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,626 - INFO - Prepared sim number: 19: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/19_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,633 - INFO - Prepared sim number: 20: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/20_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,640 - INFO - Prepared sim number: 21: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/21_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,647 - INFO - Prepared sim number: 22: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/22_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,655 - INFO - Prepared sim number: 23: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/23_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,662 - INFO - Prepared sim number: 24: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/24_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,669 - INFO - Prepared sim number: 25: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/25_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,676 - INFO - Prepared sim number: 26: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/26_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,683 - INFO - Prepared sim number: 27: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/27_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,690 - INFO - Prepared sim number: 28: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/28_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,697 - INFO - Prepared sim number: 29: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/29_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,704 - INFO - Prepared sim number: 30: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/30_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,710 - INFO - Prepared sim number: 31: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/31_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,717 - INFO - Prepared sim number: 32: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/32_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,724 - INFO - Prepared sim number: 33: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/33_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,731 - INFO - Prepared sim number: 34: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/34_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,737 - INFO - Prepared sim number: 35: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/35_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,744 - INFO - Prepared sim number: 36: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/36_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,751 - INFO - Prepared sim number: 37: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/37_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,761 - INFO - Prepared sim number: 38: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/38_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,769 - INFO - Prepared sim number: 39: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/39_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,776 - INFO - Prepared sim number: 40: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/40_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,784 - INFO - Prepared sim number: 41: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/41_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,791 - INFO - Prepared sim number: 42: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/42_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,798 - INFO - Prepared sim number: 43: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/43_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,806 - INFO - Prepared sim number: 44: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/44_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,814 - INFO - Prepared sim number: 45: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/45_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,821 - INFO - Prepared sim number: 46: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/46_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,828 - INFO - Prepared sim number: 47: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/47_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,835 - INFO - Prepared sim number: 48: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/48_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,841 - INFO - Prepared sim number: 49: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/49_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:32,857 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-07-08 11:04:33,956 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/7_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:33,988 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/5_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:34,081 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/1_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:34,153 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/4_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:34,161 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:34,392 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/9_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:35,216 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/10_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:35,344 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/12_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:35,466 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/13_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:35,480 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/11_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:35,483 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/14_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:35,828 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/15_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:36,435 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/8_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:36,438 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/6_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:36,457 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/2_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:36,587 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/3_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:37,074 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/16_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:37,103 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/20_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:37,156 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/17_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:37,219 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/19_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:37,332 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/18_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:37,784 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/21_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:38,236 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/22_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:38,304 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/23_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:38,392 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/25_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:38,483 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/24_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:38,984 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/28_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:39,022 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/27_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:39,207 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/30_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:39,291 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/29_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:39,400 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/26_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:40,193 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/31_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:40,982 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/33_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:41,134 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/34_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:41,260 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/35_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:41,520 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/32_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:41,981 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/37_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:42,201 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/36_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:42,237 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/38_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:42,399 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/40_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:42,528 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/39_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:43,182 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/41_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:43,847 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/42_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,022 - INFO - Completed: 44, remaining: 6, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/43_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,076 - INFO - Completed: 45, remaining: 5, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/44_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,204 - INFO - Completed: 46, remaining: 4, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/45_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,497 - INFO - Completed: 47, remaining: 3, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/46_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,600 - INFO - Completed: 48, remaining: 2, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/47_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,659 - INFO - Completed: 49, remaining: 1, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/49_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,842 - INFO - Completed: 50, remaining: 0, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/48_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,842 - INFO - Batch Completed
+2024-07-08 11:04:44,842 - INFO - Waiting For batch, 50 simulations to go
+2024-07-08 11:04:44,852 - INFO - Prepared sim number: 50: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/50_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,867 - INFO - Prepared sim number: 51: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/51_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,876 - INFO - Prepared sim number: 52: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/52_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,889 - INFO - Prepared sim number: 53: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/53_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,899 - INFO - Prepared sim number: 54: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/54_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,909 - INFO - Prepared sim number: 55: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/55_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,918 - INFO - Prepared sim number: 56: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/56_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,926 - INFO - Prepared sim number: 57: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/57_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,935 - INFO - Prepared sim number: 58: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/58_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,943 - INFO - Prepared sim number: 59: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/59_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,952 - INFO - Prepared sim number: 60: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/60_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,972 - INFO - Prepared sim number: 61: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/61_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,988 - INFO - Prepared sim number: 62: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/62_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:44,998 - INFO - Prepared sim number: 63: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/63_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,007 - INFO - Prepared sim number: 64: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/64_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,015 - INFO - Prepared sim number: 65: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/65_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,023 - INFO - Prepared sim number: 66: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/66_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,031 - INFO - Prepared sim number: 67: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/67_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,039 - INFO - Prepared sim number: 68: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/68_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,051 - INFO - Prepared sim number: 69: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/69_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,063 - INFO - Prepared sim number: 70: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/70_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,074 - INFO - Prepared sim number: 71: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/71_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,086 - INFO - Prepared sim number: 72: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/72_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,097 - INFO - Prepared sim number: 73: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/73_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,109 - INFO - Prepared sim number: 74: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/74_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,120 - INFO - Prepared sim number: 75: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/75_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,132 - INFO - Prepared sim number: 76: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/76_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,144 - INFO - Prepared sim number: 77: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/77_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,156 - INFO - Prepared sim number: 78: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/78_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,169 - INFO - Prepared sim number: 79: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/79_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,181 - INFO - Prepared sim number: 80: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/80_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,192 - INFO - Prepared sim number: 81: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/81_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,204 - INFO - Prepared sim number: 82: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/82_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,216 - INFO - Prepared sim number: 83: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/83_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,228 - INFO - Prepared sim number: 84: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/84_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,240 - INFO - Prepared sim number: 85: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/85_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,249 - INFO - Prepared sim number: 86: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/86_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,257 - INFO - Prepared sim number: 87: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/87_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,265 - INFO - Prepared sim number: 88: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/88_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,272 - INFO - Prepared sim number: 89: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/89_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,280 - INFO - Prepared sim number: 90: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/90_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,288 - INFO - Prepared sim number: 91: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/91_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,297 - INFO - Prepared sim number: 92: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/92_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,305 - INFO - Prepared sim number: 93: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/93_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,313 - INFO - Prepared sim number: 94: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/94_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,321 - INFO - Prepared sim number: 95: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/95_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,328 - INFO - Prepared sim number: 96: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/96_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,336 - INFO - Prepared sim number: 97: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/97_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,345 - INFO - Prepared sim number: 98: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/98_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,353 - INFO - Prepared sim number: 99: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/99_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:45,354 - INFO - Waiting for batch number: 1, timeout: 13.420226612091064s
+2024-07-08 11:04:47,352 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/58_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:47,455 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/52_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:47,564 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/50_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:47,614 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/54_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:47,704 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/57_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:48,093 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/56_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:48,320 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/51_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:50,545 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/53_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:50,710 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/55_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:50,799 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/62_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:50,820 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/60_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:50,958 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/63_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:51,013 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/61_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:51,099 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/59_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:51,120 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/64_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:51,367 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/65_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:51,581 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/66_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:53,754 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/68_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:53,897 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/69_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:53,918 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/71_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:54,125 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/72_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:54,179 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/73_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:54,337 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/67_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:54,518 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/76_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:54,674 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/70_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:54,771 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/75_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:54,892 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/74_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:56,685 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/77_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:56,903 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/79_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:57,009 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/78_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:57,089 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/82_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:57,310 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/80_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:57,423 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/81_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:57,698 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/85_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:57,845 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/84_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:57,883 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/86_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:58,004 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/83_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:58,776 - INFO - Exception during simulation: 13 (of 50) futures unfinished
+2024-07-08 11:04:58,871 - INFO - Found all simulations of the batch, futures missed 13 simulations
+2024-07-08 11:04:58,875 - INFO - Updated progress bar
+2024-07-08 11:04:58,877 - INFO - Batch Completed
+2024-07-08 11:04:58,881 - INFO - Waiting For batch, 50 simulations to go
+2024-07-08 11:04:58,966 - INFO - Prepared sim number: 100: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/100_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,011 - INFO - Prepared sim number: 101: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/101_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,050 - INFO - Prepared sim number: 102: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/102_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,099 - INFO - Prepared sim number: 103: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/103_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,173 - INFO - Prepared sim number: 104: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/104_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,215 - INFO - Prepared sim number: 105: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/105_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,256 - INFO - Prepared sim number: 106: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/106_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,336 - INFO - Prepared sim number: 107: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/107_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,390 - INFO - Prepared sim number: 108: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/108_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,457 - INFO - Prepared sim number: 109: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/109_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,533 - INFO - Prepared sim number: 110: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/110_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,602 - INFO - Prepared sim number: 111: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/111_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,647 - INFO - Prepared sim number: 112: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/112_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,698 - INFO - Prepared sim number: 113: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/113_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,766 - INFO - Prepared sim number: 114: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/114_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,814 - INFO - Prepared sim number: 115: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/115_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,860 - INFO - Prepared sim number: 116: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/116_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,862 - INFO - Start round 1
+2024-07-08 11:04:59,887 - INFO - Prepared sim number: 0: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,915 - INFO - Prepared sim number: 1: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/1_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,940 - INFO - Prepared sim number: 2: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/2_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,967 - INFO - Prepared sim number: 3: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/3_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:04:59,995 - INFO - Prepared sim number: 4: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/4_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,038 - INFO - Prepared sim number: 5: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/5_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,062 - INFO - Prepared sim number: 6: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/6_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,079 - INFO - Prepared sim number: 7: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/7_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,099 - INFO - Prepared sim number: 8: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/8_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,126 - INFO - Prepared sim number: 9: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/9_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,155 - INFO - Prepared sim number: 10: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/10_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,182 - INFO - Prepared sim number: 11: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/11_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,234 - INFO - Prepared sim number: 12: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/12_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,272 - INFO - Prepared sim number: 13: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/13_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,312 - INFO - Prepared sim number: 14: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/14_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,355 - INFO - Prepared sim number: 15: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/15_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,391 - INFO - Prepared sim number: 16: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/16_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,435 - INFO - Prepared sim number: 17: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/17_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,482 - INFO - Prepared sim number: 18: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/18_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,521 - INFO - Prepared sim number: 19: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/19_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,545 - INFO - Prepared sim number: 20: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/20_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,567 - INFO - Prepared sim number: 21: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/21_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,584 - INFO - Prepared sim number: 22: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/22_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,641 - INFO - Prepared sim number: 23: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/23_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,703 - INFO - Prepared sim number: 24: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/24_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,754 - INFO - Prepared sim number: 25: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/25_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,790 - INFO - Prepared sim number: 26: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/26_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,815 - INFO - Prepared sim number: 27: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/27_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,845 - INFO - Prepared sim number: 28: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/28_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,874 - INFO - Prepared sim number: 29: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/29_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,923 - INFO - Prepared sim number: 30: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/30_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,958 - INFO - Prepared sim number: 31: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/31_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,984 - INFO - Prepared sim number: 32: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/32_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:00,986 - INFO - Waiting for batch number: 2, timeout: 16.00623310023341s
+2024-07-08 11:05:03,643 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/102_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:03,858 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/100_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:04,081 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/104_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:04,146 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/103_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:04,310 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/105_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:05,636 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/106_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:06,293 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/101_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:06,419 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/108_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:06,525 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/107_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:06,840 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/109_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:07,186 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/110_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:07,415 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/113_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:07,441 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/111_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:07,464 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/112_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:07,722 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/114_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:08,766 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/115_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:09,508 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/1_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:09,576 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:09,832 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_0/116_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:10,112 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/2_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:10,162 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/3_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:10,562 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/4_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:10,780 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/5_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:10,825 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/6_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:10,987 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/7_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:11,942 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/8_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:12,609 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/10_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:12,754 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/11_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:13,101 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/13_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:13,127 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/9_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:13,214 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/12_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:13,466 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/14_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:13,648 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/16_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:13,902 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/17_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:14,859 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/18_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:15,529 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/19_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:15,607 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/20_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:16,046 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/21_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:16,211 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/22_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:16,498 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/24_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:16,545 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/15_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:16,666 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/23_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:16,766 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/25_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:16,994 - INFO - Exception during simulation: 7 (of 50) futures unfinished
+2024-07-08 11:05:22,032 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:27,037 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:32,118 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:37,161 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:42,214 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:47,221 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:52,240 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:05:57,257 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:02,285 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:07,314 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:12,336 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:17,357 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:22,365 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:27,371 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:32,429 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:37,498 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:42,531 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:47,575 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:52,579 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:06:57,630 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:02,645 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:07,708 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:12,775 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:17,904 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:22,998 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:28,042 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:33,063 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:38,100 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:43,122 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:48,133 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:53,160 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:07:58,234 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:03,276 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:08,321 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:13,413 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:18,426 - INFO - Waiting for file RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/0_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:21,414 - INFO - Simulation started, using 10 workers
+2024-07-08 11:08:21,417 - INFO - Start round 0
+2024-07-08 11:08:21,662 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-07-08 11:08:21,663 - INFO - Batch Completed
+2024-07-08 11:08:21,663 - INFO - Waiting For batch, 50 simulations to go
+2024-07-08 11:08:21,928 - INFO - Waiting for batch number: 1, timeout: 60s
+2024-07-08 11:08:21,928 - INFO - Batch Completed
+2024-07-08 11:08:21,928 - INFO - Waiting For batch, 50 simulations to go
+2024-07-08 11:08:22,053 - INFO - Start round 1
+2024-07-08 11:08:22,082 - INFO - Waiting for batch number: 2, timeout: 60s
+2024-07-08 11:08:22,082 - INFO - Batch Completed
+2024-07-08 11:08:22,082 - INFO - Waiting For batch, 50 simulations to go
+2024-07-08 11:08:22,091 - INFO - Prepared sim number: 33: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/33_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,099 - INFO - Prepared sim number: 34: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/34_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,106 - INFO - Prepared sim number: 35: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/35_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,112 - INFO - Prepared sim number: 36: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/36_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,118 - INFO - Prepared sim number: 37: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/37_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,125 - INFO - Prepared sim number: 38: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/38_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,131 - INFO - Prepared sim number: 39: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/39_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,136 - INFO - Prepared sim number: 40: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/40_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,143 - INFO - Prepared sim number: 41: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/41_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,149 - INFO - Prepared sim number: 42: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/42_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,154 - INFO - Prepared sim number: 43: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/43_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,158 - INFO - Prepared sim number: 44: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/44_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,163 - INFO - Prepared sim number: 45: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/45_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,168 - INFO - Prepared sim number: 46: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/46_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,173 - INFO - Prepared sim number: 47: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/47_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,179 - INFO - Prepared sim number: 48: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/48_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,185 - INFO - Prepared sim number: 49: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/49_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,194 - INFO - Prepared sim number: 50: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/50_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,202 - INFO - Prepared sim number: 51: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/51_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,207 - INFO - Prepared sim number: 52: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/52_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,211 - INFO - Prepared sim number: 53: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/53_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,216 - INFO - Prepared sim number: 54: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/54_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,221 - INFO - Prepared sim number: 55: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/55_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,228 - INFO - Prepared sim number: 56: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/56_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,232 - INFO - Prepared sim number: 57: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/57_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,236 - INFO - Prepared sim number: 58: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/58_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,240 - INFO - Prepared sim number: 59: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/59_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,245 - INFO - Prepared sim number: 60: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/60_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,249 - INFO - Prepared sim number: 61: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/61_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,253 - INFO - Prepared sim number: 62: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/62_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,258 - INFO - Prepared sim number: 63: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/63_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,262 - INFO - Prepared sim number: 64: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/64_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,266 - INFO - Prepared sim number: 65: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/65_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,271 - INFO - Prepared sim number: 66: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/66_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,275 - INFO - Prepared sim number: 67: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/67_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,281 - INFO - Prepared sim number: 68: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/68_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,284 - INFO - Prepared sim number: 69: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/69_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,287 - INFO - Prepared sim number: 70: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/70_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,290 - INFO - Prepared sim number: 71: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/71_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,293 - INFO - Prepared sim number: 72: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/72_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,296 - INFO - Prepared sim number: 73: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/73_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,299 - INFO - Prepared sim number: 74: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/74_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,302 - INFO - Prepared sim number: 75: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/75_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,305 - INFO - Prepared sim number: 76: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/76_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,308 - INFO - Prepared sim number: 77: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/77_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,311 - INFO - Prepared sim number: 78: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/78_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,314 - INFO - Prepared sim number: 79: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/79_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,317 - INFO - Prepared sim number: 80: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/80_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,320 - INFO - Prepared sim number: 81: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/81_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,323 - INFO - Prepared sim number: 82: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/82_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:22,340 - INFO - Waiting for batch number: 3, timeout: 60s
+2024-07-08 11:08:23,729 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/41_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:23,740 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/38_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:23,757 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/33_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:23,771 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/42_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:23,845 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/39_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:23,928 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/35_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:24,024 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/40_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:24,034 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/34_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:24,471 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/36_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:25,278 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/47_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:25,339 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/46_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:25,409 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/45_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:25,471 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/44_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:25,506 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/43_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:25,571 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/48_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:25,614 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/50_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:25,700 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/49_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:26,158 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/37_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:26,283 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/51_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:27,087 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/52_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:27,148 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/53_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:27,248 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/54_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:27,271 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/55_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:27,469 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/58_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:27,535 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/59_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:27,569 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/56_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:27,578 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/57_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:28,561 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/61_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:28,865 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/60_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:29,718 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/62_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:29,826 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/63_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:30,072 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/65_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:30,183 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/64_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:30,482 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/67_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:30,563 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/69_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:30,631 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/68_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:30,656 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/66_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:31,508 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/70_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:31,872 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/71_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:32,598 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/72_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:32,836 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/73_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:33,049 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/74_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:33,251 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/75_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:33,637 - INFO - Completed: 44, remaining: 6, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/78_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:33,748 - INFO - Completed: 45, remaining: 5, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/79_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:33,887 - INFO - Completed: 46, remaining: 4, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/77_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,040 - INFO - Completed: 47, remaining: 3, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/76_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,293 - INFO - Completed: 48, remaining: 2, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/80_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,401 - INFO - Completed: 49, remaining: 1, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/81_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,720 - INFO - Completed: 50, remaining: 0, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/82_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,720 - INFO - Batch Completed
+2024-07-08 11:08:34,721 - INFO - Waiting For batch, 50 simulations to go
+2024-07-08 11:08:34,727 - INFO - Prepared sim number: 83: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/83_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,735 - INFO - Prepared sim number: 84: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/84_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,745 - INFO - Prepared sim number: 85: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/85_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,752 - INFO - Prepared sim number: 86: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/86_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,761 - INFO - Prepared sim number: 87: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/87_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,769 - INFO - Prepared sim number: 88: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/88_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,776 - INFO - Prepared sim number: 89: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/89_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,783 - INFO - Prepared sim number: 90: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/90_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,788 - INFO - Prepared sim number: 91: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/91_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,793 - INFO - Prepared sim number: 92: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/92_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,798 - INFO - Prepared sim number: 93: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/93_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,804 - INFO - Prepared sim number: 94: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/94_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,809 - INFO - Prepared sim number: 95: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/95_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,815 - INFO - Prepared sim number: 96: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/96_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,820 - INFO - Prepared sim number: 97: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/97_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,825 - INFO - Prepared sim number: 98: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/98_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,830 - INFO - Prepared sim number: 99: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/99_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,836 - INFO - Prepared sim number: 100: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/100_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,841 - INFO - Prepared sim number: 101: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/101_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,846 - INFO - Prepared sim number: 102: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/102_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,851 - INFO - Prepared sim number: 103: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/103_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,856 - INFO - Prepared sim number: 104: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/104_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,859 - INFO - Prepared sim number: 105: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/105_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,863 - INFO - Prepared sim number: 106: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/106_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,866 - INFO - Prepared sim number: 107: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/107_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,870 - INFO - Prepared sim number: 108: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/108_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,873 - INFO - Prepared sim number: 109: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/109_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,877 - INFO - Prepared sim number: 110: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/110_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,880 - INFO - Prepared sim number: 111: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/111_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,884 - INFO - Prepared sim number: 112: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/112_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,888 - INFO - Prepared sim number: 113: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/113_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,892 - INFO - Prepared sim number: 114: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/114_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,896 - INFO - Prepared sim number: 115: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/115_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,900 - INFO - Prepared sim number: 116: RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/116_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:34,901 - INFO - Waiting for batch number: 4, timeout: 13.7309122467041s
+2024-07-08 11:08:36,589 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/83_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:36,714 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/89_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:36,720 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/91_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:36,837 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/84_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:36,885 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/88_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:37,069 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/85_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,234 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/93_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,292 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/96_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,531 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/95_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,600 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/90_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,667 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/87_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,770 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/98_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,854 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/86_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,899 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/94_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:39,981 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/92_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:40,303 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/97_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:42,476 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/99_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:42,502 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/102_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:42,779 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/104_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:42,911 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/103_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:42,963 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/101_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:43,085 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/100_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:43,187 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/105_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:43,201 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/107_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:43,341 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/106_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:43,624 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/108_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:45,378 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/109_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:45,660 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/110_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:45,979 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/112_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:46,272 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/115_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:46,301 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/113_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:46,455 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/111_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:46,509 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/116_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:46,669 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_Bessy2_HiBeta_short_RP/round_1/114_Bessy2_HiBeta_short_RP.rml
+2024-07-08 11:08:46,670 - INFO - Batch Completed
+2024-07-08 11:08:46,671 - INFO - Waiting For batch, 50 simulations to go
+2024-07-08 11:08:46,671 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-07-08 11:08:46,671 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-07-08 11:08:46,948 - INFO - Executor shutdown completed.
+2024-07-08 11:08:46,949 - INFO - Simulation completed successfully.
+2024-07-08 11:08:46,953 - INFO - Starting cleanup
+2024-07-08 11:08:47,636 - INFO - Done with the cleanup
+2024-07-08 11:08:47,636 - INFO - End of the Simulations

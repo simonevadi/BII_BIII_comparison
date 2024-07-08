@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib
+# import matplotlib
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -17,7 +17,7 @@ from helper_lib import scale_undulator_flux, order
 # import simulation parameters
 from parameter import energy_rp, energy_flux
 from parameter import SlitSize
-from parameter import rml_file_name_b3 as rml_file_name
+from parameter import rml_file_name_bessy2_HiBeta_short as rml_file_name
 from parameter import colors, grating
 SlitSize = SlitSize*1000
 
