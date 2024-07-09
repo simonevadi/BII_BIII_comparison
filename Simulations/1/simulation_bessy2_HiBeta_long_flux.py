@@ -30,7 +30,7 @@ from parameter import SlitSize, cff, nrays_flux as nrays
 params = [  
             {beamline.PG.cFactor:cff}, 
 
-            {beamline.ExitSlit.totalHeight:SlitSize},
+            {beamline.ExitSlit.openingHeight:SlitSize},
             
             {beamline.SU.photonEnergy:energy},
             
@@ -49,7 +49,7 @@ sim.simulation_name = sim_name
 # sim.reflectivity(reflectivity=True)
 
 # repeat the simulations as many time as needed
-sim.repeat = 2#rounds
+sim.repeat = rounds
 
 sim.analyze = False # don't let RAY-UI analyze the results
 sim.raypyng_analysis=True # let raypyng analyze the results

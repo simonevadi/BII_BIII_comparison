@@ -16,11 +16,11 @@ cff         = np.array([2.25])
 energy_flux = np.arange(100, 2001,50)
 energy_rp   = np.arange(100, 2001,50)
 
-nrays_flux  = 1e4
-nrays_rp    = 1e4
+nrays_flux  = 1e5
+nrays_rp    = 1e5
 
-round_flux = 2
-round_rp   = 2
+round_flux = 5
+round_rp   = 5
 
 
 ncpu = 10

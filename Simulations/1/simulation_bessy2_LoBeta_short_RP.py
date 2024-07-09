@@ -30,7 +30,7 @@ from parameter import round_rp as rounds
 params = [  
             {beamline.PG.cFactor:cff}, 
 
-            {beamline.ExitSlit.totalHeight:SlitSize},
+            {beamline.ExitSlit.openingHeight:SlitSize},
             
             {beamline.SU.photonEnergy:energy},
             
