@@ -90,7 +90,7 @@ for ind, es in enumerate(varying_var):
 
 ax.set_xlabel(r'Energy [eV]')
 ax.set_ylabel('Transmission [%]')
-ax.set_title('Available Flux (in transmitted bandwidth)')
+ax.set_title('Available Flux [in transmitted bandwidth]')
 ax.grid(which='both', axis='both')
 ax.legend()
 
@@ -106,7 +106,7 @@ for ind, es in enumerate(varying_var):
 
 ax.set_xlabel('Energy [eV]')
 ax.set_ylabel('Transmitted Bandwidth [meV]')
-ax.set_title('Transmitted bandwidth (tbw)')
+ax.set_title('Transmitted Bandwidth (tbw)')
 ax.grid(which='both', axis='both')
 # ax.set_yscale('log')
 ax.legend()
@@ -139,7 +139,7 @@ for ind, es in enumerate(varying_var):
 
 ax.set_xlabel('Energy [eV]')
 ax.set_ylabel('Focus Size [um]')
-ax.set_title('Horizontal focus')
+ax.set_title('Horizontal Focus')
 ax.legend()
 
 # # VERTICAL FOCUS
@@ -149,7 +149,7 @@ for ind, es in enumerate(varying_var):
 
 ax.set_xlabel('Energy [eV]')
 ax.set_ylabel('Focus Size [um]')
-ax.set_title('Vertical focus')
+ax.set_title('Vertical Focus')
 
 plt.tight_layout()
 plt.savefig('plot/FluxRpFocus'+rml_file_name+'.png')

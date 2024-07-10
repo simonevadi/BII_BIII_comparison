@@ -1,0 +1,16 @@
+Notes B2/B3 Comp.
+
+all Sims @ 1000 eV
+
+1.) Design a long (60 m) and a short (37 m) BL based on the SoTex-BL
+(done)
+
+2.) Simulate B2/B3 long vs. short and vor B2 also mith high and low beta mode 
+(done)
+
+3.) Estimate/determine the max Energy Resolution (ERes) with RayUI at the first glance by Closing the Exit Slit, set reflectivity to 100 % and look at the Beam Properties to see the ERes. Goal: at which slit opening no changes apear anymore
+
+
+4.) Simulate with some other SlitOpenings (near the founded one) the BLs in RayPyNg 
+
+5.) Compare all BLs with the same ERes. Here, the worst of all BLs only can be used. Just change the ExitSlitOpening 
