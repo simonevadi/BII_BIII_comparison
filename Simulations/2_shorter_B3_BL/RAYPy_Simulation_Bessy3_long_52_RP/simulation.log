@@ -1,0 +1,1490 @@
+2024-07-12 11:55:48,511 - INFO - Simulation started, using 12 workers
+2024-07-12 11:55:48,514 - INFO - Start round 0
+2024-07-12 11:55:48,519 - INFO - Prepared sim number: 0: RAYPy_Simulation_Bessy3_long_52_RP/round_0/0_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,525 - INFO - Prepared sim number: 1: RAYPy_Simulation_Bessy3_long_52_RP/round_0/1_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,530 - INFO - Prepared sim number: 2: RAYPy_Simulation_Bessy3_long_52_RP/round_0/2_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,538 - INFO - Prepared sim number: 3: RAYPy_Simulation_Bessy3_long_52_RP/round_0/3_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,546 - INFO - Prepared sim number: 4: RAYPy_Simulation_Bessy3_long_52_RP/round_0/4_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,559 - INFO - Prepared sim number: 5: RAYPy_Simulation_Bessy3_long_52_RP/round_0/5_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,565 - INFO - Prepared sim number: 6: RAYPy_Simulation_Bessy3_long_52_RP/round_0/6_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,572 - INFO - Prepared sim number: 7: RAYPy_Simulation_Bessy3_long_52_RP/round_0/7_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,576 - INFO - Prepared sim number: 8: RAYPy_Simulation_Bessy3_long_52_RP/round_0/8_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,581 - INFO - Prepared sim number: 9: RAYPy_Simulation_Bessy3_long_52_RP/round_0/9_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,586 - INFO - Prepared sim number: 10: RAYPy_Simulation_Bessy3_long_52_RP/round_0/10_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,591 - INFO - Prepared sim number: 11: RAYPy_Simulation_Bessy3_long_52_RP/round_0/11_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,595 - INFO - Prepared sim number: 12: RAYPy_Simulation_Bessy3_long_52_RP/round_0/12_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,599 - INFO - Prepared sim number: 13: RAYPy_Simulation_Bessy3_long_52_RP/round_0/13_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,604 - INFO - Prepared sim number: 14: RAYPy_Simulation_Bessy3_long_52_RP/round_0/14_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,608 - INFO - Prepared sim number: 15: RAYPy_Simulation_Bessy3_long_52_RP/round_0/15_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,612 - INFO - Prepared sim number: 16: RAYPy_Simulation_Bessy3_long_52_RP/round_0/16_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,616 - INFO - Prepared sim number: 17: RAYPy_Simulation_Bessy3_long_52_RP/round_0/17_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,621 - INFO - Prepared sim number: 18: RAYPy_Simulation_Bessy3_long_52_RP/round_0/18_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,625 - INFO - Prepared sim number: 19: RAYPy_Simulation_Bessy3_long_52_RP/round_0/19_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,630 - INFO - Prepared sim number: 20: RAYPy_Simulation_Bessy3_long_52_RP/round_0/20_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,634 - INFO - Prepared sim number: 21: RAYPy_Simulation_Bessy3_long_52_RP/round_0/21_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,640 - INFO - Prepared sim number: 22: RAYPy_Simulation_Bessy3_long_52_RP/round_0/22_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,645 - INFO - Prepared sim number: 23: RAYPy_Simulation_Bessy3_long_52_RP/round_0/23_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,649 - INFO - Prepared sim number: 24: RAYPy_Simulation_Bessy3_long_52_RP/round_0/24_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,654 - INFO - Prepared sim number: 25: RAYPy_Simulation_Bessy3_long_52_RP/round_0/25_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,658 - INFO - Prepared sim number: 26: RAYPy_Simulation_Bessy3_long_52_RP/round_0/26_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,662 - INFO - Prepared sim number: 27: RAYPy_Simulation_Bessy3_long_52_RP/round_0/27_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,667 - INFO - Prepared sim number: 28: RAYPy_Simulation_Bessy3_long_52_RP/round_0/28_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,671 - INFO - Prepared sim number: 29: RAYPy_Simulation_Bessy3_long_52_RP/round_0/29_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,676 - INFO - Prepared sim number: 30: RAYPy_Simulation_Bessy3_long_52_RP/round_0/30_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,680 - INFO - Prepared sim number: 31: RAYPy_Simulation_Bessy3_long_52_RP/round_0/31_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,684 - INFO - Prepared sim number: 32: RAYPy_Simulation_Bessy3_long_52_RP/round_0/32_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,688 - INFO - Prepared sim number: 33: RAYPy_Simulation_Bessy3_long_52_RP/round_0/33_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,693 - INFO - Prepared sim number: 34: RAYPy_Simulation_Bessy3_long_52_RP/round_0/34_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,697 - INFO - Prepared sim number: 35: RAYPy_Simulation_Bessy3_long_52_RP/round_0/35_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,701 - INFO - Prepared sim number: 36: RAYPy_Simulation_Bessy3_long_52_RP/round_0/36_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,705 - INFO - Prepared sim number: 37: RAYPy_Simulation_Bessy3_long_52_RP/round_0/37_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,710 - INFO - Prepared sim number: 38: RAYPy_Simulation_Bessy3_long_52_RP/round_0/38_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,714 - INFO - Prepared sim number: 39: RAYPy_Simulation_Bessy3_long_52_RP/round_0/39_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,719 - INFO - Prepared sim number: 40: RAYPy_Simulation_Bessy3_long_52_RP/round_0/40_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,723 - INFO - Prepared sim number: 41: RAYPy_Simulation_Bessy3_long_52_RP/round_0/41_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,727 - INFO - Prepared sim number: 42: RAYPy_Simulation_Bessy3_long_52_RP/round_0/42_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,731 - INFO - Prepared sim number: 43: RAYPy_Simulation_Bessy3_long_52_RP/round_0/43_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,736 - INFO - Prepared sim number: 44: RAYPy_Simulation_Bessy3_long_52_RP/round_0/44_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,741 - INFO - Prepared sim number: 45: RAYPy_Simulation_Bessy3_long_52_RP/round_0/45_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,745 - INFO - Prepared sim number: 46: RAYPy_Simulation_Bessy3_long_52_RP/round_0/46_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,750 - INFO - Prepared sim number: 47: RAYPy_Simulation_Bessy3_long_52_RP/round_0/47_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,754 - INFO - Prepared sim number: 48: RAYPy_Simulation_Bessy3_long_52_RP/round_0/48_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,758 - INFO - Prepared sim number: 49: RAYPy_Simulation_Bessy3_long_52_RP/round_0/49_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,763 - INFO - Prepared sim number: 50: RAYPy_Simulation_Bessy3_long_52_RP/round_0/50_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,767 - INFO - Prepared sim number: 51: RAYPy_Simulation_Bessy3_long_52_RP/round_0/51_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,771 - INFO - Prepared sim number: 52: RAYPy_Simulation_Bessy3_long_52_RP/round_0/52_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,775 - INFO - Prepared sim number: 53: RAYPy_Simulation_Bessy3_long_52_RP/round_0/53_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,780 - INFO - Prepared sim number: 54: RAYPy_Simulation_Bessy3_long_52_RP/round_0/54_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,784 - INFO - Prepared sim number: 55: RAYPy_Simulation_Bessy3_long_52_RP/round_0/55_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,789 - INFO - Prepared sim number: 56: RAYPy_Simulation_Bessy3_long_52_RP/round_0/56_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,793 - INFO - Prepared sim number: 57: RAYPy_Simulation_Bessy3_long_52_RP/round_0/57_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,797 - INFO - Prepared sim number: 58: RAYPy_Simulation_Bessy3_long_52_RP/round_0/58_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,803 - INFO - Prepared sim number: 59: RAYPy_Simulation_Bessy3_long_52_RP/round_0/59_Bessy3_long_52_RP.rml
+2024-07-12 11:55:48,820 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-07-12 11:55:50,779 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_0/0_Bessy3_long_52_RP.rml
+2024-07-12 11:55:51,015 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_0/3_Bessy3_long_52_RP.rml
+2024-07-12 11:55:51,126 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_0/8_Bessy3_long_52_RP.rml
+2024-07-12 11:55:51,134 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_0/4_Bessy3_long_52_RP.rml
+2024-07-12 11:55:51,291 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_0/6_Bessy3_long_52_RP.rml
+2024-07-12 11:55:51,339 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_0/7_Bessy3_long_52_RP.rml
+2024-07-12 11:55:51,444 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_0/10_Bessy3_long_52_RP.rml
+2024-07-12 11:55:53,327 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_0/1_Bessy3_long_52_RP.rml
+2024-07-12 11:55:53,619 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_0/2_Bessy3_long_52_RP.rml
+2024-07-12 11:55:53,906 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_0/12_Bessy3_long_52_RP.rml
+2024-07-12 11:55:54,046 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_0/11_Bessy3_long_52_RP.rml
+2024-07-12 11:55:54,107 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_0/9_Bessy3_long_52_RP.rml
+2024-07-12 11:55:54,531 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_0/15_Bessy3_long_52_RP.rml
+2024-07-12 11:55:54,537 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_0/14_Bessy3_long_52_RP.rml
+2024-07-12 11:55:54,653 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_0/13_Bessy3_long_52_RP.rml
+2024-07-12 11:55:54,735 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_0/16_Bessy3_long_52_RP.rml
+2024-07-12 11:55:54,763 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_0/17_Bessy3_long_52_RP.rml
+2024-07-12 11:55:54,905 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_0/18_Bessy3_long_52_RP.rml
+2024-07-12 11:55:56,099 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_0/5_Bessy3_long_52_RP.rml
+2024-07-12 11:55:57,311 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_0/19_Bessy3_long_52_RP.rml
+2024-07-12 11:55:58,810 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_0/21_Bessy3_long_52_RP.rml
+2024-07-12 11:55:58,974 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_0/20_Bessy3_long_52_RP.rml
+2024-07-12 11:55:59,317 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_0/23_Bessy3_long_52_RP.rml
+2024-07-12 11:55:59,943 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_0/22_Bessy3_long_52_RP.rml
+2024-07-12 11:56:01,120 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_0/24_Bessy3_long_52_RP.rml
+2024-07-12 11:56:01,271 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_0/26_Bessy3_long_52_RP.rml
+2024-07-12 11:56:01,363 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_0/25_Bessy3_long_52_RP.rml
+2024-07-12 11:56:01,413 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_0/27_Bessy3_long_52_RP.rml
+2024-07-12 11:56:01,604 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_0/28_Bessy3_long_52_RP.rml
+2024-07-12 11:56:01,685 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_0/29_Bessy3_long_52_RP.rml
+2024-07-12 11:56:02,196 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_0/30_Bessy3_long_52_RP.rml
+2024-07-12 11:56:02,568 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_0/31_Bessy3_long_52_RP.rml
+2024-07-12 11:56:04,090 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_0/32_Bessy3_long_52_RP.rml
+2024-07-12 11:56:04,474 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_0/33_Bessy3_long_52_RP.rml
+2024-07-12 11:56:04,788 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_0/34_Bessy3_long_52_RP.rml
+2024-07-12 11:56:05,169 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_0/35_Bessy3_long_52_RP.rml
+2024-07-12 11:56:06,050 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_0/39_Bessy3_long_52_RP.rml
+2024-07-12 11:56:06,175 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_0/40_Bessy3_long_52_RP.rml
+2024-07-12 11:56:07,176 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_0/41_Bessy3_long_52_RP.rml
+2024-07-12 11:56:07,306 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_0/42_Bessy3_long_52_RP.rml
+2024-07-12 11:56:07,623 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_0/37_Bessy3_long_52_RP.rml
+2024-07-12 11:56:07,779 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_0/43_Bessy3_long_52_RP.rml
+2024-07-12 11:56:07,906 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_0/38_Bessy3_long_52_RP.rml
+2024-07-12 11:56:08,109 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_0/36_Bessy3_long_52_RP.rml
+2024-07-12 11:56:08,719 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_0/44_Bessy3_long_52_RP.rml
+2024-07-12 11:56:09,119 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_0/45_Bessy3_long_52_RP.rml
+2024-07-12 11:56:09,600 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_0/46_Bessy3_long_52_RP.rml
+2024-07-12 11:56:09,812 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_0/47_Bessy3_long_52_RP.rml
+2024-07-12 11:56:10,654 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_0/48_Bessy3_long_52_RP.rml
+2024-07-12 11:56:11,362 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_0/49_Bessy3_long_52_RP.rml
+2024-07-12 11:56:12,058 - INFO - Completed: 51, remaining: 9, RAYPy_Simulation_Bessy3_long_52_RP/round_0/50_Bessy3_long_52_RP.rml
+2024-07-12 11:56:12,164 - INFO - Completed: 52, remaining: 8, RAYPy_Simulation_Bessy3_long_52_RP/round_0/51_Bessy3_long_52_RP.rml
+2024-07-12 11:56:12,595 - INFO - Completed: 53, remaining: 7, RAYPy_Simulation_Bessy3_long_52_RP/round_0/53_Bessy3_long_52_RP.rml
+2024-07-12 11:56:12,614 - INFO - Completed: 54, remaining: 6, RAYPy_Simulation_Bessy3_long_52_RP/round_0/52_Bessy3_long_52_RP.rml
+2024-07-12 11:56:12,677 - INFO - Completed: 55, remaining: 5, RAYPy_Simulation_Bessy3_long_52_RP/round_0/54_Bessy3_long_52_RP.rml
+2024-07-12 11:56:12,793 - INFO - Completed: 56, remaining: 4, RAYPy_Simulation_Bessy3_long_52_RP/round_0/55_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,020 - INFO - Completed: 57, remaining: 3, RAYPy_Simulation_Bessy3_long_52_RP/round_0/56_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,227 - INFO - Completed: 58, remaining: 2, RAYPy_Simulation_Bessy3_long_52_RP/round_0/57_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,470 - INFO - Completed: 59, remaining: 1, RAYPy_Simulation_Bessy3_long_52_RP/round_0/58_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,571 - INFO - Completed: 60, remaining: 0, RAYPy_Simulation_Bessy3_long_52_RP/round_0/59_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,571 - INFO - Batch Completed
+2024-07-12 11:56:13,571 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 11:56:13,582 - INFO - Prepared sim number: 60: RAYPy_Simulation_Bessy3_long_52_RP/round_0/60_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,595 - INFO - Prepared sim number: 61: RAYPy_Simulation_Bessy3_long_52_RP/round_0/61_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,605 - INFO - Prepared sim number: 62: RAYPy_Simulation_Bessy3_long_52_RP/round_0/62_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,616 - INFO - Prepared sim number: 63: RAYPy_Simulation_Bessy3_long_52_RP/round_0/63_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,624 - INFO - Prepared sim number: 64: RAYPy_Simulation_Bessy3_long_52_RP/round_0/64_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,633 - INFO - Prepared sim number: 65: RAYPy_Simulation_Bessy3_long_52_RP/round_0/65_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,640 - INFO - Prepared sim number: 66: RAYPy_Simulation_Bessy3_long_52_RP/round_0/66_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,646 - INFO - Prepared sim number: 67: RAYPy_Simulation_Bessy3_long_52_RP/round_0/67_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,653 - INFO - Prepared sim number: 68: RAYPy_Simulation_Bessy3_long_52_RP/round_0/68_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,660 - INFO - Prepared sim number: 69: RAYPy_Simulation_Bessy3_long_52_RP/round_0/69_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,666 - INFO - Prepared sim number: 70: RAYPy_Simulation_Bessy3_long_52_RP/round_0/70_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,672 - INFO - Prepared sim number: 71: RAYPy_Simulation_Bessy3_long_52_RP/round_0/71_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,678 - INFO - Prepared sim number: 72: RAYPy_Simulation_Bessy3_long_52_RP/round_0/72_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,684 - INFO - Prepared sim number: 73: RAYPy_Simulation_Bessy3_long_52_RP/round_0/73_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,691 - INFO - Prepared sim number: 74: RAYPy_Simulation_Bessy3_long_52_RP/round_0/74_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,697 - INFO - Prepared sim number: 75: RAYPy_Simulation_Bessy3_long_52_RP/round_0/75_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,703 - INFO - Prepared sim number: 76: RAYPy_Simulation_Bessy3_long_52_RP/round_0/76_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,709 - INFO - Prepared sim number: 77: RAYPy_Simulation_Bessy3_long_52_RP/round_0/77_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,717 - INFO - Prepared sim number: 78: RAYPy_Simulation_Bessy3_long_52_RP/round_0/78_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,726 - INFO - Prepared sim number: 79: RAYPy_Simulation_Bessy3_long_52_RP/round_0/79_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,732 - INFO - Prepared sim number: 80: RAYPy_Simulation_Bessy3_long_52_RP/round_0/80_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,739 - INFO - Prepared sim number: 81: RAYPy_Simulation_Bessy3_long_52_RP/round_0/81_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,745 - INFO - Prepared sim number: 82: RAYPy_Simulation_Bessy3_long_52_RP/round_0/82_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,751 - INFO - Prepared sim number: 83: RAYPy_Simulation_Bessy3_long_52_RP/round_0/83_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,758 - INFO - Prepared sim number: 84: RAYPy_Simulation_Bessy3_long_52_RP/round_0/84_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,764 - INFO - Prepared sim number: 85: RAYPy_Simulation_Bessy3_long_52_RP/round_0/85_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,770 - INFO - Prepared sim number: 86: RAYPy_Simulation_Bessy3_long_52_RP/round_0/86_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,777 - INFO - Prepared sim number: 87: RAYPy_Simulation_Bessy3_long_52_RP/round_0/87_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,782 - INFO - Prepared sim number: 88: RAYPy_Simulation_Bessy3_long_52_RP/round_0/88_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,789 - INFO - Prepared sim number: 89: RAYPy_Simulation_Bessy3_long_52_RP/round_0/89_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,795 - INFO - Prepared sim number: 90: RAYPy_Simulation_Bessy3_long_52_RP/round_0/90_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,802 - INFO - Prepared sim number: 91: RAYPy_Simulation_Bessy3_long_52_RP/round_0/91_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,807 - INFO - Prepared sim number: 92: RAYPy_Simulation_Bessy3_long_52_RP/round_0/92_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,813 - INFO - Prepared sim number: 93: RAYPy_Simulation_Bessy3_long_52_RP/round_0/93_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,819 - INFO - Prepared sim number: 94: RAYPy_Simulation_Bessy3_long_52_RP/round_0/94_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,827 - INFO - Prepared sim number: 95: RAYPy_Simulation_Bessy3_long_52_RP/round_0/95_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,833 - INFO - Prepared sim number: 96: RAYPy_Simulation_Bessy3_long_52_RP/round_0/96_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,839 - INFO - Prepared sim number: 97: RAYPy_Simulation_Bessy3_long_52_RP/round_0/97_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,846 - INFO - Prepared sim number: 98: RAYPy_Simulation_Bessy3_long_52_RP/round_0/98_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,852 - INFO - Prepared sim number: 99: RAYPy_Simulation_Bessy3_long_52_RP/round_0/99_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,858 - INFO - Prepared sim number: 100: RAYPy_Simulation_Bessy3_long_52_RP/round_0/100_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,863 - INFO - Prepared sim number: 101: RAYPy_Simulation_Bessy3_long_52_RP/round_0/101_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,869 - INFO - Prepared sim number: 102: RAYPy_Simulation_Bessy3_long_52_RP/round_0/102_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,874 - INFO - Prepared sim number: 103: RAYPy_Simulation_Bessy3_long_52_RP/round_0/103_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,880 - INFO - Prepared sim number: 104: RAYPy_Simulation_Bessy3_long_52_RP/round_0/104_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,886 - INFO - Prepared sim number: 105: RAYPy_Simulation_Bessy3_long_52_RP/round_0/105_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,892 - INFO - Prepared sim number: 106: RAYPy_Simulation_Bessy3_long_52_RP/round_0/106_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,898 - INFO - Prepared sim number: 107: RAYPy_Simulation_Bessy3_long_52_RP/round_0/107_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,904 - INFO - Prepared sim number: 108: RAYPy_Simulation_Bessy3_long_52_RP/round_0/108_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,909 - INFO - Prepared sim number: 109: RAYPy_Simulation_Bessy3_long_52_RP/round_0/109_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,916 - INFO - Prepared sim number: 110: RAYPy_Simulation_Bessy3_long_52_RP/round_0/110_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,924 - INFO - Prepared sim number: 111: RAYPy_Simulation_Bessy3_long_52_RP/round_0/111_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,931 - INFO - Prepared sim number: 112: RAYPy_Simulation_Bessy3_long_52_RP/round_0/112_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,937 - INFO - Prepared sim number: 113: RAYPy_Simulation_Bessy3_long_52_RP/round_0/113_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,943 - INFO - Prepared sim number: 114: RAYPy_Simulation_Bessy3_long_52_RP/round_0/114_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,949 - INFO - Prepared sim number: 115: RAYPy_Simulation_Bessy3_long_52_RP/round_0/115_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,955 - INFO - Prepared sim number: 116: RAYPy_Simulation_Bessy3_long_52_RP/round_0/116_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,955 - INFO - Start round 1
+2024-07-12 11:56:13,958 - INFO - Prepared sim number: 0: RAYPy_Simulation_Bessy3_long_52_RP/round_1/0_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,960 - INFO - Prepared sim number: 1: RAYPy_Simulation_Bessy3_long_52_RP/round_1/1_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,963 - INFO - Prepared sim number: 2: RAYPy_Simulation_Bessy3_long_52_RP/round_1/2_Bessy3_long_52_RP.rml
+2024-07-12 11:56:13,964 - INFO - Waiting for batch number: 1, timeout: 28.431230044364927s
+2024-07-12 11:56:17,728 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_0/67_Bessy3_long_52_RP.rml
+2024-07-12 11:56:17,933 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_0/70_Bessy3_long_52_RP.rml
+2024-07-12 11:56:18,064 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_0/66_Bessy3_long_52_RP.rml
+2024-07-12 11:56:18,202 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_0/71_Bessy3_long_52_RP.rml
+2024-07-12 11:56:18,281 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_0/60_Bessy3_long_52_RP.rml
+2024-07-12 11:56:18,351 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_0/64_Bessy3_long_52_RP.rml
+2024-07-12 11:56:18,428 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_0/65_Bessy3_long_52_RP.rml
+2024-07-12 11:56:18,646 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_0/62_Bessy3_long_52_RP.rml
+2024-07-12 11:56:20,516 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_0/61_Bessy3_long_52_RP.rml
+2024-07-12 11:56:20,677 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_0/68_Bessy3_long_52_RP.rml
+2024-07-12 11:56:20,731 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_0/63_Bessy3_long_52_RP.rml
+2024-07-12 11:56:22,286 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_0/72_Bessy3_long_52_RP.rml
+2024-07-12 11:56:22,973 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_0/78_Bessy3_long_52_RP.rml
+2024-07-12 11:56:23,011 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_0/74_Bessy3_long_52_RP.rml
+2024-07-12 11:56:23,261 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_0/73_Bessy3_long_52_RP.rml
+2024-07-12 11:56:23,293 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_0/79_Bessy3_long_52_RP.rml
+2024-07-12 11:56:23,939 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_0/75_Bessy3_long_52_RP.rml
+2024-07-12 11:56:24,113 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_0/76_Bessy3_long_52_RP.rml
+2024-07-12 11:56:24,212 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_0/77_Bessy3_long_52_RP.rml
+2024-07-12 11:56:24,213 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_0/69_Bessy3_long_52_RP.rml
+2024-07-12 11:56:24,872 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_0/80_Bessy3_long_52_RP.rml
+2024-07-12 11:56:25,111 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_0/82_Bessy3_long_52_RP.rml
+2024-07-12 11:56:25,404 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_0/81_Bessy3_long_52_RP.rml
+2024-07-12 11:56:26,852 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_0/83_Bessy3_long_52_RP.rml
+2024-07-12 11:56:27,304 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_0/84_Bessy3_long_52_RP.rml
+2024-07-12 11:56:27,366 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_0/85_Bessy3_long_52_RP.rml
+2024-07-12 11:56:27,607 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_0/87_Bessy3_long_52_RP.rml
+2024-07-12 11:56:27,752 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_0/86_Bessy3_long_52_RP.rml
+2024-07-12 11:56:28,503 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_0/90_Bessy3_long_52_RP.rml
+2024-07-12 11:56:28,657 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_0/91_Bessy3_long_52_RP.rml
+2024-07-12 11:56:28,792 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_0/88_Bessy3_long_52_RP.rml
+2024-07-12 11:56:28,877 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_0/89_Bessy3_long_52_RP.rml
+2024-07-12 11:56:29,566 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_0/93_Bessy3_long_52_RP.rml
+2024-07-12 11:56:29,612 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_0/92_Bessy3_long_52_RP.rml
+2024-07-12 11:56:29,914 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_0/94_Bessy3_long_52_RP.rml
+2024-07-12 11:56:31,341 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_0/95_Bessy3_long_52_RP.rml
+2024-07-12 11:56:32,018 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_0/96_Bessy3_long_52_RP.rml
+2024-07-12 11:56:32,075 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_0/97_Bessy3_long_52_RP.rml
+2024-07-12 11:56:32,211 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_0/98_Bessy3_long_52_RP.rml
+2024-07-12 11:56:32,368 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_0/99_Bessy3_long_52_RP.rml
+2024-07-12 11:56:33,097 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_0/100_Bessy3_long_52_RP.rml
+2024-07-12 11:56:33,207 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_0/101_Bessy3_long_52_RP.rml
+2024-07-12 11:56:33,272 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_0/102_Bessy3_long_52_RP.rml
+2024-07-12 11:56:33,852 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_0/103_Bessy3_long_52_RP.rml
+2024-07-12 11:56:34,176 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_0/104_Bessy3_long_52_RP.rml
+2024-07-12 11:56:34,451 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_0/105_Bessy3_long_52_RP.rml
+2024-07-12 11:56:34,582 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_0/106_Bessy3_long_52_RP.rml
+2024-07-12 11:56:35,876 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_0/107_Bessy3_long_52_RP.rml
+2024-07-12 11:56:36,605 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_0/109_Bessy3_long_52_RP.rml
+2024-07-12 11:56:36,684 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_0/108_Bessy3_long_52_RP.rml
+2024-07-12 11:56:36,879 - INFO - Completed: 51, remaining: 9, RAYPy_Simulation_Bessy3_long_52_RP/round_0/110_Bessy3_long_52_RP.rml
+2024-07-12 11:56:36,950 - INFO - Completed: 52, remaining: 8, RAYPy_Simulation_Bessy3_long_52_RP/round_0/111_Bessy3_long_52_RP.rml
+2024-07-12 11:56:37,532 - INFO - Completed: 53, remaining: 7, RAYPy_Simulation_Bessy3_long_52_RP/round_0/114_Bessy3_long_52_RP.rml
+2024-07-12 11:56:37,581 - INFO - Completed: 54, remaining: 6, RAYPy_Simulation_Bessy3_long_52_RP/round_0/113_Bessy3_long_52_RP.rml
+2024-07-12 11:56:37,829 - INFO - Completed: 55, remaining: 5, RAYPy_Simulation_Bessy3_long_52_RP/round_0/112_Bessy3_long_52_RP.rml
+2024-07-12 11:56:37,873 - INFO - Completed: 56, remaining: 4, RAYPy_Simulation_Bessy3_long_52_RP/round_0/115_Bessy3_long_52_RP.rml
+2024-07-12 11:56:38,171 - INFO - Completed: 57, remaining: 3, RAYPy_Simulation_Bessy3_long_52_RP/round_0/116_Bessy3_long_52_RP.rml
+2024-07-12 11:56:38,402 - INFO - Completed: 58, remaining: 2, RAYPy_Simulation_Bessy3_long_52_RP/round_1/0_Bessy3_long_52_RP.rml
+2024-07-12 11:56:38,515 - INFO - Completed: 59, remaining: 1, RAYPy_Simulation_Bessy3_long_52_RP/round_1/1_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,107 - INFO - Completed: 60, remaining: 0, RAYPy_Simulation_Bessy3_long_52_RP/round_1/2_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,108 - INFO - Batch Completed
+2024-07-12 11:56:39,108 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 11:56:39,111 - INFO - Prepared sim number: 3: RAYPy_Simulation_Bessy3_long_52_RP/round_1/3_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,114 - INFO - Prepared sim number: 4: RAYPy_Simulation_Bessy3_long_52_RP/round_1/4_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,116 - INFO - Prepared sim number: 5: RAYPy_Simulation_Bessy3_long_52_RP/round_1/5_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,120 - INFO - Prepared sim number: 6: RAYPy_Simulation_Bessy3_long_52_RP/round_1/6_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,123 - INFO - Prepared sim number: 7: RAYPy_Simulation_Bessy3_long_52_RP/round_1/7_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,127 - INFO - Prepared sim number: 8: RAYPy_Simulation_Bessy3_long_52_RP/round_1/8_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,132 - INFO - Prepared sim number: 9: RAYPy_Simulation_Bessy3_long_52_RP/round_1/9_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,136 - INFO - Prepared sim number: 10: RAYPy_Simulation_Bessy3_long_52_RP/round_1/10_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,142 - INFO - Prepared sim number: 11: RAYPy_Simulation_Bessy3_long_52_RP/round_1/11_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,148 - INFO - Prepared sim number: 12: RAYPy_Simulation_Bessy3_long_52_RP/round_1/12_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,152 - INFO - Prepared sim number: 13: RAYPy_Simulation_Bessy3_long_52_RP/round_1/13_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,156 - INFO - Prepared sim number: 14: RAYPy_Simulation_Bessy3_long_52_RP/round_1/14_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,159 - INFO - Prepared sim number: 15: RAYPy_Simulation_Bessy3_long_52_RP/round_1/15_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,162 - INFO - Prepared sim number: 16: RAYPy_Simulation_Bessy3_long_52_RP/round_1/16_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,166 - INFO - Prepared sim number: 17: RAYPy_Simulation_Bessy3_long_52_RP/round_1/17_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,169 - INFO - Prepared sim number: 18: RAYPy_Simulation_Bessy3_long_52_RP/round_1/18_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,172 - INFO - Prepared sim number: 19: RAYPy_Simulation_Bessy3_long_52_RP/round_1/19_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,175 - INFO - Prepared sim number: 20: RAYPy_Simulation_Bessy3_long_52_RP/round_1/20_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,178 - INFO - Prepared sim number: 21: RAYPy_Simulation_Bessy3_long_52_RP/round_1/21_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,183 - INFO - Prepared sim number: 22: RAYPy_Simulation_Bessy3_long_52_RP/round_1/22_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,186 - INFO - Prepared sim number: 23: RAYPy_Simulation_Bessy3_long_52_RP/round_1/23_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,189 - INFO - Prepared sim number: 24: RAYPy_Simulation_Bessy3_long_52_RP/round_1/24_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,192 - INFO - Prepared sim number: 25: RAYPy_Simulation_Bessy3_long_52_RP/round_1/25_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,195 - INFO - Prepared sim number: 26: RAYPy_Simulation_Bessy3_long_52_RP/round_1/26_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,199 - INFO - Prepared sim number: 27: RAYPy_Simulation_Bessy3_long_52_RP/round_1/27_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,202 - INFO - Prepared sim number: 28: RAYPy_Simulation_Bessy3_long_52_RP/round_1/28_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,206 - INFO - Prepared sim number: 29: RAYPy_Simulation_Bessy3_long_52_RP/round_1/29_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,209 - INFO - Prepared sim number: 30: RAYPy_Simulation_Bessy3_long_52_RP/round_1/30_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,212 - INFO - Prepared sim number: 31: RAYPy_Simulation_Bessy3_long_52_RP/round_1/31_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,217 - INFO - Prepared sim number: 32: RAYPy_Simulation_Bessy3_long_52_RP/round_1/32_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,220 - INFO - Prepared sim number: 33: RAYPy_Simulation_Bessy3_long_52_RP/round_1/33_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,223 - INFO - Prepared sim number: 34: RAYPy_Simulation_Bessy3_long_52_RP/round_1/34_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,226 - INFO - Prepared sim number: 35: RAYPy_Simulation_Bessy3_long_52_RP/round_1/35_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,230 - INFO - Prepared sim number: 36: RAYPy_Simulation_Bessy3_long_52_RP/round_1/36_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,234 - INFO - Prepared sim number: 37: RAYPy_Simulation_Bessy3_long_52_RP/round_1/37_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,237 - INFO - Prepared sim number: 38: RAYPy_Simulation_Bessy3_long_52_RP/round_1/38_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,241 - INFO - Prepared sim number: 39: RAYPy_Simulation_Bessy3_long_52_RP/round_1/39_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,244 - INFO - Prepared sim number: 40: RAYPy_Simulation_Bessy3_long_52_RP/round_1/40_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,247 - INFO - Prepared sim number: 41: RAYPy_Simulation_Bessy3_long_52_RP/round_1/41_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,250 - INFO - Prepared sim number: 42: RAYPy_Simulation_Bessy3_long_52_RP/round_1/42_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,253 - INFO - Prepared sim number: 43: RAYPy_Simulation_Bessy3_long_52_RP/round_1/43_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,256 - INFO - Prepared sim number: 44: RAYPy_Simulation_Bessy3_long_52_RP/round_1/44_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,258 - INFO - Prepared sim number: 45: RAYPy_Simulation_Bessy3_long_52_RP/round_1/45_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,261 - INFO - Prepared sim number: 46: RAYPy_Simulation_Bessy3_long_52_RP/round_1/46_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,264 - INFO - Prepared sim number: 47: RAYPy_Simulation_Bessy3_long_52_RP/round_1/47_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,268 - INFO - Prepared sim number: 48: RAYPy_Simulation_Bessy3_long_52_RP/round_1/48_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,272 - INFO - Prepared sim number: 49: RAYPy_Simulation_Bessy3_long_52_RP/round_1/49_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,277 - INFO - Prepared sim number: 50: RAYPy_Simulation_Bessy3_long_52_RP/round_1/50_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,281 - INFO - Prepared sim number: 51: RAYPy_Simulation_Bessy3_long_52_RP/round_1/51_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,284 - INFO - Prepared sim number: 52: RAYPy_Simulation_Bessy3_long_52_RP/round_1/52_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,288 - INFO - Prepared sim number: 53: RAYPy_Simulation_Bessy3_long_52_RP/round_1/53_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,291 - INFO - Prepared sim number: 54: RAYPy_Simulation_Bessy3_long_52_RP/round_1/54_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,295 - INFO - Prepared sim number: 55: RAYPy_Simulation_Bessy3_long_52_RP/round_1/55_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,299 - INFO - Prepared sim number: 56: RAYPy_Simulation_Bessy3_long_52_RP/round_1/56_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,302 - INFO - Prepared sim number: 57: RAYPy_Simulation_Bessy3_long_52_RP/round_1/57_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,305 - INFO - Prepared sim number: 58: RAYPy_Simulation_Bessy3_long_52_RP/round_1/58_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,308 - INFO - Prepared sim number: 59: RAYPy_Simulation_Bessy3_long_52_RP/round_1/59_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,312 - INFO - Prepared sim number: 60: RAYPy_Simulation_Bessy3_long_52_RP/round_1/60_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,315 - INFO - Prepared sim number: 61: RAYPy_Simulation_Bessy3_long_52_RP/round_1/61_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,318 - INFO - Prepared sim number: 62: RAYPy_Simulation_Bessy3_long_52_RP/round_1/62_Bessy3_long_52_RP.rml
+2024-07-12 11:56:39,319 - INFO - Waiting for batch number: 2, timeout: 28.4416726231575s
+2024-07-12 11:56:43,490 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_1/11_Bessy3_long_52_RP.rml
+2024-07-12 11:56:43,513 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_1/6_Bessy3_long_52_RP.rml
+2024-07-12 11:56:43,865 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_1/4_Bessy3_long_52_RP.rml
+2024-07-12 11:56:44,113 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_1/7_Bessy3_long_52_RP.rml
+2024-07-12 11:56:44,282 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_1/10_Bessy3_long_52_RP.rml
+2024-07-12 11:56:44,294 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_1/14_Bessy3_long_52_RP.rml
+2024-07-12 11:56:44,447 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_1/12_Bessy3_long_52_RP.rml
+2024-07-12 11:56:44,651 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_1/13_Bessy3_long_52_RP.rml
+2024-07-12 11:56:46,317 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_1/5_Bessy3_long_52_RP.rml
+2024-07-12 11:56:46,448 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_1/3_Bessy3_long_52_RP.rml
+2024-07-12 11:56:46,518 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_1/8_Bessy3_long_52_RP.rml
+2024-07-12 11:56:46,778 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_1/9_Bessy3_long_52_RP.rml
+2024-07-12 11:56:48,813 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_1/15_Bessy3_long_52_RP.rml
+2024-07-12 11:56:48,959 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_1/16_Bessy3_long_52_RP.rml
+2024-07-12 11:56:50,044 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_1/17_Bessy3_long_52_RP.rml
+2024-07-12 11:56:50,426 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_1/20_Bessy3_long_52_RP.rml
+2024-07-12 11:56:50,505 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_1/21_Bessy3_long_52_RP.rml
+2024-07-12 11:56:50,629 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_1/19_Bessy3_long_52_RP.rml
+2024-07-12 11:56:50,801 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_1/22_Bessy3_long_52_RP.rml
+2024-07-12 11:56:51,049 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_1/18_Bessy3_long_52_RP.rml
+2024-07-12 11:56:52,133 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_1/23_Bessy3_long_52_RP.rml
+2024-07-12 11:56:52,263 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_1/24_Bessy3_long_52_RP.rml
+2024-07-12 11:56:52,378 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_1/25_Bessy3_long_52_RP.rml
+2024-07-12 11:56:52,551 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_1/26_Bessy3_long_52_RP.rml
+2024-07-12 11:56:54,188 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_1/27_Bessy3_long_52_RP.rml
+2024-07-12 11:56:54,972 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_1/28_Bessy3_long_52_RP.rml
+2024-07-12 11:56:56,407 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_1/29_Bessy3_long_52_RP.rml
+2024-07-12 11:56:56,577 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_1/30_Bessy3_long_52_RP.rml
+2024-07-12 11:56:56,923 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_1/31_Bessy3_long_52_RP.rml
+2024-07-12 11:56:57,261 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_1/32_Bessy3_long_52_RP.rml
+2024-07-12 11:56:57,368 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_1/33_Bessy3_long_52_RP.rml
+2024-07-12 11:56:57,909 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_1/34_Bessy3_long_52_RP.rml
+2024-07-12 11:56:58,590 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_1/39_Bessy3_long_52_RP.rml
+2024-07-12 11:56:58,932 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_1/35_Bessy3_long_52_RP.rml
+2024-07-12 11:56:59,036 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_1/36_Bessy3_long_52_RP.rml
+2024-07-12 11:56:59,118 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_1/37_Bessy3_long_52_RP.rml
+2024-07-12 11:56:59,226 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_1/38_Bessy3_long_52_RP.rml
+2024-07-12 11:56:59,238 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_1/40_Bessy3_long_52_RP.rml
+2024-07-12 11:57:00,755 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_1/41_Bessy3_long_52_RP.rml
+2024-07-12 11:57:01,575 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_1/43_Bessy3_long_52_RP.rml
+2024-07-12 11:57:01,888 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_1/42_Bessy3_long_52_RP.rml
+2024-07-12 11:57:01,968 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_1/44_Bessy3_long_52_RP.rml
+2024-07-12 11:57:02,128 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_1/45_Bessy3_long_52_RP.rml
+2024-07-12 11:57:02,601 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_1/46_Bessy3_long_52_RP.rml
+2024-07-12 11:57:03,386 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_1/47_Bessy3_long_52_RP.rml
+2024-07-12 11:57:03,889 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_1/48_Bessy3_long_52_RP.rml
+2024-07-12 11:57:04,042 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_1/50_Bessy3_long_52_RP.rml
+2024-07-12 11:57:04,074 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_1/49_Bessy3_long_52_RP.rml
+2024-07-12 11:57:04,332 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_1/52_Bessy3_long_52_RP.rml
+2024-07-12 11:57:04,535 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_1/51_Bessy3_long_52_RP.rml
+2024-07-12 11:57:05,465 - INFO - Completed: 51, remaining: 9, RAYPy_Simulation_Bessy3_long_52_RP/round_1/53_Bessy3_long_52_RP.rml
+2024-07-12 11:57:06,231 - INFO - Completed: 52, remaining: 8, RAYPy_Simulation_Bessy3_long_52_RP/round_1/54_Bessy3_long_52_RP.rml
+2024-07-12 11:57:06,558 - INFO - Completed: 53, remaining: 7, RAYPy_Simulation_Bessy3_long_52_RP/round_1/55_Bessy3_long_52_RP.rml
+2024-07-12 11:57:06,607 - INFO - Completed: 54, remaining: 6, RAYPy_Simulation_Bessy3_long_52_RP/round_1/56_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,097 - INFO - Completed: 55, remaining: 5, RAYPy_Simulation_Bessy3_long_52_RP/round_1/58_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,101 - INFO - Completed: 56, remaining: 4, RAYPy_Simulation_Bessy3_long_52_RP/round_1/57_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,280 - INFO - Completed: 57, remaining: 3, RAYPy_Simulation_Bessy3_long_52_RP/round_1/59_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,627 - INFO - Completed: 58, remaining: 2, RAYPy_Simulation_Bessy3_long_52_RP/round_1/62_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,690 - INFO - Completed: 59, remaining: 1, RAYPy_Simulation_Bessy3_long_52_RP/round_1/61_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,762 - INFO - Exception during simulation: 1 (of 60) futures unfinished
+2024-07-12 11:57:07,778 - INFO - Found all simulations of the batch, futures missed 1 simulations
+2024-07-12 11:57:07,778 - INFO - Updated progress bar
+2024-07-12 11:57:07,779 - INFO - Batch Completed
+2024-07-12 11:57:07,779 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 11:57:07,784 - INFO - Prepared sim number: 63: RAYPy_Simulation_Bessy3_long_52_RP/round_1/63_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,788 - INFO - Prepared sim number: 64: RAYPy_Simulation_Bessy3_long_52_RP/round_1/64_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,795 - INFO - Prepared sim number: 65: RAYPy_Simulation_Bessy3_long_52_RP/round_1/65_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,800 - INFO - Prepared sim number: 66: RAYPy_Simulation_Bessy3_long_52_RP/round_1/66_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,805 - INFO - Prepared sim number: 67: RAYPy_Simulation_Bessy3_long_52_RP/round_1/67_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,809 - INFO - Prepared sim number: 68: RAYPy_Simulation_Bessy3_long_52_RP/round_1/68_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,815 - INFO - Prepared sim number: 69: RAYPy_Simulation_Bessy3_long_52_RP/round_1/69_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,819 - INFO - Prepared sim number: 70: RAYPy_Simulation_Bessy3_long_52_RP/round_1/70_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,824 - INFO - Prepared sim number: 71: RAYPy_Simulation_Bessy3_long_52_RP/round_1/71_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,830 - INFO - Prepared sim number: 72: RAYPy_Simulation_Bessy3_long_52_RP/round_1/72_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,834 - INFO - Prepared sim number: 73: RAYPy_Simulation_Bessy3_long_52_RP/round_1/73_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,839 - INFO - Prepared sim number: 74: RAYPy_Simulation_Bessy3_long_52_RP/round_1/74_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,842 - INFO - Prepared sim number: 75: RAYPy_Simulation_Bessy3_long_52_RP/round_1/75_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,846 - INFO - Prepared sim number: 76: RAYPy_Simulation_Bessy3_long_52_RP/round_1/76_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,849 - INFO - Prepared sim number: 77: RAYPy_Simulation_Bessy3_long_52_RP/round_1/77_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,854 - INFO - Prepared sim number: 78: RAYPy_Simulation_Bessy3_long_52_RP/round_1/78_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,857 - INFO - Prepared sim number: 79: RAYPy_Simulation_Bessy3_long_52_RP/round_1/79_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,861 - INFO - Prepared sim number: 80: RAYPy_Simulation_Bessy3_long_52_RP/round_1/80_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,865 - INFO - Prepared sim number: 81: RAYPy_Simulation_Bessy3_long_52_RP/round_1/81_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,868 - INFO - Prepared sim number: 82: RAYPy_Simulation_Bessy3_long_52_RP/round_1/82_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,872 - INFO - Prepared sim number: 83: RAYPy_Simulation_Bessy3_long_52_RP/round_1/83_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,875 - INFO - Prepared sim number: 84: RAYPy_Simulation_Bessy3_long_52_RP/round_1/84_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,879 - INFO - Prepared sim number: 85: RAYPy_Simulation_Bessy3_long_52_RP/round_1/85_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,882 - INFO - Prepared sim number: 86: RAYPy_Simulation_Bessy3_long_52_RP/round_1/86_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,886 - INFO - Prepared sim number: 87: RAYPy_Simulation_Bessy3_long_52_RP/round_1/87_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,889 - INFO - Prepared sim number: 88: RAYPy_Simulation_Bessy3_long_52_RP/round_1/88_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,892 - INFO - Prepared sim number: 89: RAYPy_Simulation_Bessy3_long_52_RP/round_1/89_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,895 - INFO - Prepared sim number: 90: RAYPy_Simulation_Bessy3_long_52_RP/round_1/90_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,899 - INFO - Prepared sim number: 91: RAYPy_Simulation_Bessy3_long_52_RP/round_1/91_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,902 - INFO - Prepared sim number: 92: RAYPy_Simulation_Bessy3_long_52_RP/round_1/92_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,906 - INFO - Prepared sim number: 93: RAYPy_Simulation_Bessy3_long_52_RP/round_1/93_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,909 - INFO - Prepared sim number: 94: RAYPy_Simulation_Bessy3_long_52_RP/round_1/94_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,912 - INFO - Prepared sim number: 95: RAYPy_Simulation_Bessy3_long_52_RP/round_1/95_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,917 - INFO - Prepared sim number: 96: RAYPy_Simulation_Bessy3_long_52_RP/round_1/96_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,921 - INFO - Prepared sim number: 97: RAYPy_Simulation_Bessy3_long_52_RP/round_1/97_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,924 - INFO - Prepared sim number: 98: RAYPy_Simulation_Bessy3_long_52_RP/round_1/98_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,928 - INFO - Prepared sim number: 99: RAYPy_Simulation_Bessy3_long_52_RP/round_1/99_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,931 - INFO - Prepared sim number: 100: RAYPy_Simulation_Bessy3_long_52_RP/round_1/100_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,934 - INFO - Prepared sim number: 101: RAYPy_Simulation_Bessy3_long_52_RP/round_1/101_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,938 - INFO - Prepared sim number: 102: RAYPy_Simulation_Bessy3_long_52_RP/round_1/102_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,941 - INFO - Prepared sim number: 103: RAYPy_Simulation_Bessy3_long_52_RP/round_1/103_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,944 - INFO - Prepared sim number: 104: RAYPy_Simulation_Bessy3_long_52_RP/round_1/104_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,946 - INFO - Prepared sim number: 105: RAYPy_Simulation_Bessy3_long_52_RP/round_1/105_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,950 - INFO - Prepared sim number: 106: RAYPy_Simulation_Bessy3_long_52_RP/round_1/106_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,953 - INFO - Prepared sim number: 107: RAYPy_Simulation_Bessy3_long_52_RP/round_1/107_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,956 - INFO - Prepared sim number: 108: RAYPy_Simulation_Bessy3_long_52_RP/round_1/108_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,959 - INFO - Prepared sim number: 109: RAYPy_Simulation_Bessy3_long_52_RP/round_1/109_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,962 - INFO - Prepared sim number: 110: RAYPy_Simulation_Bessy3_long_52_RP/round_1/110_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,965 - INFO - Prepared sim number: 111: RAYPy_Simulation_Bessy3_long_52_RP/round_1/111_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,968 - INFO - Prepared sim number: 112: RAYPy_Simulation_Bessy3_long_52_RP/round_1/112_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,971 - INFO - Prepared sim number: 113: RAYPy_Simulation_Bessy3_long_52_RP/round_1/113_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,974 - INFO - Prepared sim number: 114: RAYPy_Simulation_Bessy3_long_52_RP/round_1/114_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,977 - INFO - Prepared sim number: 115: RAYPy_Simulation_Bessy3_long_52_RP/round_1/115_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,980 - INFO - Prepared sim number: 116: RAYPy_Simulation_Bessy3_long_52_RP/round_1/116_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,980 - INFO - Start round 2
+2024-07-12 11:57:07,983 - INFO - Prepared sim number: 0: RAYPy_Simulation_Bessy3_long_52_RP/round_2/0_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,987 - INFO - Prepared sim number: 1: RAYPy_Simulation_Bessy3_long_52_RP/round_2/1_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,989 - INFO - Prepared sim number: 2: RAYPy_Simulation_Bessy3_long_52_RP/round_2/2_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,992 - INFO - Prepared sim number: 3: RAYPy_Simulation_Bessy3_long_52_RP/round_2/3_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,995 - INFO - Prepared sim number: 4: RAYPy_Simulation_Bessy3_long_52_RP/round_2/4_Bessy3_long_52_RP.rml
+2024-07-12 11:57:07,999 - INFO - Prepared sim number: 5: RAYPy_Simulation_Bessy3_long_52_RP/round_2/5_Bessy3_long_52_RP.rml
+2024-07-12 11:57:08,000 - INFO - Waiting for batch number: 3, timeout: 29.878476923404456s
+2024-07-12 11:57:12,512 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_1/71_Bessy3_long_52_RP.rml
+2024-07-12 11:57:12,626 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_1/63_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,049 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_1/68_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,056 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_1/67_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,108 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_1/65_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,246 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_1/64_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,283 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_1/70_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,369 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_1/74_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,452 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_1/69_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,474 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_1/73_Bessy3_long_52_RP.rml
+2024-07-12 11:57:13,968 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_1/66_Bessy3_long_52_RP.rml
+2024-07-12 11:57:15,242 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_1/72_Bessy3_long_52_RP.rml
+2024-07-12 11:57:17,592 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_1/76_Bessy3_long_52_RP.rml
+2024-07-12 11:57:17,825 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_1/75_Bessy3_long_52_RP.rml
+2024-07-12 11:57:17,868 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_1/80_Bessy3_long_52_RP.rml
+2024-07-12 11:57:17,973 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_1/78_Bessy3_long_52_RP.rml
+2024-07-12 11:57:18,014 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_1/79_Bessy3_long_52_RP.rml
+2024-07-12 11:57:18,057 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_1/81_Bessy3_long_52_RP.rml
+2024-07-12 11:57:18,240 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_1/84_Bessy3_long_52_RP.rml
+2024-07-12 11:57:18,258 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_1/83_Bessy3_long_52_RP.rml
+2024-07-12 11:57:18,400 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_1/82_Bessy3_long_52_RP.rml
+2024-07-12 11:57:18,538 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_1/85_Bessy3_long_52_RP.rml
+2024-07-12 11:57:18,719 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_1/77_Bessy3_long_52_RP.rml
+2024-07-12 11:57:20,016 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_1/86_Bessy3_long_52_RP.rml
+2024-07-12 11:57:22,204 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_1/87_Bessy3_long_52_RP.rml
+2024-07-12 11:57:22,430 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_1/90_Bessy3_long_52_RP.rml
+2024-07-12 11:57:22,631 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_1/89_Bessy3_long_52_RP.rml
+2024-07-12 11:57:22,824 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_1/88_Bessy3_long_52_RP.rml
+2024-07-12 11:57:22,914 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_1/92_Bessy3_long_52_RP.rml
+2024-07-12 11:57:23,025 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_1/91_Bessy3_long_52_RP.rml
+2024-07-12 11:57:23,182 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_1/95_Bessy3_long_52_RP.rml
+2024-07-12 11:57:23,259 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_1/93_Bessy3_long_52_RP.rml
+2024-07-12 11:57:23,276 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_1/96_Bessy3_long_52_RP.rml
+2024-07-12 11:57:23,315 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_1/97_Bessy3_long_52_RP.rml
+2024-07-12 11:57:23,605 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_1/94_Bessy3_long_52_RP.rml
+2024-07-12 11:57:24,567 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_1/98_Bessy3_long_52_RP.rml
+2024-07-12 11:57:26,639 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_1/100_Bessy3_long_52_RP.rml
+2024-07-12 11:57:26,741 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_1/99_Bessy3_long_52_RP.rml
+2024-07-12 11:57:27,174 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_1/101_Bessy3_long_52_RP.rml
+2024-07-12 11:57:27,342 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_1/103_Bessy3_long_52_RP.rml
+2024-07-12 11:57:27,446 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_1/104_Bessy3_long_52_RP.rml
+2024-07-12 11:57:27,479 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_1/105_Bessy3_long_52_RP.rml
+2024-07-12 11:57:27,594 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_1/102_Bessy3_long_52_RP.rml
+2024-07-12 11:57:27,746 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_1/108_Bessy3_long_52_RP.rml
+2024-07-12 11:57:27,847 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_1/107_Bessy3_long_52_RP.rml
+2024-07-12 11:57:27,957 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_1/109_Bessy3_long_52_RP.rml
+2024-07-12 11:57:28,282 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_1/106_Bessy3_long_52_RP.rml
+2024-07-12 11:57:29,036 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_1/110_Bessy3_long_52_RP.rml
+2024-07-12 11:57:31,027 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_1/111_Bessy3_long_52_RP.rml
+2024-07-12 11:57:31,130 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_1/112_Bessy3_long_52_RP.rml
+2024-07-12 11:57:31,539 - INFO - Completed: 51, remaining: 9, RAYPy_Simulation_Bessy3_long_52_RP/round_1/113_Bessy3_long_52_RP.rml
+2024-07-12 11:57:31,844 - INFO - Completed: 52, remaining: 8, RAYPy_Simulation_Bessy3_long_52_RP/round_1/116_Bessy3_long_52_RP.rml
+2024-07-12 11:57:31,933 - INFO - Completed: 53, remaining: 7, RAYPy_Simulation_Bessy3_long_52_RP/round_1/115_Bessy3_long_52_RP.rml
+2024-07-12 11:57:32,004 - INFO - Completed: 54, remaining: 6, RAYPy_Simulation_Bessy3_long_52_RP/round_1/114_Bessy3_long_52_RP.rml
+2024-07-12 11:57:32,381 - INFO - Completed: 55, remaining: 5, RAYPy_Simulation_Bessy3_long_52_RP/round_2/1_Bessy3_long_52_RP.rml
+2024-07-12 11:57:32,455 - INFO - Completed: 56, remaining: 4, RAYPy_Simulation_Bessy3_long_52_RP/round_2/2_Bessy3_long_52_RP.rml
+2024-07-12 11:57:32,485 - INFO - Completed: 57, remaining: 3, RAYPy_Simulation_Bessy3_long_52_RP/round_2/0_Bessy3_long_52_RP.rml
+2024-07-12 11:57:32,608 - INFO - Completed: 58, remaining: 2, RAYPy_Simulation_Bessy3_long_52_RP/round_2/3_Bessy3_long_52_RP.rml
+2024-07-12 11:57:32,963 - INFO - Completed: 59, remaining: 1, RAYPy_Simulation_Bessy3_long_52_RP/round_2/4_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,092 - INFO - Completed: 60, remaining: 0, RAYPy_Simulation_Bessy3_long_52_RP/round_2/5_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,092 - INFO - Batch Completed
+2024-07-12 11:57:33,092 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 11:57:33,097 - INFO - Prepared sim number: 6: RAYPy_Simulation_Bessy3_long_52_RP/round_2/6_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,101 - INFO - Prepared sim number: 7: RAYPy_Simulation_Bessy3_long_52_RP/round_2/7_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,106 - INFO - Prepared sim number: 8: RAYPy_Simulation_Bessy3_long_52_RP/round_2/8_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,116 - INFO - Prepared sim number: 9: RAYPy_Simulation_Bessy3_long_52_RP/round_2/9_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,120 - INFO - Prepared sim number: 10: RAYPy_Simulation_Bessy3_long_52_RP/round_2/10_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,125 - INFO - Prepared sim number: 11: RAYPy_Simulation_Bessy3_long_52_RP/round_2/11_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,129 - INFO - Prepared sim number: 12: RAYPy_Simulation_Bessy3_long_52_RP/round_2/12_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,134 - INFO - Prepared sim number: 13: RAYPy_Simulation_Bessy3_long_52_RP/round_2/13_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,141 - INFO - Prepared sim number: 14: RAYPy_Simulation_Bessy3_long_52_RP/round_2/14_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,145 - INFO - Prepared sim number: 15: RAYPy_Simulation_Bessy3_long_52_RP/round_2/15_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,149 - INFO - Prepared sim number: 16: RAYPy_Simulation_Bessy3_long_52_RP/round_2/16_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,154 - INFO - Prepared sim number: 17: RAYPy_Simulation_Bessy3_long_52_RP/round_2/17_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,158 - INFO - Prepared sim number: 18: RAYPy_Simulation_Bessy3_long_52_RP/round_2/18_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,161 - INFO - Prepared sim number: 19: RAYPy_Simulation_Bessy3_long_52_RP/round_2/19_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,165 - INFO - Prepared sim number: 20: RAYPy_Simulation_Bessy3_long_52_RP/round_2/20_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,169 - INFO - Prepared sim number: 21: RAYPy_Simulation_Bessy3_long_52_RP/round_2/21_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,173 - INFO - Prepared sim number: 22: RAYPy_Simulation_Bessy3_long_52_RP/round_2/22_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,176 - INFO - Prepared sim number: 23: RAYPy_Simulation_Bessy3_long_52_RP/round_2/23_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,180 - INFO - Prepared sim number: 24: RAYPy_Simulation_Bessy3_long_52_RP/round_2/24_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,184 - INFO - Prepared sim number: 25: RAYPy_Simulation_Bessy3_long_52_RP/round_2/25_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,187 - INFO - Prepared sim number: 26: RAYPy_Simulation_Bessy3_long_52_RP/round_2/26_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,191 - INFO - Prepared sim number: 27: RAYPy_Simulation_Bessy3_long_52_RP/round_2/27_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,195 - INFO - Prepared sim number: 28: RAYPy_Simulation_Bessy3_long_52_RP/round_2/28_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,199 - INFO - Prepared sim number: 29: RAYPy_Simulation_Bessy3_long_52_RP/round_2/29_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,203 - INFO - Prepared sim number: 30: RAYPy_Simulation_Bessy3_long_52_RP/round_2/30_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,206 - INFO - Prepared sim number: 31: RAYPy_Simulation_Bessy3_long_52_RP/round_2/31_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,210 - INFO - Prepared sim number: 32: RAYPy_Simulation_Bessy3_long_52_RP/round_2/32_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,213 - INFO - Prepared sim number: 33: RAYPy_Simulation_Bessy3_long_52_RP/round_2/33_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,217 - INFO - Prepared sim number: 34: RAYPy_Simulation_Bessy3_long_52_RP/round_2/34_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,220 - INFO - Prepared sim number: 35: RAYPy_Simulation_Bessy3_long_52_RP/round_2/35_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,224 - INFO - Prepared sim number: 36: RAYPy_Simulation_Bessy3_long_52_RP/round_2/36_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,227 - INFO - Prepared sim number: 37: RAYPy_Simulation_Bessy3_long_52_RP/round_2/37_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,231 - INFO - Prepared sim number: 38: RAYPy_Simulation_Bessy3_long_52_RP/round_2/38_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,235 - INFO - Prepared sim number: 39: RAYPy_Simulation_Bessy3_long_52_RP/round_2/39_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,238 - INFO - Prepared sim number: 40: RAYPy_Simulation_Bessy3_long_52_RP/round_2/40_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,242 - INFO - Prepared sim number: 41: RAYPy_Simulation_Bessy3_long_52_RP/round_2/41_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,246 - INFO - Prepared sim number: 42: RAYPy_Simulation_Bessy3_long_52_RP/round_2/42_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,249 - INFO - Prepared sim number: 43: RAYPy_Simulation_Bessy3_long_52_RP/round_2/43_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,252 - INFO - Prepared sim number: 44: RAYPy_Simulation_Bessy3_long_52_RP/round_2/44_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,255 - INFO - Prepared sim number: 45: RAYPy_Simulation_Bessy3_long_52_RP/round_2/45_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,258 - INFO - Prepared sim number: 46: RAYPy_Simulation_Bessy3_long_52_RP/round_2/46_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,261 - INFO - Prepared sim number: 47: RAYPy_Simulation_Bessy3_long_52_RP/round_2/47_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,264 - INFO - Prepared sim number: 48: RAYPy_Simulation_Bessy3_long_52_RP/round_2/48_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,267 - INFO - Prepared sim number: 49: RAYPy_Simulation_Bessy3_long_52_RP/round_2/49_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,270 - INFO - Prepared sim number: 50: RAYPy_Simulation_Bessy3_long_52_RP/round_2/50_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,274 - INFO - Prepared sim number: 51: RAYPy_Simulation_Bessy3_long_52_RP/round_2/51_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,276 - INFO - Prepared sim number: 52: RAYPy_Simulation_Bessy3_long_52_RP/round_2/52_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,279 - INFO - Prepared sim number: 53: RAYPy_Simulation_Bessy3_long_52_RP/round_2/53_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,282 - INFO - Prepared sim number: 54: RAYPy_Simulation_Bessy3_long_52_RP/round_2/54_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,285 - INFO - Prepared sim number: 55: RAYPy_Simulation_Bessy3_long_52_RP/round_2/55_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,289 - INFO - Prepared sim number: 56: RAYPy_Simulation_Bessy3_long_52_RP/round_2/56_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,293 - INFO - Prepared sim number: 57: RAYPy_Simulation_Bessy3_long_52_RP/round_2/57_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,297 - INFO - Prepared sim number: 58: RAYPy_Simulation_Bessy3_long_52_RP/round_2/58_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,300 - INFO - Prepared sim number: 59: RAYPy_Simulation_Bessy3_long_52_RP/round_2/59_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,303 - INFO - Prepared sim number: 60: RAYPy_Simulation_Bessy3_long_52_RP/round_2/60_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,306 - INFO - Prepared sim number: 61: RAYPy_Simulation_Bessy3_long_52_RP/round_2/61_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,310 - INFO - Prepared sim number: 62: RAYPy_Simulation_Bessy3_long_52_RP/round_2/62_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,313 - INFO - Prepared sim number: 63: RAYPy_Simulation_Bessy3_long_52_RP/round_2/63_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,316 - INFO - Prepared sim number: 64: RAYPy_Simulation_Bessy3_long_52_RP/round_2/64_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,319 - INFO - Prepared sim number: 65: RAYPy_Simulation_Bessy3_long_52_RP/round_2/65_Bessy3_long_52_RP.rml
+2024-07-12 11:57:33,324 - INFO - Waiting for batch number: 4, timeout: 29.643311265123437s
+2024-07-12 11:57:37,680 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_2/7_Bessy3_long_52_RP.rml
+2024-07-12 11:57:37,915 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_2/8_Bessy3_long_52_RP.rml
+2024-07-12 11:57:38,042 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_2/9_Bessy3_long_52_RP.rml
+2024-07-12 11:57:38,216 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_2/10_Bessy3_long_52_RP.rml
+2024-07-12 11:57:38,399 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_2/13_Bessy3_long_52_RP.rml
+2024-07-12 11:57:38,431 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_2/15_Bessy3_long_52_RP.rml
+2024-07-12 11:57:38,541 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_2/6_Bessy3_long_52_RP.rml
+2024-07-12 11:57:38,686 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_2/16_Bessy3_long_52_RP.rml
+2024-07-12 11:57:40,356 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_2/12_Bessy3_long_52_RP.rml
+2024-07-12 11:57:40,609 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_2/11_Bessy3_long_52_RP.rml
+2024-07-12 11:57:40,713 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_2/14_Bessy3_long_52_RP.rml
+2024-07-12 11:57:40,820 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_2/17_Bessy3_long_52_RP.rml
+2024-07-12 11:57:43,314 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_2/20_Bessy3_long_52_RP.rml
+2024-07-12 11:57:43,935 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_2/19_Bessy3_long_52_RP.rml
+2024-07-12 11:57:44,691 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_2/21_Bessy3_long_52_RP.rml
+2024-07-12 11:57:44,904 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_2/18_Bessy3_long_52_RP.rml
+2024-07-12 11:57:45,201 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_2/23_Bessy3_long_52_RP.rml
+2024-07-12 11:57:45,264 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_2/22_Bessy3_long_52_RP.rml
+2024-07-12 11:57:45,515 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_2/25_Bessy3_long_52_RP.rml
+2024-07-12 11:57:45,661 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_2/24_Bessy3_long_52_RP.rml
+2024-07-12 11:57:46,459 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_2/26_Bessy3_long_52_RP.rml
+2024-07-12 11:57:46,632 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_2/27_Bessy3_long_52_RP.rml
+2024-07-12 11:57:46,735 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_2/29_Bessy3_long_52_RP.rml
+2024-07-12 11:57:46,807 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_2/28_Bessy3_long_52_RP.rml
+2024-07-12 11:57:48,607 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_2/30_Bessy3_long_52_RP.rml
+2024-07-12 11:57:50,254 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_2/31_Bessy3_long_52_RP.rml
+2024-07-12 11:57:50,823 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_2/33_Bessy3_long_52_RP.rml
+2024-07-12 11:57:51,060 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_2/32_Bessy3_long_52_RP.rml
+2024-07-12 11:57:51,283 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_2/39_Bessy3_long_52_RP.rml
+2024-07-12 11:57:51,427 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_2/41_Bessy3_long_52_RP.rml
+2024-07-12 11:57:51,789 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_2/40_Bessy3_long_52_RP.rml
+2024-07-12 11:57:52,137 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_2/35_Bessy3_long_52_RP.rml
+2024-07-12 11:57:52,238 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_2/34_Bessy3_long_52_RP.rml
+2024-07-12 11:57:52,265 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_2/36_Bessy3_long_52_RP.rml
+2024-07-12 11:57:52,454 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_2/37_Bessy3_long_52_RP.rml
+2024-07-12 11:57:52,795 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_2/38_Bessy3_long_52_RP.rml
+2024-07-12 11:57:52,838 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_2/42_Bessy3_long_52_RP.rml
+2024-07-12 11:57:55,457 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_2/43_Bessy3_long_52_RP.rml
+2024-07-12 11:57:55,550 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_2/44_Bessy3_long_52_RP.rml
+2024-07-12 11:57:55,618 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_2/45_Bessy3_long_52_RP.rml
+2024-07-12 11:57:55,999 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_2/47_Bessy3_long_52_RP.rml
+2024-07-12 11:57:56,143 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_2/46_Bessy3_long_52_RP.rml
+2024-07-12 11:57:56,393 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_2/48_Bessy3_long_52_RP.rml
+2024-07-12 11:57:56,732 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_2/49_Bessy3_long_52_RP.rml
+2024-07-12 11:57:57,142 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_2/51_Bessy3_long_52_RP.rml
+2024-07-12 11:57:57,286 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_2/50_Bessy3_long_52_RP.rml
+2024-07-12 11:57:57,507 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_2/52_Bessy3_long_52_RP.rml
+2024-07-12 11:57:57,844 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_2/53_Bessy3_long_52_RP.rml
+2024-07-12 11:57:57,949 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_2/54_Bessy3_long_52_RP.rml
+2024-07-12 11:58:00,391 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_2/56_Bessy3_long_52_RP.rml
+2024-07-12 11:58:00,429 - INFO - Completed: 51, remaining: 9, RAYPy_Simulation_Bessy3_long_52_RP/round_2/57_Bessy3_long_52_RP.rml
+2024-07-12 11:58:00,793 - INFO - Completed: 52, remaining: 8, RAYPy_Simulation_Bessy3_long_52_RP/round_2/58_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,098 - INFO - Completed: 53, remaining: 7, RAYPy_Simulation_Bessy3_long_52_RP/round_2/59_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,129 - INFO - Completed: 54, remaining: 6, RAYPy_Simulation_Bessy3_long_52_RP/round_2/60_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,157 - INFO - Completed: 55, remaining: 5, RAYPy_Simulation_Bessy3_long_52_RP/round_2/55_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,396 - INFO - Completed: 56, remaining: 4, RAYPy_Simulation_Bessy3_long_52_RP/round_2/61_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,618 - INFO - Completed: 57, remaining: 3, RAYPy_Simulation_Bessy3_long_52_RP/round_2/63_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,644 - INFO - Completed: 58, remaining: 2, RAYPy_Simulation_Bessy3_long_52_RP/round_2/62_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,784 - INFO - Completed: 59, remaining: 1, RAYPy_Simulation_Bessy3_long_52_RP/round_2/64_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,940 - INFO - Completed: 60, remaining: 0, RAYPy_Simulation_Bessy3_long_52_RP/round_2/65_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,941 - INFO - Batch Completed
+2024-07-12 11:58:01,941 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 11:58:01,947 - INFO - Prepared sim number: 66: RAYPy_Simulation_Bessy3_long_52_RP/round_2/66_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,952 - INFO - Prepared sim number: 67: RAYPy_Simulation_Bessy3_long_52_RP/round_2/67_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,959 - INFO - Prepared sim number: 68: RAYPy_Simulation_Bessy3_long_52_RP/round_2/68_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,967 - INFO - Prepared sim number: 69: RAYPy_Simulation_Bessy3_long_52_RP/round_2/69_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,975 - INFO - Prepared sim number: 70: RAYPy_Simulation_Bessy3_long_52_RP/round_2/70_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,981 - INFO - Prepared sim number: 71: RAYPy_Simulation_Bessy3_long_52_RP/round_2/71_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,988 - INFO - Prepared sim number: 72: RAYPy_Simulation_Bessy3_long_52_RP/round_2/72_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,994 - INFO - Prepared sim number: 73: RAYPy_Simulation_Bessy3_long_52_RP/round_2/73_Bessy3_long_52_RP.rml
+2024-07-12 11:58:01,999 - INFO - Prepared sim number: 74: RAYPy_Simulation_Bessy3_long_52_RP/round_2/74_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,003 - INFO - Prepared sim number: 75: RAYPy_Simulation_Bessy3_long_52_RP/round_2/75_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,008 - INFO - Prepared sim number: 76: RAYPy_Simulation_Bessy3_long_52_RP/round_2/76_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,012 - INFO - Prepared sim number: 77: RAYPy_Simulation_Bessy3_long_52_RP/round_2/77_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,017 - INFO - Prepared sim number: 78: RAYPy_Simulation_Bessy3_long_52_RP/round_2/78_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,021 - INFO - Prepared sim number: 79: RAYPy_Simulation_Bessy3_long_52_RP/round_2/79_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,024 - INFO - Prepared sim number: 80: RAYPy_Simulation_Bessy3_long_52_RP/round_2/80_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,028 - INFO - Prepared sim number: 81: RAYPy_Simulation_Bessy3_long_52_RP/round_2/81_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,031 - INFO - Prepared sim number: 82: RAYPy_Simulation_Bessy3_long_52_RP/round_2/82_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,035 - INFO - Prepared sim number: 83: RAYPy_Simulation_Bessy3_long_52_RP/round_2/83_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,038 - INFO - Prepared sim number: 84: RAYPy_Simulation_Bessy3_long_52_RP/round_2/84_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,042 - INFO - Prepared sim number: 85: RAYPy_Simulation_Bessy3_long_52_RP/round_2/85_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,046 - INFO - Prepared sim number: 86: RAYPy_Simulation_Bessy3_long_52_RP/round_2/86_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,049 - INFO - Prepared sim number: 87: RAYPy_Simulation_Bessy3_long_52_RP/round_2/87_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,052 - INFO - Prepared sim number: 88: RAYPy_Simulation_Bessy3_long_52_RP/round_2/88_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,055 - INFO - Prepared sim number: 89: RAYPy_Simulation_Bessy3_long_52_RP/round_2/89_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,059 - INFO - Prepared sim number: 90: RAYPy_Simulation_Bessy3_long_52_RP/round_2/90_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,062 - INFO - Prepared sim number: 91: RAYPy_Simulation_Bessy3_long_52_RP/round_2/91_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,065 - INFO - Prepared sim number: 92: RAYPy_Simulation_Bessy3_long_52_RP/round_2/92_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,068 - INFO - Prepared sim number: 93: RAYPy_Simulation_Bessy3_long_52_RP/round_2/93_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,072 - INFO - Prepared sim number: 94: RAYPy_Simulation_Bessy3_long_52_RP/round_2/94_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,075 - INFO - Prepared sim number: 95: RAYPy_Simulation_Bessy3_long_52_RP/round_2/95_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,079 - INFO - Prepared sim number: 96: RAYPy_Simulation_Bessy3_long_52_RP/round_2/96_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,082 - INFO - Prepared sim number: 97: RAYPy_Simulation_Bessy3_long_52_RP/round_2/97_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,085 - INFO - Prepared sim number: 98: RAYPy_Simulation_Bessy3_long_52_RP/round_2/98_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,088 - INFO - Prepared sim number: 99: RAYPy_Simulation_Bessy3_long_52_RP/round_2/99_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,092 - INFO - Prepared sim number: 100: RAYPy_Simulation_Bessy3_long_52_RP/round_2/100_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,095 - INFO - Prepared sim number: 101: RAYPy_Simulation_Bessy3_long_52_RP/round_2/101_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,098 - INFO - Prepared sim number: 102: RAYPy_Simulation_Bessy3_long_52_RP/round_2/102_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,102 - INFO - Prepared sim number: 103: RAYPy_Simulation_Bessy3_long_52_RP/round_2/103_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,107 - INFO - Prepared sim number: 104: RAYPy_Simulation_Bessy3_long_52_RP/round_2/104_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,111 - INFO - Prepared sim number: 105: RAYPy_Simulation_Bessy3_long_52_RP/round_2/105_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,115 - INFO - Prepared sim number: 106: RAYPy_Simulation_Bessy3_long_52_RP/round_2/106_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,119 - INFO - Prepared sim number: 107: RAYPy_Simulation_Bessy3_long_52_RP/round_2/107_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,123 - INFO - Prepared sim number: 108: RAYPy_Simulation_Bessy3_long_52_RP/round_2/108_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,128 - INFO - Prepared sim number: 109: RAYPy_Simulation_Bessy3_long_52_RP/round_2/109_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,131 - INFO - Prepared sim number: 110: RAYPy_Simulation_Bessy3_long_52_RP/round_2/110_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,135 - INFO - Prepared sim number: 111: RAYPy_Simulation_Bessy3_long_52_RP/round_2/111_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,141 - INFO - Prepared sim number: 112: RAYPy_Simulation_Bessy3_long_52_RP/round_2/112_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,151 - INFO - Prepared sim number: 113: RAYPy_Simulation_Bessy3_long_52_RP/round_2/113_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,159 - INFO - Prepared sim number: 114: RAYPy_Simulation_Bessy3_long_52_RP/round_2/114_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,164 - INFO - Prepared sim number: 115: RAYPy_Simulation_Bessy3_long_52_RP/round_2/115_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,169 - INFO - Prepared sim number: 116: RAYPy_Simulation_Bessy3_long_52_RP/round_2/116_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,169 - INFO - Start round 3
+2024-07-12 11:58:02,178 - INFO - Prepared sim number: 0: RAYPy_Simulation_Bessy3_long_52_RP/round_3/0_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,184 - INFO - Prepared sim number: 1: RAYPy_Simulation_Bessy3_long_52_RP/round_3/1_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,189 - INFO - Prepared sim number: 2: RAYPy_Simulation_Bessy3_long_52_RP/round_3/2_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,193 - INFO - Prepared sim number: 3: RAYPy_Simulation_Bessy3_long_52_RP/round_3/3_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,197 - INFO - Prepared sim number: 4: RAYPy_Simulation_Bessy3_long_52_RP/round_3/4_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,201 - INFO - Prepared sim number: 5: RAYPy_Simulation_Bessy3_long_52_RP/round_3/5_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,205 - INFO - Prepared sim number: 6: RAYPy_Simulation_Bessy3_long_52_RP/round_3/6_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,209 - INFO - Prepared sim number: 7: RAYPy_Simulation_Bessy3_long_52_RP/round_3/7_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,213 - INFO - Prepared sim number: 8: RAYPy_Simulation_Bessy3_long_52_RP/round_3/8_Bessy3_long_52_RP.rml
+2024-07-12 11:58:02,214 - INFO - Waiting for batch number: 5, timeout: 30.344818906241834s
+2024-07-12 11:58:06,819 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_2/70_Bessy3_long_52_RP.rml
+2024-07-12 11:58:06,883 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_2/67_Bessy3_long_52_RP.rml
+2024-07-12 11:58:07,015 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_2/72_Bessy3_long_52_RP.rml
+2024-07-12 11:58:07,276 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_2/68_Bessy3_long_52_RP.rml
+2024-07-12 11:58:07,280 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_2/69_Bessy3_long_52_RP.rml
+2024-07-12 11:58:07,375 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_2/75_Bessy3_long_52_RP.rml
+2024-07-12 11:58:07,511 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_2/76_Bessy3_long_52_RP.rml
+2024-07-12 11:58:07,591 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_2/77_Bessy3_long_52_RP.rml
+2024-07-12 11:58:07,746 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_2/73_Bessy3_long_52_RP.rml
+2024-07-12 11:58:08,457 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_2/66_Bessy3_long_52_RP.rml
+2024-07-12 11:58:08,671 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_2/71_Bessy3_long_52_RP.rml
+2024-07-12 11:58:09,006 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_2/74_Bessy3_long_52_RP.rml
+2024-07-12 11:58:11,422 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_2/80_Bessy3_long_52_RP.rml
+2024-07-12 11:58:11,670 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_2/78_Bessy3_long_52_RP.rml
+2024-07-12 11:58:11,802 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_2/81_Bessy3_long_52_RP.rml
+2024-07-12 11:58:11,911 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_2/79_Bessy3_long_52_RP.rml
+2024-07-12 11:58:11,983 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_2/82_Bessy3_long_52_RP.rml
+2024-07-12 11:58:11,999 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_2/84_Bessy3_long_52_RP.rml
+2024-07-12 11:58:12,104 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_2/83_Bessy3_long_52_RP.rml
+2024-07-12 11:58:12,191 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_2/86_Bessy3_long_52_RP.rml
+2024-07-12 11:58:12,655 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_2/85_Bessy3_long_52_RP.rml
+2024-07-12 11:58:12,951 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_2/88_Bessy3_long_52_RP.rml
+2024-07-12 11:58:13,082 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_2/87_Bessy3_long_52_RP.rml
+2024-07-12 11:58:13,595 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_2/89_Bessy3_long_52_RP.rml
+2024-07-12 11:58:15,842 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_2/90_Bessy3_long_52_RP.rml
+2024-07-12 11:58:16,230 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_2/91_Bessy3_long_52_RP.rml
+2024-07-12 11:58:16,544 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_2/92_Bessy3_long_52_RP.rml
+2024-07-12 11:58:16,580 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_2/94_Bessy3_long_52_RP.rml
+2024-07-12 11:58:16,685 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_2/93_Bessy3_long_52_RP.rml
+2024-07-12 11:58:16,709 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_2/96_Bessy3_long_52_RP.rml
+2024-07-12 11:58:16,781 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_2/95_Bessy3_long_52_RP.rml
+2024-07-12 11:58:16,896 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_2/97_Bessy3_long_52_RP.rml
+2024-07-12 11:58:17,172 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_2/98_Bessy3_long_52_RP.rml
+2024-07-12 11:58:17,523 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_2/99_Bessy3_long_52_RP.rml
+2024-07-12 11:58:18,029 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_2/100_Bessy3_long_52_RP.rml
+2024-07-12 11:58:18,052 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_2/101_Bessy3_long_52_RP.rml
+2024-07-12 11:58:20,565 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_2/102_Bessy3_long_52_RP.rml
+2024-07-12 11:58:20,675 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_2/103_Bessy3_long_52_RP.rml
+2024-07-12 11:58:21,124 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_2/108_Bessy3_long_52_RP.rml
+2024-07-12 11:58:21,322 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_2/107_Bessy3_long_52_RP.rml
+2024-07-12 11:58:21,345 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_2/106_Bessy3_long_52_RP.rml
+2024-07-12 11:58:21,497 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_2/104_Bessy3_long_52_RP.rml
+2024-07-12 11:58:21,564 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_2/105_Bessy3_long_52_RP.rml
+2024-07-12 11:58:21,691 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_2/110_Bessy3_long_52_RP.rml
+2024-07-12 11:58:21,834 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_2/109_Bessy3_long_52_RP.rml
+2024-07-12 11:58:22,234 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_2/112_Bessy3_long_52_RP.rml
+2024-07-12 11:58:22,486 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_2/113_Bessy3_long_52_RP.rml
+2024-07-12 11:58:22,916 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_2/111_Bessy3_long_52_RP.rml
+2024-07-12 11:58:25,320 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_2/114_Bessy3_long_52_RP.rml
+2024-07-12 11:58:25,363 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_2/115_Bessy3_long_52_RP.rml
+2024-07-12 11:58:26,098 - INFO - Completed: 51, remaining: 9, RAYPy_Simulation_Bessy3_long_52_RP/round_2/116_Bessy3_long_52_RP.rml
+2024-07-12 11:58:26,304 - INFO - Completed: 52, remaining: 8, RAYPy_Simulation_Bessy3_long_52_RP/round_3/0_Bessy3_long_52_RP.rml
+2024-07-12 11:58:26,600 - INFO - Completed: 53, remaining: 7, RAYPy_Simulation_Bessy3_long_52_RP/round_3/1_Bessy3_long_52_RP.rml
+2024-07-12 11:58:26,635 - INFO - Completed: 54, remaining: 6, RAYPy_Simulation_Bessy3_long_52_RP/round_3/3_Bessy3_long_52_RP.rml
+2024-07-12 11:58:26,854 - INFO - Completed: 55, remaining: 5, RAYPy_Simulation_Bessy3_long_52_RP/round_3/2_Bessy3_long_52_RP.rml
+2024-07-12 11:58:26,992 - INFO - Completed: 56, remaining: 4, RAYPy_Simulation_Bessy3_long_52_RP/round_3/4_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,003 - INFO - Completed: 57, remaining: 3, RAYPy_Simulation_Bessy3_long_52_RP/round_3/5_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,070 - INFO - Completed: 58, remaining: 2, RAYPy_Simulation_Bessy3_long_52_RP/round_3/6_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,317 - INFO - Completed: 59, remaining: 1, RAYPy_Simulation_Bessy3_long_52_RP/round_3/7_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,414 - INFO - Completed: 60, remaining: 0, RAYPy_Simulation_Bessy3_long_52_RP/round_3/8_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,414 - INFO - Batch Completed
+2024-07-12 11:58:27,414 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 11:58:27,419 - INFO - Prepared sim number: 9: RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,424 - INFO - Prepared sim number: 10: RAYPy_Simulation_Bessy3_long_52_RP/round_3/10_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,429 - INFO - Prepared sim number: 11: RAYPy_Simulation_Bessy3_long_52_RP/round_3/11_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,437 - INFO - Prepared sim number: 12: RAYPy_Simulation_Bessy3_long_52_RP/round_3/12_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,444 - INFO - Prepared sim number: 13: RAYPy_Simulation_Bessy3_long_52_RP/round_3/13_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,449 - INFO - Prepared sim number: 14: RAYPy_Simulation_Bessy3_long_52_RP/round_3/14_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,456 - INFO - Prepared sim number: 15: RAYPy_Simulation_Bessy3_long_52_RP/round_3/15_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,461 - INFO - Prepared sim number: 16: RAYPy_Simulation_Bessy3_long_52_RP/round_3/16_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,465 - INFO - Prepared sim number: 17: RAYPy_Simulation_Bessy3_long_52_RP/round_3/17_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,469 - INFO - Prepared sim number: 18: RAYPy_Simulation_Bessy3_long_52_RP/round_3/18_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,474 - INFO - Prepared sim number: 19: RAYPy_Simulation_Bessy3_long_52_RP/round_3/19_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,479 - INFO - Prepared sim number: 20: RAYPy_Simulation_Bessy3_long_52_RP/round_3/20_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,484 - INFO - Prepared sim number: 21: RAYPy_Simulation_Bessy3_long_52_RP/round_3/21_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,489 - INFO - Prepared sim number: 22: RAYPy_Simulation_Bessy3_long_52_RP/round_3/22_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,495 - INFO - Prepared sim number: 23: RAYPy_Simulation_Bessy3_long_52_RP/round_3/23_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,500 - INFO - Prepared sim number: 24: RAYPy_Simulation_Bessy3_long_52_RP/round_3/24_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,506 - INFO - Prepared sim number: 25: RAYPy_Simulation_Bessy3_long_52_RP/round_3/25_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,510 - INFO - Prepared sim number: 26: RAYPy_Simulation_Bessy3_long_52_RP/round_3/26_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,515 - INFO - Prepared sim number: 27: RAYPy_Simulation_Bessy3_long_52_RP/round_3/27_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,519 - INFO - Prepared sim number: 28: RAYPy_Simulation_Bessy3_long_52_RP/round_3/28_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,524 - INFO - Prepared sim number: 29: RAYPy_Simulation_Bessy3_long_52_RP/round_3/29_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,528 - INFO - Prepared sim number: 30: RAYPy_Simulation_Bessy3_long_52_RP/round_3/30_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,531 - INFO - Prepared sim number: 31: RAYPy_Simulation_Bessy3_long_52_RP/round_3/31_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,535 - INFO - Prepared sim number: 32: RAYPy_Simulation_Bessy3_long_52_RP/round_3/32_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,540 - INFO - Prepared sim number: 33: RAYPy_Simulation_Bessy3_long_52_RP/round_3/33_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,544 - INFO - Prepared sim number: 34: RAYPy_Simulation_Bessy3_long_52_RP/round_3/34_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,547 - INFO - Prepared sim number: 35: RAYPy_Simulation_Bessy3_long_52_RP/round_3/35_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,551 - INFO - Prepared sim number: 36: RAYPy_Simulation_Bessy3_long_52_RP/round_3/36_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,556 - INFO - Prepared sim number: 37: RAYPy_Simulation_Bessy3_long_52_RP/round_3/37_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,560 - INFO - Prepared sim number: 38: RAYPy_Simulation_Bessy3_long_52_RP/round_3/38_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,563 - INFO - Prepared sim number: 39: RAYPy_Simulation_Bessy3_long_52_RP/round_3/39_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,567 - INFO - Prepared sim number: 40: RAYPy_Simulation_Bessy3_long_52_RP/round_3/40_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,572 - INFO - Prepared sim number: 41: RAYPy_Simulation_Bessy3_long_52_RP/round_3/41_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,576 - INFO - Prepared sim number: 42: RAYPy_Simulation_Bessy3_long_52_RP/round_3/42_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,580 - INFO - Prepared sim number: 43: RAYPy_Simulation_Bessy3_long_52_RP/round_3/43_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,584 - INFO - Prepared sim number: 44: RAYPy_Simulation_Bessy3_long_52_RP/round_3/44_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,588 - INFO - Prepared sim number: 45: RAYPy_Simulation_Bessy3_long_52_RP/round_3/45_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,592 - INFO - Prepared sim number: 46: RAYPy_Simulation_Bessy3_long_52_RP/round_3/46_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,596 - INFO - Prepared sim number: 47: RAYPy_Simulation_Bessy3_long_52_RP/round_3/47_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,600 - INFO - Prepared sim number: 48: RAYPy_Simulation_Bessy3_long_52_RP/round_3/48_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,604 - INFO - Prepared sim number: 49: RAYPy_Simulation_Bessy3_long_52_RP/round_3/49_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,607 - INFO - Prepared sim number: 50: RAYPy_Simulation_Bessy3_long_52_RP/round_3/50_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,612 - INFO - Prepared sim number: 51: RAYPy_Simulation_Bessy3_long_52_RP/round_3/51_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,615 - INFO - Prepared sim number: 52: RAYPy_Simulation_Bessy3_long_52_RP/round_3/52_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,620 - INFO - Prepared sim number: 53: RAYPy_Simulation_Bessy3_long_52_RP/round_3/53_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,624 - INFO - Prepared sim number: 54: RAYPy_Simulation_Bessy3_long_52_RP/round_3/54_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,628 - INFO - Prepared sim number: 55: RAYPy_Simulation_Bessy3_long_52_RP/round_3/55_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,632 - INFO - Prepared sim number: 56: RAYPy_Simulation_Bessy3_long_52_RP/round_3/56_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,636 - INFO - Prepared sim number: 57: RAYPy_Simulation_Bessy3_long_52_RP/round_3/57_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,640 - INFO - Prepared sim number: 58: RAYPy_Simulation_Bessy3_long_52_RP/round_3/58_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,643 - INFO - Prepared sim number: 59: RAYPy_Simulation_Bessy3_long_52_RP/round_3/59_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,647 - INFO - Prepared sim number: 60: RAYPy_Simulation_Bessy3_long_52_RP/round_3/60_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,650 - INFO - Prepared sim number: 61: RAYPy_Simulation_Bessy3_long_52_RP/round_3/61_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,656 - INFO - Prepared sim number: 62: RAYPy_Simulation_Bessy3_long_52_RP/round_3/62_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,660 - INFO - Prepared sim number: 63: RAYPy_Simulation_Bessy3_long_52_RP/round_3/63_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,663 - INFO - Prepared sim number: 64: RAYPy_Simulation_Bessy3_long_52_RP/round_3/64_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,667 - INFO - Prepared sim number: 65: RAYPy_Simulation_Bessy3_long_52_RP/round_3/65_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,670 - INFO - Prepared sim number: 66: RAYPy_Simulation_Bessy3_long_52_RP/round_3/66_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,674 - INFO - Prepared sim number: 67: RAYPy_Simulation_Bessy3_long_52_RP/round_3/67_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,679 - INFO - Prepared sim number: 68: RAYPy_Simulation_Bessy3_long_52_RP/round_3/68_Bessy3_long_52_RP.rml
+2024-07-12 11:58:27,680 - INFO - Waiting for batch number: 6, timeout: 30.15944407975773s
+2024-07-12 11:58:32,743 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_3/14_Bessy3_long_52_RP.rml
+2024-07-12 11:58:32,800 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_3/10_Bessy3_long_52_RP.rml
+2024-07-12 11:58:32,907 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_3/12_Bessy3_long_52_RP.rml
+2024-07-12 11:58:32,978 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_3/16_Bessy3_long_52_RP.rml
+2024-07-12 11:58:33,268 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_3/13_Bessy3_long_52_RP.rml
+2024-07-12 11:58:33,277 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:58:33,379 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_3/11_Bessy3_long_52_RP.rml
+2024-07-12 11:58:33,613 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_3/17_Bessy3_long_52_RP.rml
+2024-07-12 11:58:33,946 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_3/20_Bessy3_long_52_RP.rml
+2024-07-12 11:58:34,724 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_3/15_Bessy3_long_52_RP.rml
+2024-07-12 11:58:34,793 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_3/18_Bessy3_long_52_RP.rml
+2024-07-12 11:58:34,953 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_3/19_Bessy3_long_52_RP.rml
+2024-07-12 11:58:38,810 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_3/21_Bessy3_long_52_RP.rml
+2024-07-12 11:58:39,736 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_3/23_Bessy3_long_52_RP.rml
+2024-07-12 11:58:39,763 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_3/24_Bessy3_long_52_RP.rml
+2024-07-12 11:58:40,260 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_3/26_Bessy3_long_52_RP.rml
+2024-07-12 11:58:40,530 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_3/22_Bessy3_long_52_RP.rml
+2024-07-12 11:58:40,932 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_3/27_Bessy3_long_52_RP.rml
+2024-07-12 11:58:41,111 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_3/25_Bessy3_long_52_RP.rml
+2024-07-12 11:58:41,150 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_3/29_Bessy3_long_52_RP.rml
+2024-07-12 11:58:41,264 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_3/28_Bessy3_long_52_RP.rml
+2024-07-12 11:58:41,669 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_3/32_Bessy3_long_52_RP.rml
+2024-07-12 11:58:41,675 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_3/30_Bessy3_long_52_RP.rml
+2024-07-12 11:58:41,716 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_3/31_Bessy3_long_52_RP.rml
+2024-07-12 11:58:44,343 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_3/33_Bessy3_long_52_RP.rml
+2024-07-12 11:58:45,383 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_3/34_Bessy3_long_52_RP.rml
+2024-07-12 11:58:45,456 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_3/35_Bessy3_long_52_RP.rml
+2024-07-12 11:58:46,187 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_3/39_Bessy3_long_52_RP.rml
+2024-07-12 11:58:46,298 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_3/36_Bessy3_long_52_RP.rml
+2024-07-12 11:58:46,767 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_3/40_Bessy3_long_52_RP.rml
+2024-07-12 11:58:46,770 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_3/41_Bessy3_long_52_RP.rml
+2024-07-12 11:58:46,873 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_3/42_Bessy3_long_52_RP.rml
+2024-07-12 11:58:47,102 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_3/43_Bessy3_long_52_RP.rml
+2024-07-12 11:58:47,112 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_3/44_Bessy3_long_52_RP.rml
+2024-07-12 11:58:47,474 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_3/37_Bessy3_long_52_RP.rml
+2024-07-12 11:58:47,492 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_3/38_Bessy3_long_52_RP.rml
+2024-07-12 11:58:49,095 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_3/45_Bessy3_long_52_RP.rml
+2024-07-12 11:58:50,264 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_3/46_Bessy3_long_52_RP.rml
+2024-07-12 11:58:50,319 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_3/47_Bessy3_long_52_RP.rml
+2024-07-12 11:58:50,798 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_3/48_Bessy3_long_52_RP.rml
+2024-07-12 11:58:51,434 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_3/49_Bessy3_long_52_RP.rml
+2024-07-12 11:58:52,132 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_3/52_Bessy3_long_52_RP.rml
+2024-07-12 11:58:52,237 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_3/51_Bessy3_long_52_RP.rml
+2024-07-12 11:58:52,284 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_3/50_Bessy3_long_52_RP.rml
+2024-07-12 11:58:52,809 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_3/53_Bessy3_long_52_RP.rml
+2024-07-12 11:58:53,030 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_3/56_Bessy3_long_52_RP.rml
+2024-07-12 11:58:53,147 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_3/54_Bessy3_long_52_RP.rml
+2024-07-12 11:58:53,314 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_3/55_Bessy3_long_52_RP.rml
+2024-07-12 11:58:55,377 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_3/57_Bessy3_long_52_RP.rml
+2024-07-12 11:58:56,414 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_3/58_Bessy3_long_52_RP.rml
+2024-07-12 11:58:56,616 - INFO - Completed: 51, remaining: 9, RAYPy_Simulation_Bessy3_long_52_RP/round_3/59_Bessy3_long_52_RP.rml
+2024-07-12 11:58:56,928 - INFO - Completed: 52, remaining: 8, RAYPy_Simulation_Bessy3_long_52_RP/round_3/60_Bessy3_long_52_RP.rml
+2024-07-12 11:58:57,714 - INFO - Completed: 53, remaining: 7, RAYPy_Simulation_Bessy3_long_52_RP/round_3/61_Bessy3_long_52_RP.rml
+2024-07-12 11:58:57,841 - INFO - Exception during simulation: 7 (of 60) futures unfinished
+2024-07-12 11:59:02,911 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:07,936 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:13,145 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:18,491 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:23,519 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:28,696 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:33,698 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:38,776 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:44,210 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:49,255 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:54,577 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 11:59:59,588 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:04,604 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:09,717 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:14,787 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:19,859 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:24,866 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:29,931 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:34,998 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:40,381 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:45,957 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:52,067 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:00:57,248 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:03,042 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:08,245 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:13,905 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:18,926 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:24,423 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:29,976 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:34,985 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:40,028 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:45,207 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:50,675 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:01:55,975 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:01,233 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:07,159 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:14,514 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:21,982 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:27,083 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:34,215 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:39,860 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:45,064 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:50,483 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:02:55,901 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:00,928 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:06,200 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:12,846 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:18,539 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:25,222 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:30,253 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:35,256 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:40,388 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:45,416 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:50,951 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:03:56,179 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:01,303 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:06,634 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:11,863 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:16,868 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:21,873 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:27,036 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:32,206 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:37,247 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:42,441 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:47,445 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:52,937 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:04:58,025 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:05:03,207 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:05:08,234 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:05:13,276 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:05:21,060 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:05:28,282 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:05:41,294 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:05:53,728 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:05:59,152 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:04,737 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:11,289 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:19,008 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:25,889 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:31,602 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:36,622 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:42,071 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:47,093 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:52,503 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:06:57,565 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:02,743 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:08,133 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:14,424 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:19,747 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:25,929 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:31,424 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:36,428 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:41,437 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:46,723 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:51,743 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:07:57,311 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:02,331 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:07,741 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:13,861 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:20,545 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:28,216 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:34,097 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:43,205 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:48,401 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:54,010 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:08:59,018 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:04,353 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:09,609 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:14,624 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:19,966 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:25,359 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:30,419 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:36,786 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:42,149 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:48,557 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:09:54,230 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:01,739 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:07,847 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:14,884 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:21,862 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:27,237 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:33,996 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:39,108 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:46,068 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:51,294 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:10:56,535 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:01,623 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:06,731 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:16,604 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:21,623 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:26,759 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:34,020 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:42,671 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:48,846 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:54,541 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:11:59,642 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:04,894 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:10,246 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:15,319 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:20,497 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:25,843 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:30,881 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:35,916 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:41,187 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:46,574 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:52,072 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:12:57,160 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:13:02,702 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:13:09,016 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:13:14,529 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:13:19,858 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:13:24,863 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_3/9_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,217 - INFO - Simulation started, using 12 workers
+2024-07-12 12:13:29,221 - INFO - Start round 0
+2024-07-12 12:13:29,523 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-07-12 12:13:29,524 - INFO - Batch Completed
+2024-07-12 12:13:29,524 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:13:29,817 - INFO - Start round 1
+2024-07-12 12:13:29,818 - INFO - Waiting for batch number: 1, timeout: 60s
+2024-07-12 12:13:29,818 - INFO - Batch Completed
+2024-07-12 12:13:29,818 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:13:29,830 - INFO - Waiting for batch number: 2, timeout: 60s
+2024-07-12 12:13:29,831 - INFO - Batch Completed
+2024-07-12 12:13:29,831 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:13:29,843 - INFO - Start round 2
+2024-07-12 12:13:29,845 - INFO - Waiting for batch number: 3, timeout: 60s
+2024-07-12 12:13:29,845 - INFO - Batch Completed
+2024-07-12 12:13:29,845 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:13:29,865 - INFO - Waiting for batch number: 4, timeout: 60s
+2024-07-12 12:13:29,865 - INFO - Batch Completed
+2024-07-12 12:13:29,865 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:13:29,880 - INFO - Start round 3
+2024-07-12 12:13:29,882 - INFO - Waiting for batch number: 5, timeout: 60s
+2024-07-12 12:13:29,883 - INFO - Batch Completed
+2024-07-12 12:13:29,883 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:13:29,897 - INFO - Waiting for batch number: 6, timeout: 60s
+2024-07-12 12:13:29,897 - INFO - Batch Completed
+2024-07-12 12:13:29,897 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:13:29,901 - INFO - Prepared sim number: 69: RAYPy_Simulation_Bessy3_long_52_RP/round_3/69_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,905 - INFO - Prepared sim number: 70: RAYPy_Simulation_Bessy3_long_52_RP/round_3/70_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,909 - INFO - Prepared sim number: 71: RAYPy_Simulation_Bessy3_long_52_RP/round_3/71_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,912 - INFO - Prepared sim number: 72: RAYPy_Simulation_Bessy3_long_52_RP/round_3/72_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,915 - INFO - Prepared sim number: 73: RAYPy_Simulation_Bessy3_long_52_RP/round_3/73_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,919 - INFO - Prepared sim number: 74: RAYPy_Simulation_Bessy3_long_52_RP/round_3/74_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,922 - INFO - Prepared sim number: 75: RAYPy_Simulation_Bessy3_long_52_RP/round_3/75_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,926 - INFO - Prepared sim number: 76: RAYPy_Simulation_Bessy3_long_52_RP/round_3/76_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,930 - INFO - Prepared sim number: 77: RAYPy_Simulation_Bessy3_long_52_RP/round_3/77_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,933 - INFO - Prepared sim number: 78: RAYPy_Simulation_Bessy3_long_52_RP/round_3/78_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,936 - INFO - Prepared sim number: 79: RAYPy_Simulation_Bessy3_long_52_RP/round_3/79_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,940 - INFO - Prepared sim number: 80: RAYPy_Simulation_Bessy3_long_52_RP/round_3/80_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,944 - INFO - Prepared sim number: 81: RAYPy_Simulation_Bessy3_long_52_RP/round_3/81_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,947 - INFO - Prepared sim number: 82: RAYPy_Simulation_Bessy3_long_52_RP/round_3/82_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,951 - INFO - Prepared sim number: 83: RAYPy_Simulation_Bessy3_long_52_RP/round_3/83_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,956 - INFO - Prepared sim number: 84: RAYPy_Simulation_Bessy3_long_52_RP/round_3/84_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,960 - INFO - Prepared sim number: 85: RAYPy_Simulation_Bessy3_long_52_RP/round_3/85_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,963 - INFO - Prepared sim number: 86: RAYPy_Simulation_Bessy3_long_52_RP/round_3/86_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,967 - INFO - Prepared sim number: 87: RAYPy_Simulation_Bessy3_long_52_RP/round_3/87_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,971 - INFO - Prepared sim number: 88: RAYPy_Simulation_Bessy3_long_52_RP/round_3/88_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,974 - INFO - Prepared sim number: 89: RAYPy_Simulation_Bessy3_long_52_RP/round_3/89_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,978 - INFO - Prepared sim number: 90: RAYPy_Simulation_Bessy3_long_52_RP/round_3/90_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,984 - INFO - Prepared sim number: 91: RAYPy_Simulation_Bessy3_long_52_RP/round_3/91_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,991 - INFO - Prepared sim number: 92: RAYPy_Simulation_Bessy3_long_52_RP/round_3/92_Bessy3_long_52_RP.rml
+2024-07-12 12:13:29,997 - INFO - Prepared sim number: 93: RAYPy_Simulation_Bessy3_long_52_RP/round_3/93_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,003 - INFO - Prepared sim number: 94: RAYPy_Simulation_Bessy3_long_52_RP/round_3/94_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,009 - INFO - Prepared sim number: 95: RAYPy_Simulation_Bessy3_long_52_RP/round_3/95_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,015 - INFO - Prepared sim number: 96: RAYPy_Simulation_Bessy3_long_52_RP/round_3/96_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,019 - INFO - Prepared sim number: 97: RAYPy_Simulation_Bessy3_long_52_RP/round_3/97_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,023 - INFO - Prepared sim number: 98: RAYPy_Simulation_Bessy3_long_52_RP/round_3/98_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,027 - INFO - Prepared sim number: 99: RAYPy_Simulation_Bessy3_long_52_RP/round_3/99_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,032 - INFO - Prepared sim number: 100: RAYPy_Simulation_Bessy3_long_52_RP/round_3/100_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,036 - INFO - Prepared sim number: 101: RAYPy_Simulation_Bessy3_long_52_RP/round_3/101_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,040 - INFO - Prepared sim number: 102: RAYPy_Simulation_Bessy3_long_52_RP/round_3/102_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,043 - INFO - Prepared sim number: 103: RAYPy_Simulation_Bessy3_long_52_RP/round_3/103_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,047 - INFO - Prepared sim number: 104: RAYPy_Simulation_Bessy3_long_52_RP/round_3/104_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,050 - INFO - Prepared sim number: 105: RAYPy_Simulation_Bessy3_long_52_RP/round_3/105_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,053 - INFO - Prepared sim number: 106: RAYPy_Simulation_Bessy3_long_52_RP/round_3/106_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,057 - INFO - Prepared sim number: 107: RAYPy_Simulation_Bessy3_long_52_RP/round_3/107_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,060 - INFO - Prepared sim number: 108: RAYPy_Simulation_Bessy3_long_52_RP/round_3/108_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,064 - INFO - Prepared sim number: 109: RAYPy_Simulation_Bessy3_long_52_RP/round_3/109_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,068 - INFO - Prepared sim number: 110: RAYPy_Simulation_Bessy3_long_52_RP/round_3/110_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,072 - INFO - Prepared sim number: 111: RAYPy_Simulation_Bessy3_long_52_RP/round_3/111_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,076 - INFO - Prepared sim number: 112: RAYPy_Simulation_Bessy3_long_52_RP/round_3/112_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,079 - INFO - Prepared sim number: 113: RAYPy_Simulation_Bessy3_long_52_RP/round_3/113_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,082 - INFO - Prepared sim number: 114: RAYPy_Simulation_Bessy3_long_52_RP/round_3/114_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,086 - INFO - Prepared sim number: 115: RAYPy_Simulation_Bessy3_long_52_RP/round_3/115_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,090 - INFO - Prepared sim number: 116: RAYPy_Simulation_Bessy3_long_52_RP/round_3/116_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,090 - INFO - Start round 4
+2024-07-12 12:13:30,094 - INFO - Prepared sim number: 0: RAYPy_Simulation_Bessy3_long_52_RP/round_4/0_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,097 - INFO - Prepared sim number: 1: RAYPy_Simulation_Bessy3_long_52_RP/round_4/1_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,101 - INFO - Prepared sim number: 2: RAYPy_Simulation_Bessy3_long_52_RP/round_4/2_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,105 - INFO - Prepared sim number: 3: RAYPy_Simulation_Bessy3_long_52_RP/round_4/3_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,109 - INFO - Prepared sim number: 4: RAYPy_Simulation_Bessy3_long_52_RP/round_4/4_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,114 - INFO - Prepared sim number: 5: RAYPy_Simulation_Bessy3_long_52_RP/round_4/5_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,118 - INFO - Prepared sim number: 6: RAYPy_Simulation_Bessy3_long_52_RP/round_4/6_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,122 - INFO - Prepared sim number: 7: RAYPy_Simulation_Bessy3_long_52_RP/round_4/7_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,126 - INFO - Prepared sim number: 8: RAYPy_Simulation_Bessy3_long_52_RP/round_4/8_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,129 - INFO - Prepared sim number: 9: RAYPy_Simulation_Bessy3_long_52_RP/round_4/9_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,133 - INFO - Prepared sim number: 10: RAYPy_Simulation_Bessy3_long_52_RP/round_4/10_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,136 - INFO - Prepared sim number: 11: RAYPy_Simulation_Bessy3_long_52_RP/round_4/11_Bessy3_long_52_RP.rml
+2024-07-12 12:13:30,156 - INFO - Waiting for batch number: 7, timeout: 60s
+2024-07-12 12:13:32,163 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_3/79_Bessy3_long_52_RP.rml
+2024-07-12 12:13:32,476 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_3/80_Bessy3_long_52_RP.rml
+2024-07-12 12:13:33,053 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_3/75_Bessy3_long_52_RP.rml
+2024-07-12 12:13:33,242 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_3/72_Bessy3_long_52_RP.rml
+2024-07-12 12:13:33,366 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_3/74_Bessy3_long_52_RP.rml
+2024-07-12 12:13:33,698 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_3/69_Bessy3_long_52_RP.rml
+2024-07-12 12:13:33,917 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_3/73_Bessy3_long_52_RP.rml
+2024-07-12 12:13:33,965 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_3/71_Bessy3_long_52_RP.rml
+2024-07-12 12:13:37,452 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_3/81_Bessy3_long_52_RP.rml
+2024-07-12 12:13:37,562 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_3/78_Bessy3_long_52_RP.rml
+2024-07-12 12:13:37,982 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_3/82_Bessy3_long_52_RP.rml
+2024-07-12 12:13:38,271 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_3/83_Bessy3_long_52_RP.rml
+2024-07-12 12:13:38,582 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_3/85_Bessy3_long_52_RP.rml
+2024-07-12 12:13:38,652 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_3/70_Bessy3_long_52_RP.rml
+2024-07-12 12:13:38,670 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_3/84_Bessy3_long_52_RP.rml
+2024-07-12 12:13:38,848 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_3/77_Bessy3_long_52_RP.rml
+2024-07-12 12:13:39,036 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_3/76_Bessy3_long_52_RP.rml
+2024-07-12 12:13:39,261 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_3/86_Bessy3_long_52_RP.rml
+2024-07-12 12:13:39,611 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_3/88_Bessy3_long_52_RP.rml
+2024-07-12 12:13:39,812 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_3/87_Bessy3_long_52_RP.rml
+2024-07-12 12:13:42,845 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_3/89_Bessy3_long_52_RP.rml
+2024-07-12 12:13:42,937 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_3/90_Bessy3_long_52_RP.rml
+2024-07-12 12:13:43,309 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_3/91_Bessy3_long_52_RP.rml
+2024-07-12 12:13:43,995 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_3/92_Bessy3_long_52_RP.rml
+2024-07-12 12:13:44,110 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_3/94_Bessy3_long_52_RP.rml
+2024-07-12 12:13:44,112 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_3/93_Bessy3_long_52_RP.rml
+2024-07-12 12:13:44,132 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_3/95_Bessy3_long_52_RP.rml
+2024-07-12 12:13:44,597 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_3/96_Bessy3_long_52_RP.rml
+2024-07-12 12:13:44,777 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_3/97_Bessy3_long_52_RP.rml
+2024-07-12 12:13:44,815 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_3/98_Bessy3_long_52_RP.rml
+2024-07-12 12:13:44,994 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_3/99_Bessy3_long_52_RP.rml
+2024-07-12 12:13:46,016 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_3/100_Bessy3_long_52_RP.rml
+2024-07-12 12:13:49,031 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_3/101_Bessy3_long_52_RP.rml
+2024-07-12 12:13:49,405 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_3/103_Bessy3_long_52_RP.rml
+2024-07-12 12:13:49,563 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_3/102_Bessy3_long_52_RP.rml
+2024-07-12 12:13:49,977 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_3/104_Bessy3_long_52_RP.rml
+2024-07-12 12:13:50,278 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_3/106_Bessy3_long_52_RP.rml
+2024-07-12 12:13:50,469 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_3/108_Bessy3_long_52_RP.rml
+2024-07-12 12:13:50,978 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_3/110_Bessy3_long_52_RP.rml
+2024-07-12 12:13:51,023 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_3/105_Bessy3_long_52_RP.rml
+2024-07-12 12:13:51,154 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_3/109_Bessy3_long_52_RP.rml
+2024-07-12 12:13:51,728 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_3/111_Bessy3_long_52_RP.rml
+2024-07-12 12:13:51,736 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_3/107_Bessy3_long_52_RP.rml
+2024-07-12 12:13:52,777 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_3/112_Bessy3_long_52_RP.rml
+2024-07-12 12:13:55,356 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_3/114_Bessy3_long_52_RP.rml
+2024-07-12 12:13:55,543 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_3/115_Bessy3_long_52_RP.rml
+2024-07-12 12:13:56,306 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_4/0_Bessy3_long_52_RP.rml
+2024-07-12 12:13:56,464 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_3/116_Bessy3_long_52_RP.rml
+2024-07-12 12:13:56,681 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_4/1_Bessy3_long_52_RP.rml
+2024-07-12 12:13:56,778 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_3/113_Bessy3_long_52_RP.rml
+2024-07-12 12:13:57,322 - INFO - Completed: 51, remaining: 9, RAYPy_Simulation_Bessy3_long_52_RP/round_4/2_Bessy3_long_52_RP.rml
+2024-07-12 12:13:57,473 - INFO - Completed: 52, remaining: 8, RAYPy_Simulation_Bessy3_long_52_RP/round_4/3_Bessy3_long_52_RP.rml
+2024-07-12 12:13:57,614 - INFO - Completed: 53, remaining: 7, RAYPy_Simulation_Bessy3_long_52_RP/round_4/4_Bessy3_long_52_RP.rml
+2024-07-12 12:13:57,755 - INFO - Completed: 54, remaining: 6, RAYPy_Simulation_Bessy3_long_52_RP/round_4/6_Bessy3_long_52_RP.rml
+2024-07-12 12:13:57,982 - INFO - Completed: 55, remaining: 5, RAYPy_Simulation_Bessy3_long_52_RP/round_4/5_Bessy3_long_52_RP.rml
+2024-07-12 12:13:58,525 - INFO - Completed: 56, remaining: 4, RAYPy_Simulation_Bessy3_long_52_RP/round_4/7_Bessy3_long_52_RP.rml
+2024-07-12 12:13:59,959 - INFO - Completed: 57, remaining: 3, RAYPy_Simulation_Bessy3_long_52_RP/round_4/9_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,112 - INFO - Completed: 58, remaining: 2, RAYPy_Simulation_Bessy3_long_52_RP/round_4/8_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,337 - INFO - Completed: 59, remaining: 1, RAYPy_Simulation_Bessy3_long_52_RP/round_4/10_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,431 - INFO - Completed: 60, remaining: 0, RAYPy_Simulation_Bessy3_long_52_RP/round_4/11_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,431 - INFO - Batch Completed
+2024-07-12 12:14:00,432 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:14:00,437 - INFO - Prepared sim number: 12: RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,444 - INFO - Prepared sim number: 13: RAYPy_Simulation_Bessy3_long_52_RP/round_4/13_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,455 - INFO - Prepared sim number: 14: RAYPy_Simulation_Bessy3_long_52_RP/round_4/14_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,469 - INFO - Prepared sim number: 15: RAYPy_Simulation_Bessy3_long_52_RP/round_4/15_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,474 - INFO - Prepared sim number: 16: RAYPy_Simulation_Bessy3_long_52_RP/round_4/16_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,479 - INFO - Prepared sim number: 17: RAYPy_Simulation_Bessy3_long_52_RP/round_4/17_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,485 - INFO - Prepared sim number: 18: RAYPy_Simulation_Bessy3_long_52_RP/round_4/18_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,492 - INFO - Prepared sim number: 19: RAYPy_Simulation_Bessy3_long_52_RP/round_4/19_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,499 - INFO - Prepared sim number: 20: RAYPy_Simulation_Bessy3_long_52_RP/round_4/20_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,505 - INFO - Prepared sim number: 21: RAYPy_Simulation_Bessy3_long_52_RP/round_4/21_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,511 - INFO - Prepared sim number: 22: RAYPy_Simulation_Bessy3_long_52_RP/round_4/22_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,516 - INFO - Prepared sim number: 23: RAYPy_Simulation_Bessy3_long_52_RP/round_4/23_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,521 - INFO - Prepared sim number: 24: RAYPy_Simulation_Bessy3_long_52_RP/round_4/24_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,528 - INFO - Prepared sim number: 25: RAYPy_Simulation_Bessy3_long_52_RP/round_4/25_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,533 - INFO - Prepared sim number: 26: RAYPy_Simulation_Bessy3_long_52_RP/round_4/26_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,538 - INFO - Prepared sim number: 27: RAYPy_Simulation_Bessy3_long_52_RP/round_4/27_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,543 - INFO - Prepared sim number: 28: RAYPy_Simulation_Bessy3_long_52_RP/round_4/28_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,548 - INFO - Prepared sim number: 29: RAYPy_Simulation_Bessy3_long_52_RP/round_4/29_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,554 - INFO - Prepared sim number: 30: RAYPy_Simulation_Bessy3_long_52_RP/round_4/30_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,559 - INFO - Prepared sim number: 31: RAYPy_Simulation_Bessy3_long_52_RP/round_4/31_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,565 - INFO - Prepared sim number: 32: RAYPy_Simulation_Bessy3_long_52_RP/round_4/32_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,571 - INFO - Prepared sim number: 33: RAYPy_Simulation_Bessy3_long_52_RP/round_4/33_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,576 - INFO - Prepared sim number: 34: RAYPy_Simulation_Bessy3_long_52_RP/round_4/34_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,582 - INFO - Prepared sim number: 35: RAYPy_Simulation_Bessy3_long_52_RP/round_4/35_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,587 - INFO - Prepared sim number: 36: RAYPy_Simulation_Bessy3_long_52_RP/round_4/36_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,594 - INFO - Prepared sim number: 37: RAYPy_Simulation_Bessy3_long_52_RP/round_4/37_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,599 - INFO - Prepared sim number: 38: RAYPy_Simulation_Bessy3_long_52_RP/round_4/38_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,605 - INFO - Prepared sim number: 39: RAYPy_Simulation_Bessy3_long_52_RP/round_4/39_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,610 - INFO - Prepared sim number: 40: RAYPy_Simulation_Bessy3_long_52_RP/round_4/40_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,615 - INFO - Prepared sim number: 41: RAYPy_Simulation_Bessy3_long_52_RP/round_4/41_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,621 - INFO - Prepared sim number: 42: RAYPy_Simulation_Bessy3_long_52_RP/round_4/42_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,627 - INFO - Prepared sim number: 43: RAYPy_Simulation_Bessy3_long_52_RP/round_4/43_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,633 - INFO - Prepared sim number: 44: RAYPy_Simulation_Bessy3_long_52_RP/round_4/44_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,637 - INFO - Prepared sim number: 45: RAYPy_Simulation_Bessy3_long_52_RP/round_4/45_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,643 - INFO - Prepared sim number: 46: RAYPy_Simulation_Bessy3_long_52_RP/round_4/46_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,648 - INFO - Prepared sim number: 47: RAYPy_Simulation_Bessy3_long_52_RP/round_4/47_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,653 - INFO - Prepared sim number: 48: RAYPy_Simulation_Bessy3_long_52_RP/round_4/48_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,658 - INFO - Prepared sim number: 49: RAYPy_Simulation_Bessy3_long_52_RP/round_4/49_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,663 - INFO - Prepared sim number: 50: RAYPy_Simulation_Bessy3_long_52_RP/round_4/50_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,669 - INFO - Prepared sim number: 51: RAYPy_Simulation_Bessy3_long_52_RP/round_4/51_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,674 - INFO - Prepared sim number: 52: RAYPy_Simulation_Bessy3_long_52_RP/round_4/52_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,679 - INFO - Prepared sim number: 53: RAYPy_Simulation_Bessy3_long_52_RP/round_4/53_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,684 - INFO - Prepared sim number: 54: RAYPy_Simulation_Bessy3_long_52_RP/round_4/54_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,689 - INFO - Prepared sim number: 55: RAYPy_Simulation_Bessy3_long_52_RP/round_4/55_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,694 - INFO - Prepared sim number: 56: RAYPy_Simulation_Bessy3_long_52_RP/round_4/56_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,699 - INFO - Prepared sim number: 57: RAYPy_Simulation_Bessy3_long_52_RP/round_4/57_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,704 - INFO - Prepared sim number: 58: RAYPy_Simulation_Bessy3_long_52_RP/round_4/58_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,709 - INFO - Prepared sim number: 59: RAYPy_Simulation_Bessy3_long_52_RP/round_4/59_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,714 - INFO - Prepared sim number: 60: RAYPy_Simulation_Bessy3_long_52_RP/round_4/60_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,718 - INFO - Prepared sim number: 61: RAYPy_Simulation_Bessy3_long_52_RP/round_4/61_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,723 - INFO - Prepared sim number: 62: RAYPy_Simulation_Bessy3_long_52_RP/round_4/62_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,728 - INFO - Prepared sim number: 63: RAYPy_Simulation_Bessy3_long_52_RP/round_4/63_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,732 - INFO - Prepared sim number: 64: RAYPy_Simulation_Bessy3_long_52_RP/round_4/64_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,737 - INFO - Prepared sim number: 65: RAYPy_Simulation_Bessy3_long_52_RP/round_4/65_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,742 - INFO - Prepared sim number: 66: RAYPy_Simulation_Bessy3_long_52_RP/round_4/66_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,747 - INFO - Prepared sim number: 67: RAYPy_Simulation_Bessy3_long_52_RP/round_4/67_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,752 - INFO - Prepared sim number: 68: RAYPy_Simulation_Bessy3_long_52_RP/round_4/68_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,756 - INFO - Prepared sim number: 69: RAYPy_Simulation_Bessy3_long_52_RP/round_4/69_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,761 - INFO - Prepared sim number: 70: RAYPy_Simulation_Bessy3_long_52_RP/round_4/70_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,766 - INFO - Prepared sim number: 71: RAYPy_Simulation_Bessy3_long_52_RP/round_4/71_Bessy3_long_52_RP.rml
+2024-07-12 12:14:00,767 - INFO - Waiting for batch number: 8, timeout: 33.904282331466675s
+2024-07-12 12:14:07,397 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_4/14_Bessy3_long_52_RP.rml
+2024-07-12 12:14:07,885 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_4/19_Bessy3_long_52_RP.rml
+2024-07-12 12:14:08,071 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:14:08,229 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_4/15_Bessy3_long_52_RP.rml
+2024-07-12 12:14:08,394 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_4/17_Bessy3_long_52_RP.rml
+2024-07-12 12:14:08,667 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_4/21_Bessy3_long_52_RP.rml
+2024-07-12 12:14:08,725 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_4/18_Bessy3_long_52_RP.rml
+2024-07-12 12:14:08,837 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_4/20_Bessy3_long_52_RP.rml
+2024-07-12 12:14:09,033 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_4/23_Bessy3_long_52_RP.rml
+2024-07-12 12:14:09,656 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_4/13_Bessy3_long_52_RP.rml
+2024-07-12 12:14:09,799 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_4/16_Bessy3_long_52_RP.rml
+2024-07-12 12:14:09,880 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_4/22_Bessy3_long_52_RP.rml
+2024-07-12 12:14:13,960 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_4/24_Bessy3_long_52_RP.rml
+2024-07-12 12:14:14,763 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_4/25_Bessy3_long_52_RP.rml
+2024-07-12 12:14:16,512 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_4/27_Bessy3_long_52_RP.rml
+2024-07-12 12:14:16,910 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_4/26_Bessy3_long_52_RP.rml
+2024-07-12 12:14:17,046 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_4/28_Bessy3_long_52_RP.rml
+2024-07-12 12:14:17,387 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_4/29_Bessy3_long_52_RP.rml
+2024-07-12 12:14:17,978 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_4/31_Bessy3_long_52_RP.rml
+2024-07-12 12:14:18,193 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_4/32_Bessy3_long_52_RP.rml
+2024-07-12 12:14:18,219 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_4/30_Bessy3_long_52_RP.rml
+2024-07-12 12:14:18,592 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_4/33_Bessy3_long_52_RP.rml
+2024-07-12 12:14:18,611 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_4/35_Bessy3_long_52_RP.rml
+2024-07-12 12:14:18,622 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_4/34_Bessy3_long_52_RP.rml
+2024-07-12 12:14:19,816 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_4/36_Bessy3_long_52_RP.rml
+2024-07-12 12:14:21,297 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_4/37_Bessy3_long_52_RP.rml
+2024-07-12 12:14:22,603 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_4/39_Bessy3_long_52_RP.rml
+2024-07-12 12:14:23,271 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_4/40_Bessy3_long_52_RP.rml
+2024-07-12 12:14:23,386 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_4/41_Bessy3_long_52_RP.rml
+2024-07-12 12:14:23,580 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_4/38_Bessy3_long_52_RP.rml
+2024-07-12 12:14:24,033 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_4/42_Bessy3_long_52_RP.rml
+2024-07-12 12:14:24,347 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_4/44_Bessy3_long_52_RP.rml
+2024-07-12 12:14:24,379 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_4/43_Bessy3_long_52_RP.rml
+2024-07-12 12:14:24,562 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_4/45_Bessy3_long_52_RP.rml
+2024-07-12 12:14:24,828 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_4/47_Bessy3_long_52_RP.rml
+2024-07-12 12:14:25,233 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_4/46_Bessy3_long_52_RP.rml
+2024-07-12 12:14:25,964 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_4/48_Bessy3_long_52_RP.rml
+2024-07-12 12:14:27,631 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_4/49_Bessy3_long_52_RP.rml
+2024-07-12 12:14:28,792 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_4/50_Bessy3_long_52_RP.rml
+2024-07-12 12:14:29,258 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_4/51_Bessy3_long_52_RP.rml
+2024-07-12 12:14:29,841 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_4/53_Bessy3_long_52_RP.rml
+2024-07-12 12:14:30,772 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_4/54_Bessy3_long_52_RP.rml
+2024-07-12 12:14:30,874 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_4/52_Bessy3_long_52_RP.rml
+2024-07-12 12:14:31,096 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_4/55_Bessy3_long_52_RP.rml
+2024-07-12 12:14:31,099 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_4/56_Bessy3_long_52_RP.rml
+2024-07-12 12:14:31,306 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_Bessy3_long_52_RP/round_4/57_Bessy3_long_52_RP.rml
+2024-07-12 12:14:31,474 - INFO - Completed: 47, remaining: 13, RAYPy_Simulation_Bessy3_long_52_RP/round_4/58_Bessy3_long_52_RP.rml
+2024-07-12 12:14:31,655 - INFO - Completed: 48, remaining: 12, RAYPy_Simulation_Bessy3_long_52_RP/round_4/59_Bessy3_long_52_RP.rml
+2024-07-12 12:14:32,397 - INFO - Completed: 49, remaining: 11, RAYPy_Simulation_Bessy3_long_52_RP/round_4/60_Bessy3_long_52_RP.rml
+2024-07-12 12:14:33,647 - INFO - Completed: 50, remaining: 10, RAYPy_Simulation_Bessy3_long_52_RP/round_4/61_Bessy3_long_52_RP.rml
+2024-07-12 12:14:34,672 - INFO - Exception during simulation: 10 (of 60) futures unfinished
+2024-07-12 12:14:40,984 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:14:46,960 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:14:53,698 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:00,740 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:05,826 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:10,831 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:16,164 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:21,357 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:26,372 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:31,639 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:36,922 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:44,932 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:50,117 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:15:55,118 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:00,982 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:06,138 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:12,146 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:17,150 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:22,367 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:27,541 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:32,995 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:38,061 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:43,293 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:50,367 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:16:55,486 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:00,551 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:05,553 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:10,594 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:15,735 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:20,760 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:26,979 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:34,248 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:40,113 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:45,180 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:50,507 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:17:55,527 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:00,748 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:06,035 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:11,048 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:16,050 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:21,285 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:26,979 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:32,304 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:38,362 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:43,407 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:48,488 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:53,921 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:18:59,374 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:04,377 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:09,381 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:14,795 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:21,226 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:26,620 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:31,717 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:36,959 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:45,748 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:50,752 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:19:56,041 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:01,963 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:07,101 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:12,892 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:18,024 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:23,599 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:28,640 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:33,935 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:40,689 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:45,774 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:51,117 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:20:56,403 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:01,664 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:06,672 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:13,016 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:18,948 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:24,998 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:30,268 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:35,473 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:40,475 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:45,476 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:50,685 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:21:55,690 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:22:01,337 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:22:06,340 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:22:11,483 - INFO - Waiting for file RAYPy_Simulation_Bessy3_long_52_RP/round_4/12_Bessy3_long_52_RP.rml
+2024-07-12 12:22:16,923 - INFO - Simulation started, using 12 workers
+2024-07-12 12:22:16,936 - INFO - Start round 0
+2024-07-12 12:22:17,209 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-07-12 12:22:17,210 - INFO - Batch Completed
+2024-07-12 12:22:17,210 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,435 - INFO - Start round 1
+2024-07-12 12:22:17,436 - INFO - Waiting for batch number: 1, timeout: 60s
+2024-07-12 12:22:17,436 - INFO - Batch Completed
+2024-07-12 12:22:17,436 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,451 - INFO - Waiting for batch number: 2, timeout: 60s
+2024-07-12 12:22:17,451 - INFO - Batch Completed
+2024-07-12 12:22:17,451 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,466 - INFO - Start round 2
+2024-07-12 12:22:17,468 - INFO - Waiting for batch number: 3, timeout: 60s
+2024-07-12 12:22:17,468 - INFO - Batch Completed
+2024-07-12 12:22:17,468 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,483 - INFO - Waiting for batch number: 4, timeout: 60s
+2024-07-12 12:22:17,483 - INFO - Batch Completed
+2024-07-12 12:22:17,483 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,494 - INFO - Start round 3
+2024-07-12 12:22:17,496 - INFO - Waiting for batch number: 5, timeout: 60s
+2024-07-12 12:22:17,496 - INFO - Batch Completed
+2024-07-12 12:22:17,496 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,508 - INFO - Waiting for batch number: 6, timeout: 60s
+2024-07-12 12:22:17,508 - INFO - Batch Completed
+2024-07-12 12:22:17,508 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,517 - INFO - Start round 4
+2024-07-12 12:22:17,520 - INFO - Waiting for batch number: 7, timeout: 60s
+2024-07-12 12:22:17,520 - INFO - Batch Completed
+2024-07-12 12:22:17,520 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,532 - INFO - Waiting for batch number: 8, timeout: 60s
+2024-07-12 12:22:17,532 - INFO - Batch Completed
+2024-07-12 12:22:17,532 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:17,535 - INFO - Prepared sim number: 72: RAYPy_Simulation_Bessy3_long_52_RP/round_4/72_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,539 - INFO - Prepared sim number: 73: RAYPy_Simulation_Bessy3_long_52_RP/round_4/73_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,542 - INFO - Prepared sim number: 74: RAYPy_Simulation_Bessy3_long_52_RP/round_4/74_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,544 - INFO - Prepared sim number: 75: RAYPy_Simulation_Bessy3_long_52_RP/round_4/75_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,547 - INFO - Prepared sim number: 76: RAYPy_Simulation_Bessy3_long_52_RP/round_4/76_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,549 - INFO - Prepared sim number: 77: RAYPy_Simulation_Bessy3_long_52_RP/round_4/77_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,553 - INFO - Prepared sim number: 78: RAYPy_Simulation_Bessy3_long_52_RP/round_4/78_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,556 - INFO - Prepared sim number: 79: RAYPy_Simulation_Bessy3_long_52_RP/round_4/79_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,559 - INFO - Prepared sim number: 80: RAYPy_Simulation_Bessy3_long_52_RP/round_4/80_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,562 - INFO - Prepared sim number: 81: RAYPy_Simulation_Bessy3_long_52_RP/round_4/81_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,564 - INFO - Prepared sim number: 82: RAYPy_Simulation_Bessy3_long_52_RP/round_4/82_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,567 - INFO - Prepared sim number: 83: RAYPy_Simulation_Bessy3_long_52_RP/round_4/83_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,571 - INFO - Prepared sim number: 84: RAYPy_Simulation_Bessy3_long_52_RP/round_4/84_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,574 - INFO - Prepared sim number: 85: RAYPy_Simulation_Bessy3_long_52_RP/round_4/85_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,576 - INFO - Prepared sim number: 86: RAYPy_Simulation_Bessy3_long_52_RP/round_4/86_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,578 - INFO - Prepared sim number: 87: RAYPy_Simulation_Bessy3_long_52_RP/round_4/87_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,581 - INFO - Prepared sim number: 88: RAYPy_Simulation_Bessy3_long_52_RP/round_4/88_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,584 - INFO - Prepared sim number: 89: RAYPy_Simulation_Bessy3_long_52_RP/round_4/89_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,587 - INFO - Prepared sim number: 90: RAYPy_Simulation_Bessy3_long_52_RP/round_4/90_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,589 - INFO - Prepared sim number: 91: RAYPy_Simulation_Bessy3_long_52_RP/round_4/91_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,592 - INFO - Prepared sim number: 92: RAYPy_Simulation_Bessy3_long_52_RP/round_4/92_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,594 - INFO - Prepared sim number: 93: RAYPy_Simulation_Bessy3_long_52_RP/round_4/93_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,597 - INFO - Prepared sim number: 94: RAYPy_Simulation_Bessy3_long_52_RP/round_4/94_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,599 - INFO - Prepared sim number: 95: RAYPy_Simulation_Bessy3_long_52_RP/round_4/95_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,603 - INFO - Prepared sim number: 96: RAYPy_Simulation_Bessy3_long_52_RP/round_4/96_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,606 - INFO - Prepared sim number: 97: RAYPy_Simulation_Bessy3_long_52_RP/round_4/97_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,608 - INFO - Prepared sim number: 98: RAYPy_Simulation_Bessy3_long_52_RP/round_4/98_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,611 - INFO - Prepared sim number: 99: RAYPy_Simulation_Bessy3_long_52_RP/round_4/99_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,614 - INFO - Prepared sim number: 100: RAYPy_Simulation_Bessy3_long_52_RP/round_4/100_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,616 - INFO - Prepared sim number: 101: RAYPy_Simulation_Bessy3_long_52_RP/round_4/101_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,620 - INFO - Prepared sim number: 102: RAYPy_Simulation_Bessy3_long_52_RP/round_4/102_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,622 - INFO - Prepared sim number: 103: RAYPy_Simulation_Bessy3_long_52_RP/round_4/103_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,626 - INFO - Prepared sim number: 104: RAYPy_Simulation_Bessy3_long_52_RP/round_4/104_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,628 - INFO - Prepared sim number: 105: RAYPy_Simulation_Bessy3_long_52_RP/round_4/105_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,631 - INFO - Prepared sim number: 106: RAYPy_Simulation_Bessy3_long_52_RP/round_4/106_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,634 - INFO - Prepared sim number: 107: RAYPy_Simulation_Bessy3_long_52_RP/round_4/107_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,638 - INFO - Prepared sim number: 108: RAYPy_Simulation_Bessy3_long_52_RP/round_4/108_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,641 - INFO - Prepared sim number: 109: RAYPy_Simulation_Bessy3_long_52_RP/round_4/109_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,643 - INFO - Prepared sim number: 110: RAYPy_Simulation_Bessy3_long_52_RP/round_4/110_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,646 - INFO - Prepared sim number: 111: RAYPy_Simulation_Bessy3_long_52_RP/round_4/111_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,649 - INFO - Prepared sim number: 112: RAYPy_Simulation_Bessy3_long_52_RP/round_4/112_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,657 - INFO - Prepared sim number: 113: RAYPy_Simulation_Bessy3_long_52_RP/round_4/113_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,660 - INFO - Prepared sim number: 114: RAYPy_Simulation_Bessy3_long_52_RP/round_4/114_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,663 - INFO - Prepared sim number: 115: RAYPy_Simulation_Bessy3_long_52_RP/round_4/115_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,665 - INFO - Prepared sim number: 116: RAYPy_Simulation_Bessy3_long_52_RP/round_4/116_Bessy3_long_52_RP.rml
+2024-07-12 12:22:17,690 - INFO - Waiting for batch number: 9, timeout: 60s
+2024-07-12 12:22:20,743 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_Bessy3_long_52_RP/round_4/83_Bessy3_long_52_RP.rml
+2024-07-12 12:22:20,874 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_Bessy3_long_52_RP/round_4/79_Bessy3_long_52_RP.rml
+2024-07-12 12:22:21,055 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_Bessy3_long_52_RP/round_4/81_Bessy3_long_52_RP.rml
+2024-07-12 12:22:21,701 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_Bessy3_long_52_RP/round_4/78_Bessy3_long_52_RP.rml
+2024-07-12 12:22:21,871 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_Bessy3_long_52_RP/round_4/72_Bessy3_long_52_RP.rml
+2024-07-12 12:22:22,029 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_Bessy3_long_52_RP/round_4/77_Bessy3_long_52_RP.rml
+2024-07-12 12:22:22,225 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_Bessy3_long_52_RP/round_4/73_Bessy3_long_52_RP.rml
+2024-07-12 12:22:22,273 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_Bessy3_long_52_RP/round_4/74_Bessy3_long_52_RP.rml
+2024-07-12 12:22:25,113 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_Bessy3_long_52_RP/round_4/82_Bessy3_long_52_RP.rml
+2024-07-12 12:22:25,758 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_Bessy3_long_52_RP/round_4/76_Bessy3_long_52_RP.rml
+2024-07-12 12:22:25,943 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_Bessy3_long_52_RP/round_4/75_Bessy3_long_52_RP.rml
+2024-07-12 12:22:26,135 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_Bessy3_long_52_RP/round_4/85_Bessy3_long_52_RP.rml
+2024-07-12 12:22:26,356 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_Bessy3_long_52_RP/round_4/84_Bessy3_long_52_RP.rml
+2024-07-12 12:22:26,910 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_Bessy3_long_52_RP/round_4/80_Bessy3_long_52_RP.rml
+2024-07-12 12:22:27,102 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_Bessy3_long_52_RP/round_4/87_Bessy3_long_52_RP.rml
+2024-07-12 12:22:27,306 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_Bessy3_long_52_RP/round_4/86_Bessy3_long_52_RP.rml
+2024-07-12 12:22:27,433 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_Bessy3_long_52_RP/round_4/88_Bessy3_long_52_RP.rml
+2024-07-12 12:22:27,533 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_Bessy3_long_52_RP/round_4/89_Bessy3_long_52_RP.rml
+2024-07-12 12:22:27,638 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_Bessy3_long_52_RP/round_4/90_Bessy3_long_52_RP.rml
+2024-07-12 12:22:27,811 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_Bessy3_long_52_RP/round_4/91_Bessy3_long_52_RP.rml
+2024-07-12 12:22:30,814 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_Bessy3_long_52_RP/round_4/92_Bessy3_long_52_RP.rml
+2024-07-12 12:22:31,123 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_Bessy3_long_52_RP/round_4/94_Bessy3_long_52_RP.rml
+2024-07-12 12:22:31,345 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_Bessy3_long_52_RP/round_4/95_Bessy3_long_52_RP.rml
+2024-07-12 12:22:31,585 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_Bessy3_long_52_RP/round_4/96_Bessy3_long_52_RP.rml
+2024-07-12 12:22:31,624 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_Bessy3_long_52_RP/round_4/93_Bessy3_long_52_RP.rml
+2024-07-12 12:22:32,228 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_Bessy3_long_52_RP/round_4/97_Bessy3_long_52_RP.rml
+2024-07-12 12:22:32,623 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_Bessy3_long_52_RP/round_4/101_Bessy3_long_52_RP.rml
+2024-07-12 12:22:32,813 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_Bessy3_long_52_RP/round_4/100_Bessy3_long_52_RP.rml
+2024-07-12 12:22:32,947 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_Bessy3_long_52_RP/round_4/98_Bessy3_long_52_RP.rml
+2024-07-12 12:22:33,097 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_Bessy3_long_52_RP/round_4/102_Bessy3_long_52_RP.rml
+2024-07-12 12:22:33,339 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_Bessy3_long_52_RP/round_4/103_Bessy3_long_52_RP.rml
+2024-07-12 12:22:33,934 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_Bessy3_long_52_RP/round_4/99_Bessy3_long_52_RP.rml
+2024-07-12 12:22:35,781 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_Bessy3_long_52_RP/round_4/104_Bessy3_long_52_RP.rml
+2024-07-12 12:22:36,248 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_Bessy3_long_52_RP/round_4/105_Bessy3_long_52_RP.rml
+2024-07-12 12:22:36,285 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_Bessy3_long_52_RP/round_4/106_Bessy3_long_52_RP.rml
+2024-07-12 12:22:36,502 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_Bessy3_long_52_RP/round_4/108_Bessy3_long_52_RP.rml
+2024-07-12 12:22:36,535 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_Bessy3_long_52_RP/round_4/107_Bessy3_long_52_RP.rml
+2024-07-12 12:22:36,994 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_Bessy3_long_52_RP/round_4/109_Bessy3_long_52_RP.rml
+2024-07-12 12:22:37,359 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_Bessy3_long_52_RP/round_4/111_Bessy3_long_52_RP.rml
+2024-07-12 12:22:37,506 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_Bessy3_long_52_RP/round_4/110_Bessy3_long_52_RP.rml
+2024-07-12 12:22:37,697 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_Bessy3_long_52_RP/round_4/112_Bessy3_long_52_RP.rml
+2024-07-12 12:22:37,700 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_Bessy3_long_52_RP/round_4/113_Bessy3_long_52_RP.rml
+2024-07-12 12:22:38,362 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_Bessy3_long_52_RP/round_4/115_Bessy3_long_52_RP.rml
+2024-07-12 12:22:38,392 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_Bessy3_long_52_RP/round_4/114_Bessy3_long_52_RP.rml
+2024-07-12 12:22:39,133 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_Bessy3_long_52_RP/round_4/116_Bessy3_long_52_RP.rml
+2024-07-12 12:22:39,133 - INFO - Batch Completed
+2024-07-12 12:22:39,133 - INFO - Waiting For batch, 60 simulations to go
+2024-07-12 12:22:39,133 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-07-12 12:22:39,133 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-07-12 12:22:39,349 - INFO - Executor shutdown completed.
+2024-07-12 12:22:39,363 - INFO - Simulation completed successfully.
+2024-07-12 12:22:39,363 - INFO - Starting cleanup
+2024-07-12 12:22:40,876 - INFO - Done with the cleanup
+2024-07-12 12:22:40,876 - INFO - End of the Simulations

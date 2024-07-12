@@ -230,7 +230,7 @@
    <param id="beta" auto="T" enabled="T">-85.06522957601065</param>
    <param id="distancePreceding" enabled="F">112.8570739130061</param>
    <param id="azimuthalAngle" enabled="T">180</param>
-   <param id="entranceArmLength" enabled="T">26000</param>
+   <param id="entranceArmLength" enabled="T">25000</param>
    <param id="lineSpacing" comment="constant" enabled="T">0</param>
    <param id="vlsDefinition" comment="RAY Standard" enabled="F">0</param>
    <param id="vlsParameter1" enabled="F">0</param>
@@ -307,9 +307,9 @@
    <param id="totalLength" enabled="T">300</param>
    <param id="grazingIncAngle" enabled="T">0.75</param>
    <param id="entranceArmLength" enabled="T">1e+19</param>
-   <param id="exitArmLength" enabled="T">20000</param>
+   <param id="exitArmLength" enabled="T">19000</param>
    <param id="bendingRadius" comment="Short Radius rho" enabled="T">1</param>
-   <param id="radius" auto="T" enabled="T">523.5838228537765</param>
+   <param id="radius" auto="T" enabled="T">497.4046317110877</param>
    <param id="distancePreceding" enabled="T">1000</param>
    <param id="azimuthalAngle" enabled="T">270</param>
    <param id="reflectivityType" comment="100%" enabled="T">0</param>

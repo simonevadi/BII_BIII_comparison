@@ -650,7 +650,7 @@
   <axes>true</axes>
   <names>true</names>
   <angles>true</angles>
-  <scaling>1</scaling>
+  <scaling>0</scaling>
   <scaleLinear>0.037</scaleLinear>
   <scaleExponent>1.14</scaleExponent>
   <scaleLinearOffset>17900</scaleLinearOffset>
