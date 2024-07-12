@@ -18,12 +18,12 @@ moving_average = p.moving_average
 
 SlitSize = SlitSize*1000
 rml_comparison_list = {}
-rml_comparison_list[rml_file_name_bessy3_short_37]=0
-rml_comparison_list[rml_file_name_bessy3_long_52]=0
-rml_comparison_list[rml_file_name_bessy2_HiBeta_long_52]=0
-rml_comparison_list[rml_file_name_bessy2_HiBeta_short_37]=0
-rml_comparison_list[rml_file_name_bessy2_LoBeta_long_52]=0
-rml_comparison_list[rml_file_name_bessy2_LoBeta_short_37]=0
+rml_comparison_list[rml_file_name_bessy3_short_37]        = 2
+rml_comparison_list[rml_file_name_bessy3_long_52]         = 2
+rml_comparison_list[rml_file_name_bessy2_HiBeta_long_52]  = 2
+rml_comparison_list[rml_file_name_bessy2_HiBeta_short_37] = 2
+rml_comparison_list[rml_file_name_bessy2_LoBeta_long_52]  = 2
+rml_comparison_list[rml_file_name_bessy2_LoBeta_short_37] = 2
 
 # set moving average window
 window = 10
@@ -100,7 +100,6 @@ for rml_file_name, ind in rml_comparison_list.items():
     # plotting Flux and RP
     # BEAMLINE TRANSMISSION
     flux_plot = flux['PercentageRaysSurvived'][ssf*ind:ssf*(ind+1)]
-    print(flux_plot)
     flux_plot = moving_average(flux_plot.to_numpy(), window)
     flux_ax.plot(energy_flux,flux_plot, colors[color_index], label=f'{rml_file_name}' )
 
@@ -118,18 +117,18 @@ for rml_file_name, ind in rml_comparison_list.items():
     except ZeroDivisionError:
         res_p = 0
     inf_indices = np.where(np.isinf(rp))[0]
-    if len(inf_indices)>0:
-        print(f"For {varying_var_n} size {ssrp}, you have zero bandwidth starting at E={energy_rp[inf_indices[0]]} eV.")
     rp_ax.plot(energy_rp, res_p, colors[color_index])
 
 
     # HORIZONTAL FOCUS
-    hor_foc = moving_average(rp['HorizontalFocusFWHM'], window)
-    hf_ax.plot(energy_rp,1000*hor_foc[ssrp*ind:ssrp*(ind+1)],colors[color_index])
+    hor_foc = rp['HorizontalFocusFWHM'][ssrp*ind:ssrp*(ind+1)]
+    hor_foc = moving_average(hor_foc.to_numpy(), window)
+    hf_ax.plot(energy_rp,1000*hor_foc,colors[color_index])
 
     # VERTICAL FOCUS
-    ver_foc = moving_average(rp['VerticalFocusFWHM'], window)
-    vf_ax.plot(energy_rp,1000*ver_foc[ssrp*ind:ssrp*(ind+1)],colors[color_index])
+    ver_foc = rp['VerticalFocusFWHM'][ssrp*ind:ssrp*(ind+1)]
+    ver_foc = moving_average(ver_foc.to_numpy(), window)
+    vf_ax.plot(energy_rp,1000*ver_foc,colors[color_index])
 
 
 
