@@ -1,0 +1,37 @@
+Lieber Sebastian,
+
+ich würde unter diesen Randbedingungen vorsichtshalber lieber mit einer 
+Gesamtlänge von 52(+/-2) m arbeiten, denn die 56 (ID, Dipol 2) bzw. 54 
+(Dipol 1) m sind ja "knirsch" (d.h. die End-Station sitzt schon auf dem 
+Rand der Betonplatte). Das wäre tatsächlich etwas weniger als wir 
+ursprünglich für den CDR vereinbart hatten, aber ich denke nicht, dass 
+ein "show-stopper" ist (wir sollten die jeweiligen "figures of merit" 
+nach Abschluss des Grobdesigns mal mit der Länge der Strahlrohre von 30 
+m (status quo BESSY II) bis 100 m (max. BESSY III) skalieren und 
+schauen, wo für die meisten (Standard-)Strahlrohre der "sweet spot" ist 
+(der liegt nach meinen ersten groben Abschätzungen so zwischen 50 und 60 
+m, im wesentlichen weil man bereits ab dieser Länge ohne große 
+Kompromisse Fluss/Auflösung/Fokusgröße("-kleine") jeweils so optimieren 
+kann, dass die "Grundbedürfnisse der Standard-Experimente" bereits gut 
+erfüllt werden können).
+
+Beste Grüße,
+
+Jens
+-------------------------------------------------------
+
+Hallo Sebastian und Alle,
+
+Ich habe mal auf der Basis der vorläufigen Zeichnungen von Maschine und dem angedachten BIII Gebäude die Dimensionen von beamlines für BESSY III überprüft.
+
+Max Standardlänge 56 m (ID) und Dipole, aber bis zu 100 m wenn wir in die "Gebäudeecke" schiessen (ähnlich EMIL).
+
+
+SMUs (M1) können entweder im Tunnel sein <25 m oder nach 26 m, also 9 m weiter downstream als bei BESSY II.
+
+Alle anderen beamline komponenten können also bei IDs erst ab 26 m anfangen, bei Dipolen bei 20 bzw. 22 m.
+
+
+viele Güße,
+
+Karsten.

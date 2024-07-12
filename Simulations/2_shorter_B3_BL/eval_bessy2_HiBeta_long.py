@@ -17,13 +17,14 @@ from helper_lib import scale_undulator_flux, order
 # import simulation parameters
 from parameter import energy_rp, energy_flux
 from parameter import SlitSize
-from parameter import rml_file_name_bessy2_LoBeta_long as rml_file_name
+from parameter import rml_file_name_bessy2_HiBeta_long_52 as rml_file_name
 from parameter import colors, grating
 SlitSize = SlitSize*1000
 
 # file/folder/ml index definition
 flux_simulation_folder = 'RAYPy_Simulation_'+rml_file_name+'_FLUX'
 rp_simulation_folder = 'RAYPy_Simulation_'+rml_file_name+'_RP'
+
 
 
 varying_var = SlitSize
@@ -129,7 +130,7 @@ ax.set_xlabel('Energy [eV]')
 ax.set_ylabel('RP [a.u.]')
 ax.set_title('Resolving Power')
 ax.grid(which='both', axis='both')
-#ax.legend()
+ax.legend()
 
 # HORIZONTAL FOCUS
 ax = axs[2,0]

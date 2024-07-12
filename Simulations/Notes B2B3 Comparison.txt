@@ -8,6 +8,8 @@ all Sims @ 1000 eV
 2.) Simulate B2/B3 long vs. short and vor B2 also mith high and low beta mode 
 (done)
 
+2.1.) Reduce length...B3 to max 52 m. M1 at 21 m and in the tunnel
+
 3.) Estimate/determine the max Energy Resolution (ERes) with RayUI at the first glance by Closing the Exit Slit, set reflectivity to 100 % and look at the Beam Properties to see the ERes. Goal: at which slit opening no changes apear anymore
 
 
