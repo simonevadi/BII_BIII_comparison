@@ -6,11 +6,11 @@
    <param id="numberRays" enabled="T">100000</param>
    <param id="sigmaType" comment="standard" enabled="T">0</param>
    <param id="undulatorLength" enabled="T">4</param>
-   <param id="electronDistributionType" comment="manual" enabled="T">0</param>
-   <param id="electronSigmaX" enabled="T">18</param>
-   <param id="electronSigmaXs" enabled="T">5.7</param>
-   <param id="electronSigmaY" enabled="T">2.65</param>
-   <param id="electronSigmaYs" enabled="T">0.8</param>
+   <param id="electronDistributionType" comment="BESSY II low Beta" enabled="T">1</param>
+   <param id="electronSigmaX" enabled="F">71.59999999999999</param>
+   <param id="electronSigmaXs" enabled="F">74.59999999999999</param>
+   <param id="electronSigmaY" enabled="F">9.93</param>
+   <param id="electronSigmaYs" enabled="F">8.07</param>
    <param id="sourceDepth" enabled="T">1</param>
    <param id="alignmentError" comment="No" enabled="T">1</param>
    <param id="translationXerror" enabled="F">0</param>
@@ -58,8 +58,8 @@
    <param id="entranceArmLengthSag" enabled="T">21000</param>
    <param id="exitArmLengthSag" enabled="T">1e+19</param>
    <param id="entranceArmLengthMer" enabled="T">21000</param>
-   <param id="exitArmLengthMer" enabled="T">24310</param>
-   <param id="longRadius" auto="T" enabled="T">1721527.476551554</param>
+   <param id="exitArmLengthMer" enabled="T">24090</param>
+   <param id="longRadius" auto="T" enabled="T">1714271.585717318</param>
    <param id="shortRadius" auto="T" enabled="T">549.7630139964652</param>
    <param id="distancePreceding" enabled="T">21000</param>
    <param id="azimuthalAngle" enabled="T">90</param>
@@ -230,7 +230,7 @@
    <param id="beta" auto="T" enabled="T">-85.06522957601065</param>
    <param id="distancePreceding" enabled="F">112.8570739130061</param>
    <param id="azimuthalAngle" enabled="T">180</param>
-   <param id="entranceArmLength" enabled="T">25000</param>
+   <param id="entranceArmLength" enabled="T">30000</param>
    <param id="lineSpacing" comment="constant" enabled="T">0</param>
    <param id="vlsDefinition" comment="RAY Standard" enabled="F">0</param>
    <param id="vlsParameter1" enabled="F">0</param>
@@ -307,9 +307,9 @@
    <param id="totalLength" enabled="T">300</param>
    <param id="grazingIncAngle" enabled="T">0.75</param>
    <param id="entranceArmLength" enabled="T">1e+19</param>
-   <param id="exitArmLength" enabled="T">19000</param>
+   <param id="exitArmLength" enabled="T">19010</param>
    <param id="bendingRadius" comment="Short Radius rho" enabled="T">1</param>
-   <param id="radius" auto="T" enabled="T">497.4046317110877</param>
+   <param id="radius" auto="T" enabled="T">497.6664236225146</param>
    <param id="distancePreceding" enabled="T">1000</param>
    <param id="azimuthalAngle" enabled="T">270</param>
    <param id="reflectivityType" comment="100%" enabled="T">0</param>
@@ -380,7 +380,7 @@
   </object>
   <object name="HorSlit" type="Slit">
    <param id="openingShape" comment="rectangle" enabled="T">0</param>
-   <param id="openingWidth" enabled="T">0.5</param>
+   <param id="openingWidth" enabled="T">1</param>
    <param id="openingHeight" enabled="T">20</param>
    <param id="centralBeamstop" comment="none" enabled="T">0</param>
    <param id="stopWidth" enabled="F">20</param>
@@ -464,10 +464,10 @@
    <param id="totalLength" enabled="T">400</param>
    <param id="grazingIncAngle" enabled="T">0.75</param>
    <param id="entranceArmLength" enabled="T">5100</param>
-   <param id="exitArmLength" enabled="T">2185</param>
+   <param id="exitArmLength" enabled="T">2100</param>
    <param id="designGrazingIncAngle" auto="T" enabled="T">0.75</param>
-   <param id="longHalfAxisA" auto="T" enabled="T">3642.5</param>
-   <param id="shortHalfAxisB" auto="T" enabled="T">43.6955325798728</param>
+   <param id="longHalfAxisA" auto="T" enabled="T">3600</param>
+   <param id="shortHalfAxisB" auto="T" enabled="T">42.83718893544213</param>
    <param id="figureRotation" comment="plane" enabled="T">1</param>
    <param id="parameter_a11" enabled="F">1</param>
    <param id="distancePreceding" enabled="T">5000</param>
@@ -651,9 +651,9 @@
   <names>true</names>
   <angles>true</angles>
   <scaling>0</scaling>
-  <scaleLinear>1.128</scaleLinear>
-  <scaleExponent>0.658</scaleExponent>
-  <scaleLinearOffset>4400</scaleLinearOffset>
+  <scaleLinear>0</scaleLinear>
+  <scaleExponent>1</scaleExponent>
+  <scaleLinearOffset>10000</scaleLinearOffset>
   <scaleExponentiallyOffset>600</scaleExponentiallyOffset>
  </drawing>
 </lab>

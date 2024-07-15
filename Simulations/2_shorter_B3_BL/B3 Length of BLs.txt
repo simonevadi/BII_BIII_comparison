@@ -35,3 +35,9 @@ Alle anderen beamline komponenten können also bei IDs erst ab 26 m anfangen, be
 viele Güße,
 
 Karsten.
+
+
+-----------------------------------------------------------
+
+Problem with simulations: M1 would be in the case of B3 at the same Position like the RadiationProtectionWall.
+New Set 3 and 4 

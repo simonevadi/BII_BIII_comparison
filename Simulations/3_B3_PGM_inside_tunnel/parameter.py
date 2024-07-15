@@ -1,11 +1,14 @@
 import numpy as np
 
-rml_file_name_bessy3_short_37          = 'Bessy3_short_37'
-rml_file_name_bessy3_long_52           = 'Bessy3_long_52'
-rml_file_name_bessy2_HiBeta_short_37   = 'Bessy2_HiBeta_short_37'
-rml_file_name_bessy2_HiBeta_long_52    = 'Bessy2_HiBeta_long_52'
-rml_file_name_bessy2_LoBeta_short_37   = 'Bessy2_LoBeta_short_37'
-rml_file_name_bessy2_LoBeta_long_52    = 'Bessy2_LoBeta_long_52'
+rml_file_name_bessy3_short_37           = 'Bessy3_short_37'
+rml_file_name_bessy3_long_52            = 'Bessy3_long_52'
+#rml_file_name_bessy2_HiBeta_short_37   = 'Bessy2_HiBeta_short_37'
+#rml_file_name_bessy2_HiBeta_long_52    = 'Bessy2_HiBeta_long_52'
+#rml_file_name_bessy2_LoBeta_short_37   = 'Bessy2_LoBeta_short_37'
+#rml_file_name_bessy2_LoBeta_long_52    = 'Bessy2_LoBeta_long_52'
+
+rml_file_name_bessy3_long_52_PGM_in_tunnel  = 'Bessy3_long_PGM_in_tunnel'
+rml_file_name_bessy3_long_52_PGM_out_tunnel = 'Bessy3_long_PGM_out_tunnel'
 
 
 order       = 1
