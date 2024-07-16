@@ -8,8 +8,7 @@ import pandas as pd
 from parameter import energy_rp, energy_flux
 from parameter import SlitSize
 from parameter import rml_file_name_bessy3_short_37, rml_file_name_bessy3_long_52
-from parameter import rml_file_name_bessy2_HiBeta_long_52, rml_file_name_bessy2_HiBeta_short_37
-from parameter import rml_file_name_bessy2_LoBeta_long_52, rml_file_name_bessy2_LoBeta_short_37
+from parameter import rml_file_name_bessy3_long_52_PGM_out_tunnel, rml_file_name_bessy3_long_52_PGM_in_tunnel
 from parameter import colors, grating
 
 from raypyng.postprocessing import PostProcessAnalyzed
@@ -18,12 +17,11 @@ moving_average = p.moving_average
 
 SlitSize = SlitSize*1000
 rml_comparison_list = {}
-rml_comparison_list[rml_file_name_bessy3_long_52]         = 0
-rml_comparison_list[rml_file_name_bessy3_short_37]        = 0
-rml_comparison_list[rml_file_name_bessy2_HiBeta_long_52]  = 0
-rml_comparison_list[rml_file_name_bessy2_HiBeta_short_37] = 0
-rml_comparison_list[rml_file_name_bessy2_LoBeta_long_52]  = 0
-rml_comparison_list[rml_file_name_bessy2_LoBeta_short_37] = 0
+rml_comparison_list[rml_file_name_bessy3_long_52]                   = 0
+rml_comparison_list[rml_file_name_bessy3_short_37]                  = 0
+rml_comparison_list[rml_file_name_bessy3_long_52_PGM_out_tunnel]    = 0
+rml_comparison_list[rml_file_name_bessy3_long_52_PGM_in_tunnel]     = 0
+
 
 # set moving average window
 window = 10
