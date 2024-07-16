@@ -9,6 +9,7 @@ this_file_dir=os.path.dirname(os.path.realpath(__file__))
 rml_file = os.path.join('rml/'+rml_file_name+'.rml')
 
 sim = Simulate(rml_file, hide=True)
+#sim.batch_size = 2
 
 rml=sim.rml
 beamline = sim.rml.beamline

@@ -17,7 +17,7 @@ from helper_lib import scale_undulator_flux, order
 # import simulation parameters
 from parameter import energy_rp, energy_flux
 from parameter import SlitSize
-from parameter import rml_file_name_bessy3_long_52_PGM_out_tunnel as rml_file_name
+from parameter import rml_file_name_bessy3_long_52_PGM_out as rml_file_name
 from parameter import colors, grating
 SlitSize = SlitSize*1000
 
