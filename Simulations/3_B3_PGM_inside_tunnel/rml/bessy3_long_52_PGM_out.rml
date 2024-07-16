@@ -129,48 +129,12 @@
    <param id="cylindricalBowingAmp" enabled="F">0</param>
    <param id="cylindricalBowingRadius" enabled="F">0</param>
   </object>
-  <object name="Wall" type="Aperture">
-   <param id="geometricalShape" comment="rectangle" enabled="T">0</param>
-   <param id="maskType" comment="positiv" enabled="T">0</param>
-   <param id="totalWidth" enabled="T">20</param>
-   <param id="totalHeight" enabled="T">20</param>
-   <param id="polygon2D" enabled="F">[[-10.0,-0.5],[10.0,-0.5],[10.0,0.5],[-10.0,0.5]]</param>
-   <param id="distancePreceding" enabled="T">1500</param>
-   <param id="azimuthalAngle" enabled="T">0</param>
-   <param id="alignmentError" comment="No" enabled="T">1</param>
-   <param id="translationXerror" enabled="F">0</param>
-   <param id="translationYerror" enabled="F">0</param>
-   <param id="translationZerror" enabled="F">0</param>
-   <param id="rotationXerror" enabled="F">0</param>
-   <param id="rotationYerror" enabled="F">0</param>
-   <param id="rotationZerror" enabled="F">0</param>
-   <param id="worldPosition" enabled="F">
-    <x>-39.2654224618097203</x>
-    <y>0.0000000000000000</y>
-    <z>24999.4859874633366417</z>
-   </param>
-   <param id="worldXdirection" enabled="F">
-    <x>0.9996573249755573</x>
-    <y>0.0000000000000000</y>
-    <z>0.0261769483078731</z>
-   </param>
-   <param id="worldYdirection" enabled="F">
-    <x>0.0000000000000000</x>
-    <y>1.0000000000000000</y>
-    <z>0.0000000000000000</z>
-   </param>
-   <param id="worldZdirection" enabled="F">
-    <x>-0.0261769483078731</x>
-    <y>0.0000000000000000</y>
-    <z>0.9996573249755573</z>
-   </param>
-  </object>
   <object name="M2" type="Plane Mirror">
    <param id="geometricalShape" comment="rectangle" enabled="T">0</param>
    <param id="totalWidth" enabled="T">10</param>
    <param id="totalLength" enabled="T">500</param>
    <param id="grazingIncAngle" enabled="F">3.562912570344736</param>
-   <param id="distancePreceding" enabled="F">1888.014647689058</param>
+   <param id="distancePreceding" enabled="F">3388.014647689058</param>
    <param id="azimuthalAngle" enabled="F">0</param>
    <param id="systemMount" comment="SX700 (as premirror of a grating)" enabled="T">1</param>
    <param id="premirrorShiftZ" enabled="T">-194.5</param>
@@ -255,7 +219,7 @@
    <param id="systemMount" comment="SX700 (external premirror)" enabled="T">1</param>
    <param id="deviationAngle" enabled="F">10</param>
    <param id="halfConeAngle" enabled="F">10</param>
-   <param id="pimpaleX0" enabled="T">2000</param>
+   <param id="pimpaleX0" enabled="T">3500</param>
    <param id="pimpaleY0" enabled="T">14</param>
    <param id="premirrorMountPsi0" enabled="T">0</param>
    <param id="designEnergyMounting" auto="T" enabled="T">1000</param>
@@ -686,7 +650,7 @@
   <axes>true</axes>
   <names>true</names>
   <angles>true</angles>
-  <scaling>0</scaling>
+  <scaling>1</scaling>
   <scaleLinear>1.128</scaleLinear>
   <scaleExponent>0.658</scaleExponent>
   <scaleLinearOffset>4400</scaleLinearOffset>

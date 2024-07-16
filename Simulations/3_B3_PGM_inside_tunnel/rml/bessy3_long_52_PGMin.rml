@@ -301,6 +301,42 @@
    <param id="cylindricalBowingAmp" enabled="F">0</param>
    <param id="cylindricalBowingRadius" enabled="F">0</param>
   </object>
+  <object name="Wall" type="Aperture">
+   <param id="geometricalShape" comment="rectangle" enabled="T">0</param>
+   <param id="maskType" comment="positiv" enabled="T">0</param>
+   <param id="totalWidth" enabled="T">20</param>
+   <param id="totalHeight" enabled="T">20</param>
+   <param id="polygon2D" enabled="F">[[-10.0,-0.5],[10.0,-0.5],[10.0,0.5],[-10.0,0.5]]</param>
+   <param id="distancePreceding" enabled="T">1500</param>
+   <param id="azimuthalAngle" enabled="T">0</param>
+   <param id="alignmentError" comment="No" enabled="T">1</param>
+   <param id="translationXerror" enabled="F">0</param>
+   <param id="translationYerror" enabled="F">0</param>
+   <param id="translationZerror" enabled="F">0</param>
+   <param id="rotationXerror" enabled="F">0</param>
+   <param id="rotationYerror" enabled="F">0</param>
+   <param id="rotationZerror" enabled="F">0</param>
+   <param id="worldPosition" enabled="F">
+    <x>-143.9732164197845918</x>
+    <y>13.9997780052543277</y>
+    <z>24998.1153151088037703</z>
+   </param>
+   <param id="worldXdirection" enabled="F">
+    <x>0.9996573249755573</x>
+    <y>0.0000000000000000</y>
+    <z>0.0261769483078731</z>
+   </param>
+   <param id="worldYdirection" enabled="F">
+    <x>-0.0000000000000000</x>
+    <y>1.0000000000000000</y>
+    <z>0.0000000000000002</z>
+   </param>
+   <param id="worldZdirection" enabled="F">
+    <x>-0.0261769483078731</x>
+    <y>-0.0000000000000002</y>
+    <z>0.9996573249755574</z>
+   </param>
+  </object>
   <object name="M3" type="Cylinder">
    <param id="geometricalShape" comment="rectangle" enabled="T">0</param>
    <param id="totalWidth" enabled="T">40</param>
@@ -310,7 +346,7 @@
    <param id="exitArmLength" enabled="T">18500</param>
    <param id="bendingRadius" comment="Short Radius rho" enabled="T">1</param>
    <param id="radius" auto="T" enabled="T">484.3150361397434</param>
-   <param id="distancePreceding" enabled="T">3000</param>
+   <param id="distancePreceding" enabled="T">1500</param>
    <param id="azimuthalAngle" enabled="T">270</param>
    <param id="reflectivityType" comment="100%" enabled="T">0</param>
    <param id="materialSubstrate" enabled="F">Si</param>
@@ -348,7 +384,7 @@
    <param id="rotationYerror" enabled="T">0</param>
    <param id="rotationZerror" enabled="T">0</param>
    <param id="worldPosition" enabled="F">
-    <x>-183.2386388815943405</x>
+    <x>-183.2386388815943121</x>
     <y>13.9997780052539742</y>
     <z>26497.6013025721404119</z>
    </param>
@@ -398,7 +434,7 @@
    <param id="rotationYerror" enabled="F">0</param>
    <param id="rotationZerror" enabled="F">0</param>
    <param id="worldPosition" enabled="F">
-    <x>-183.2386388815942553</x>
+    <x>-183.2386388815942269</x>
     <y>13.9997780052496346</y>
     <z>44897.6013025721331360</z>
    </param>
@@ -438,7 +474,7 @@
    <param id="rotationYerror" enabled="F">0</param>
    <param id="rotationZerror" enabled="F">0</param>
    <param id="worldPosition" enabled="F">
-    <x>-183.2386388815942553</x>
+    <x>-183.2386388815942269</x>
     <y>13.9997780052496115</y>
     <z>44997.6013025721331360</z>
    </param>
@@ -509,7 +545,7 @@
    <param id="rotationYerror" enabled="F">0</param>
    <param id="rotationZerror" enabled="F">0</param>
    <param id="worldPosition" enabled="F">
-    <x>-183.2386388815942269</x>
+    <x>-183.2386388815941984</x>
     <y>13.9997780052484320</y>
     <z>49997.6013025721331360</z>
    </param>
@@ -590,7 +626,7 @@
    <param id="rotationYerror" enabled="F">0</param>
    <param id="rotationZerror" enabled="F">0</param>
    <param id="worldPosition" enabled="F">
-    <x>-198.9448078663181150</x>
+    <x>-198.9448078663180866</x>
     <y>13.9997780052482899</y>
     <z>50597.3956975574692478</z>
    </param>
@@ -623,7 +659,7 @@
   <object name="DetectorAtFocus" type="ImagePlane">
    <param id="distanceImagePlane" enabled="T">1400</param>
    <param id="worldPosition" enabled="F">
-    <x>-235.5799772363787667</x>
+    <x>-235.5799772363787383</x>
     <y>50.6475056362703668</y>
     <z>51996.4363718856693595</z>
    </param>
@@ -650,7 +686,7 @@
   <axes>true</axes>
   <names>true</names>
   <angles>true</angles>
-  <scaling>1</scaling>
+  <scaling>0</scaling>
   <scaleLinear>1.128</scaleLinear>
   <scaleExponent>0.658</scaleExponent>
   <scaleLinearOffset>3300</scaleLinearOffset>
