@@ -28,7 +28,8 @@ round_flux = 4
 round_rp   = 4
 
 
-ncpu = 12
+ncpu       = 12
+
 ### plotting colors
 import matplotlib
 import matplotlib.pyplot as plt
