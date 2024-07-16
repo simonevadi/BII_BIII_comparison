@@ -1,9 +1,10 @@
 import numpy as np
 
-rml_file_name_bessy3_short_37           = 'Bessy3_short_37'
-rml_file_name_bessy3_long_52            = 'Bessy3_long_52'
-rml_file_name_bessy3_long_52_PGM_in     = 'Bessy3_long_PGM_in'
-rml_file_name_bessy3_long_52_PGM_out    = 'Bessy3_long_PGM_out'
+# these must match the name of the rml files in the rml folder that you want to simulate
+rml_file_name_bessy3_short_37           = 'bessy3_short_37'
+rml_file_name_bessy3_long_52            = 'bessy3_long_52'
+rml_file_name_bessy3_long_52_PGM_in     = 'bessy3_long_52_PGM_in'
+rml_file_name_bessy3_long_52_PGM_out    = 'bessy3_long_52_PGM_out'
 
 #rml_file_name_bessy2_HiBeta_short_37   = 'Bessy2_HiBeta_short_37'
 #rml_file_name_bessy2_HiBeta_long_52    = 'Bessy2_HiBeta_long_52'
