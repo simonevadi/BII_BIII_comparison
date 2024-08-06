@@ -9,7 +9,7 @@ rml_file_name_bessy2_LoBeta_long    = 'Bessy2_LoBeta_long'
 
 
 order       = 1
-SlitSize    = np.array([ .1, .05, .01])
+SlitSize    = np.array([.018, .015, .012, .010, .008, .006])
 grating     = np.array([2400])
 cff         = np.array([2.25])
 
@@ -19,8 +19,8 @@ energy_rp   = np.arange(100, 2001,50)
 nrays_flux  = 1e5
 nrays_rp    = 1e5
 
-round_flux = 5
-round_rp   = 5
+round_flux = 4
+round_rp   = 4
 
 
 ncpu = 10
