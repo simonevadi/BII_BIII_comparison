@@ -134,6 +134,6 @@ for rml_file_name, ind in rml_comparison_list.items():
 handles, labels = flux_ax.get_legend_handles_labels()
 axs[0, 1].legend(handles, labels, loc='center', fontsize=16)
 plt.tight_layout()
-plt.savefig('plot/FluxRpFocus_comparison.png')
+plt.savefig('plot/FluxRpFocus_comparison.pdf')
 
 # plt.show()

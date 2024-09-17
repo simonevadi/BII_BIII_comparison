@@ -46,7 +46,7 @@ sim.params=params
 sim.simulation_name = sim_name
 
 # turn off reflectivity
-# sim.reflectivity(reflectivity=True)
+sim.reflectivity(reflectivity=True)
 
 # repeat the simulations as many time as needed
 sim.repeat = rounds

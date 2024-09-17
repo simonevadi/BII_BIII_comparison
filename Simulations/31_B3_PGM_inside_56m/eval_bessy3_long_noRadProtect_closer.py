@@ -152,6 +152,7 @@ ax.set_ylabel('Focus Size [um]')
 ax.set_title('Vertical Focus')
 
 plt.tight_layout()
-plt.savefig('plot/FluxRpFocus'+rml_file_name+'.png')
+#plt.savefig('plot/FluxRpFocus'+rml_file_name+'.png')
+plt.savefig('plot/FluxRpFocus'+rml_file_name+'.pdf')
 
 # plt.show()

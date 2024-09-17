@@ -18,11 +18,11 @@ moving_average = p.moving_average
 
 SlitSize = SlitSize*1000
 rml_comparison_list = {}
-rml_comparison_list[rml_file_name_bessy3_short_37]                          = 2
-rml_comparison_list[rml_file_name_bessy3_long_56_PGM_out]                   = 2
-rml_comparison_list[rml_file_name_bessy3_long_56_PGM_in]                    = 2
-rml_comparison_list[rml_file_name_bessy3_long_56_noRadProtect]              = 2
-rml_comparison_list[rml_file_name_bessy3_long_56_noRadProtect_closer]       = 2
+rml_comparison_list[rml_file_name_bessy3_short_37]                          = 1
+rml_comparison_list[rml_file_name_bessy3_long_56_PGM_out]                   = 1
+#rml_comparison_list[rml_file_name_bessy3_long_56_PGM_in]                    = 1
+#rml_comparison_list[rml_file_name_bessy3_long_56_noRadProtect]              = 1
+#rml_comparison_list[rml_file_name_bessy3_long_56_noRadProtect_closer]       = 1
 
 
 # set moving average window
@@ -136,6 +136,6 @@ for rml_file_name, ind in rml_comparison_list.items():
 handles, labels = flux_ax.get_legend_handles_labels()
 axs[0, 1].legend(handles, labels, loc='center', fontsize=16)
 plt.tight_layout()
-plt.savefig('plot/FluxRpFocus_comparison.png')
+plt.savefig('plot/FluxRpFocus_comparison_B3_short_vs_long.pdf')
 
 # plt.show()
