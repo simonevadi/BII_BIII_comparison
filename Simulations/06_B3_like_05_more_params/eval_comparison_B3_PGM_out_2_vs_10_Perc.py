@@ -27,7 +27,7 @@ flux2 = pd.read_csv(flux_path, sep='\t')
 folder = 'RAYPy_Simulation_'+rml_file_name_bessy3_long_PGM_2Perc_coupling+'_RP'
 file   = 'DetectorAtFocus_RawRaysIncoming.dat'
 rp_path = os.path.join(folder, file)
-flux2 = pd.read_csv(rp_path, sep='\t')
+rp2 = pd.read_csv(rp_path, sep='\t')
 
 # FLUX 10%
 folder = 'RAYPy_Simulation_'+rml_file_name_bessy3_long_PGM_10Perc_coupling+'_FLUX'
@@ -39,7 +39,7 @@ flux10 = pd.read_csv(flux_path, sep='\t')
 folder = 'RAYPy_Simulation_'+rml_file_name_bessy3_long_PGM_10Perc_coupling+'_RP'
 file   = 'DetectorAtFocus_RawRaysIncoming.dat'
 rp_path = os.path.join(folder, file)
-flux10 = pd.read_csv(rp_path, sep='\t')
+rp10 = pd.read_csv(rp_path, sep='\t')
 
 
 
