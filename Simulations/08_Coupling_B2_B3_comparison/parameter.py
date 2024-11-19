@@ -17,9 +17,9 @@ rml_file_name_bessy3_long_PGM_10Perc_coupling        = 'bessy3_long_52_PGM_out_1
 
 
 order       = 1
-SlitSize    = np.array([.012, .010, .008])
-grating     = np.array([600, 1200, 2400])
-cff         = np.array([2.50, 25])
+SlitSize    = np.array([.012, .010])
+grating     = np.array([1200])
+cff         = np.array([2.50])
 
 energy_flux = np.arange(100, 2001,50)
 energy_rp   = np.arange(100, 2001,50)
@@ -30,7 +30,7 @@ nrays_rp    = 1e5
 round_flux = 5
 round_rp   = 5
 
-ncpu       = 9
+ncpu       = 10
 
 ### plotting colors
 import matplotlib

@@ -1,0 +1,977 @@
+2024-11-19 21:46:44,716 - INFO - Simulation started, using 10 workers
+2024-11-19 21:46:44,722 - INFO - Start round 0
+2024-11-19 21:46:44,743 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,764 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,780 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,802 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,819 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,830 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,841 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,851 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,861 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,873 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,883 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,892 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,901 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,910 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,920 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,929 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,939 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,949 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,959 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,969 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,979 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,988 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:44,997 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,007 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,016 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,026 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,036 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,046 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,056 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,066 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,075 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,085 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,094 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,103 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,113 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,122 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,131 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,139 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,149 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,150 - INFO - Start round 1
+2024-11-19 21:46:45,154 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,158 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,162 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,167 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,171 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,176 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,180 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,184 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,189 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,193 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,197 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:45,215 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-11-19 21:46:47,565 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:47,589 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:47,594 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:47,651 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:47,849 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:47,859 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:47,878 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:48,040 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:48,248 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:49,931 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:50,572 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:50,628 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:50,793 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:50,844 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:50,966 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:51,007 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:51,313 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:51,534 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:51,660 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:53,196 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:53,445 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:53,704 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:53,757 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:53,834 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:53,863 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:53,908 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:54,096 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:54,129 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:54,245 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:55,296 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:55,449 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:55,753 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:55,955 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:55,981 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:56,100 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:56,230 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:56,292 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:56,454 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:56,793 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_0/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:57,815 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:57,868 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:58,092 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:58,249 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:58,349 - INFO - Completed: 44, remaining: 6, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:58,369 - INFO - Completed: 45, remaining: 5, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:58,388 - INFO - Completed: 46, remaining: 4, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:58,460 - INFO - Completed: 47, remaining: 3, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:58,548 - INFO - Completed: 48, remaining: 2, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:58,893 - INFO - Completed: 49, remaining: 1, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,452 - INFO - Completed: 50, remaining: 0, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,452 - INFO - Batch Completed
+2024-11-19 21:46:59,452 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 21:46:59,457 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,462 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,471 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,475 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,479 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,483 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,489 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,494 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,506 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,509 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,514 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,517 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,521 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,525 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,529 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,533 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,536 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,540 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,543 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,546 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,550 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,553 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,556 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,560 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,563 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,566 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,570 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,573 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,573 - INFO - Start round 2
+2024-11-19 21:46:59,576 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,580 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,584 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,587 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,591 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,594 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,597 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,600 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,603 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,607 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,610 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,613 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,616 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,619 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,622 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,625 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,629 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,632 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,635 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,638 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,641 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,645 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:46:59,646 - INFO - Waiting for batch number: 1, timeout: 15.89820711135864s
+2024-11-19 21:47:01,687 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:01,890 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:01,947 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:01,997 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:02,018 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:02,077 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:02,354 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:02,408 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:02,457 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:04,490 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:04,552 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:04,586 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:04,630 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:04,792 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:04,838 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:04,864 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:05,067 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:05,142 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:05,160 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:06,846 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:07,019 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:07,127 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:07,376 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:07,383 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:07,444 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:07,610 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:07,636 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:07,806 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_1/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:08,020 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:09,691 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:10,085 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:10,203 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:10,355 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:10,506 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:10,579 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:10,661 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:10,821 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:10,866 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:11,017 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:12,721 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:13,082 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:13,158 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:13,273 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:13,423 - INFO - Completed: 44, remaining: 6, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:13,528 - INFO - Completed: 45, remaining: 5, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:13,660 - INFO - Completed: 46, remaining: 4, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:13,778 - INFO - Completed: 47, remaining: 3, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:13,928 - INFO - Completed: 48, remaining: 2, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:14,160 - INFO - Completed: 49, remaining: 1, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,032 - INFO - Completed: 50, remaining: 0, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,032 - INFO - Batch Completed
+2024-11-19 21:47:15,032 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 21:47:15,037 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,044 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,054 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,062 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,071 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,076 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,082 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,087 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,093 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,097 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,102 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,108 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,114 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,120 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,124 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,129 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,134 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,134 - INFO - Start round 3
+2024-11-19 21:47:15,139 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,143 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,148 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,153 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,157 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,162 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,166 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,170 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,174 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,178 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,182 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,186 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,190 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,194 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,199 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,203 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,207 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,211 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,214 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,218 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,222 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,226 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,231 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,235 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,239 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,243 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,247 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,251 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,254 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,258 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,262 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,266 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,270 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:15,271 - INFO - Waiting for batch number: 2, timeout: 16.381218037605286s
+2024-11-19 21:47:17,364 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:17,546 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:17,553 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:17,615 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:17,702 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:17,820 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:17,993 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:18,108 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:18,449 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:19,748 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:19,804 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:19,825 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:19,875 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:19,934 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:20,146 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:20,234 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:20,411 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_2/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:21,019 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:22,423 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:22,905 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:22,983 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:23,266 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:23,294 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:23,345 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:23,402 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:23,562 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:23,738 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:24,221 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:25,658 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:25,933 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:26,297 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:26,381 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:26,551 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:26,653 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:26,719 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:26,810 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:27,171 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:27,597 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:29,128 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:29,139 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:29,364 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:29,447 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:29,465 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:29,514 - INFO - Completed: 44, remaining: 6, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:29,601 - INFO - Completed: 45, remaining: 5, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:29,637 - INFO - Completed: 46, remaining: 4, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:30,023 - INFO - Completed: 47, remaining: 3, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:30,227 - INFO - Completed: 48, remaining: 2, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:30,857 - INFO - Completed: 49, remaining: 1, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:30,993 - INFO - Completed: 50, remaining: 0, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:30,993 - INFO - Batch Completed
+2024-11-19 21:47:30,993 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 21:47:31,000 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,014 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,020 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,025 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,036 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,046 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,046 - INFO - Start round 4
+2024-11-19 21:47:31,060 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,066 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,071 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,077 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,083 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,088 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,093 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,098 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,103 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,108 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,112 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,117 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,122 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,127 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,131 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,136 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,141 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,146 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,150 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,155 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,159 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,164 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,169 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,173 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,178 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,184 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,189 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,194 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,199 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,203 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,209 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,214 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,218 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,224 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,229 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,234 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,239 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,243 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,248 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,248 - INFO - Start round 5
+2024-11-19 21:47:31,253 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,258 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,263 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,267 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,272 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:31,273 - INFO - Waiting for batch number: 3, timeout: 16.77620865821838s
+2024-11-19 21:47:33,203 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:33,316 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:33,324 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:33,378 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:33,789 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:33,825 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:33,909 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:34,035 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:35,711 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:36,001 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_3/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:36,185 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:36,469 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:36,650 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:36,863 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:37,163 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:37,437 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:37,544 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:37,675 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:39,130 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:39,378 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:39,552 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:39,698 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:39,836 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:39,859 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:40,148 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:40,191 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:40,547 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:40,766 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:42,295 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:42,430 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:42,543 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:42,686 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:42,793 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:42,855 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:42,919 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:42,925 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:43,426 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:43,550 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:44,763 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:44,846 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:44,948 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:44,968 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:45,122 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:45,139 - INFO - Completed: 44, remaining: 6, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:45,233 - INFO - Completed: 45, remaining: 5, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_4/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:45,426 - INFO - Completed: 46, remaining: 4, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:45,828 - INFO - Completed: 47, remaining: 3, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:45,831 - INFO - Completed: 48, remaining: 2, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,704 - INFO - Completed: 49, remaining: 1, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,864 - INFO - Completed: 50, remaining: 0, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,864 - INFO - Batch Completed
+2024-11-19 21:47:46,864 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 21:47:46,872 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,881 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,900 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,905 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,913 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,924 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,930 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,936 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,943 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,948 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,952 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,957 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,961 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,966 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,971 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,976 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,980 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,984 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,987 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,991 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,994 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:46,998 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,001 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,005 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,008 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,012 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,015 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,019 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,022 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,025 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,029 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,032 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,036 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,041 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,041 - INFO - Start round 6
+2024-11-19 21:47:47,046 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,049 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,053 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,056 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,061 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,064 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,068 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,072 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,076 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,079 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,083 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,086 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,090 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,093 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,097 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,100 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:47,101 - INFO - Waiting for batch number: 4, timeout: 16.881458480358123s
+2024-11-19 21:47:49,509 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:49,582 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:49,649 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:49,691 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:49,740 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:49,746 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:49,865 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:50,024 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:50,118 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:52,206 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:52,806 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:52,913 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:52,969 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:53,083 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:53,181 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:53,263 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:53,344 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:53,439 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:53,479 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:54,985 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:55,213 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:55,328 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:55,406 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:55,494 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:55,616 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:55,688 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:55,714 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:55,731 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:56,309 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:57,305 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:57,645 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:57,798 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:57,885 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:57,899 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_5/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:58,693 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:58,711 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:58,824 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:58,936 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:47:59,430 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:00,378 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:00,651 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:00,824 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:00,922 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:00,959 - INFO - Completed: 44, remaining: 6, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:01,367 - INFO - Completed: 45, remaining: 5, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:01,509 - INFO - Completed: 46, remaining: 4, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:01,573 - INFO - Completed: 47, remaining: 3, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:01,681 - INFO - Completed: 48, remaining: 2, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:01,863 - INFO - Completed: 49, remaining: 1, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,637 - INFO - Completed: 50, remaining: 0, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,637 - INFO - Batch Completed
+2024-11-19 21:48:02,637 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 21:48:02,646 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,663 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,670 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,675 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,684 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,690 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,696 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,702 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,706 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,710 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,714 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,718 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,725 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,731 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,735 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,739 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,743 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,748 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,752 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,755 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,759 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,763 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,766 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,766 - INFO - Start round 7
+2024-11-19 21:48:02,770 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,774 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,778 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,782 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,785 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,789 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,793 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,796 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,800 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,804 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,807 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,811 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,815 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,818 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,822 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,826 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,830 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,833 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,837 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,840 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,844 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,848 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,851 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,855 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,859 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,863 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,868 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:02,869 - INFO - Waiting for batch number: 5, timeout: 16.93570587158203s
+2024-11-19 21:48:04,906 - INFO - Completed: 1, remaining: 49, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:05,091 - INFO - Completed: 2, remaining: 48, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:05,265 - INFO - Completed: 3, remaining: 47, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:05,528 - INFO - Completed: 4, remaining: 46, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:05,535 - INFO - Completed: 5, remaining: 45, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:05,632 - INFO - Completed: 6, remaining: 44, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:05,770 - INFO - Completed: 7, remaining: 43, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:05,961 - INFO - Completed: 8, remaining: 42, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:06,007 - INFO - Completed: 9, remaining: 41, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:07,393 - INFO - Completed: 10, remaining: 40, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:07,516 - INFO - Completed: 11, remaining: 39, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:07,590 - INFO - Completed: 12, remaining: 38, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:07,878 - INFO - Completed: 13, remaining: 37, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:07,983 - INFO - Completed: 14, remaining: 36, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:08,043 - INFO - Completed: 15, remaining: 35, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:08,184 - INFO - Completed: 16, remaining: 34, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:08,343 - INFO - Completed: 17, remaining: 33, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:08,469 - INFO - Completed: 18, remaining: 32, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:09,892 - INFO - Completed: 19, remaining: 31, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:10,060 - INFO - Completed: 20, remaining: 30, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:10,164 - INFO - Completed: 21, remaining: 29, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:10,281 - INFO - Completed: 22, remaining: 28, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:10,852 - INFO - Completed: 23, remaining: 27, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:10,859 - INFO - Completed: 24, remaining: 26, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:11,135 - INFO - Completed: 25, remaining: 25, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:11,355 - INFO - Completed: 26, remaining: 24, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:11,570 - INFO - Completed: 27, remaining: 23, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:12,734 - INFO - Completed: 28, remaining: 22, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:12,898 - INFO - Completed: 29, remaining: 21, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:12,959 - INFO - Completed: 30, remaining: 20, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:13,013 - INFO - Completed: 31, remaining: 19, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:13,437 - INFO - Completed: 32, remaining: 18, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:13,570 - INFO - Completed: 33, remaining: 17, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:13,912 - INFO - Completed: 34, remaining: 16, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:14,134 - INFO - Completed: 35, remaining: 15, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:14,554 - INFO - Completed: 36, remaining: 14, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:15,772 - INFO - Completed: 37, remaining: 13, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:15,947 - INFO - Completed: 38, remaining: 12, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:15,967 - INFO - Completed: 39, remaining: 11, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:16,187 - INFO - Completed: 40, remaining: 10, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:16,470 - INFO - Completed: 41, remaining: 9, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:16,527 - INFO - Completed: 42, remaining: 8, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:16,696 - INFO - Completed: 43, remaining: 7, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:16,818 - INFO - Completed: 44, remaining: 6, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:17,203 - INFO - Completed: 45, remaining: 5, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:17,857 - INFO - Completed: 46, remaining: 4, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:17,949 - INFO - Completed: 47, remaining: 3, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:17,959 - INFO - Completed: 48, remaining: 2, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:18,111 - INFO - Completed: 49, remaining: 1, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:19,807 - INFO - Exception during simulation: 1 (of 50) futures unfinished
+2024-11-19 21:48:24,814 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:29,821 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:34,827 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:39,829 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:44,834 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:49,844 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:54,848 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:48:59,855 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:04,858 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:09,864 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:14,865 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:19,870 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:24,872 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:29,882 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:34,890 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:39,895 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:44,908 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:49,911 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:54,912 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:49:59,913 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:04,920 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:09,926 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:14,928 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:19,934 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:24,938 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:29,944 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:34,949 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:39,955 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:44,959 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:49,969 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:54,973 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:50:59,996 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:05,003 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:10,008 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:15,014 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:20,031 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:25,035 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:30,043 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:35,049 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:40,055 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:45,057 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:50,063 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:51:55,067 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:00,074 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:05,077 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:10,079 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:15,081 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:20,084 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:25,089 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:30,097 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:35,099 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:40,102 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:45,112 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:50,137 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:52:55,141 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:00,145 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:05,149 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:10,157 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:15,161 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:20,166 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:25,173 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:30,184 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:35,190 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:40,195 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:45,199 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:50,203 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:53:55,204 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:00,208 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:05,214 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:10,215 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:15,223 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:20,228 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:25,232 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:30,238 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:35,243 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:40,260 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:45,263 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:50,265 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:54:55,277 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:00,282 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:05,283 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:10,290 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:15,301 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:20,304 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:25,306 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:30,314 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:35,318 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:40,322 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:45,327 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:50,331 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:55:55,337 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:00,345 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:05,347 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:10,355 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:15,357 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:20,365 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:25,371 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:38,571 - INFO - Simulation started, using 12 workers
+2024-11-19 21:56:38,575 - INFO - Start round 0
+2024-11-19 21:56:38,852 - INFO - Start round 1
+2024-11-19 21:56:38,858 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-11-19 21:56:38,859 - INFO - Batch Completed
+2024-11-19 21:56:38,859 - INFO - Waiting For batch, 60 simulations to go
+2024-11-19 21:56:38,865 - INFO - Start round 2
+2024-11-19 21:56:38,875 - INFO - Start round 3
+2024-11-19 21:56:38,877 - INFO - Waiting for batch number: 1, timeout: 60s
+2024-11-19 21:56:38,877 - INFO - Batch Completed
+2024-11-19 21:56:38,877 - INFO - Waiting For batch, 60 simulations to go
+2024-11-19 21:56:38,905 - INFO - Start round 4
+2024-11-19 21:56:38,916 - INFO - Waiting for batch number: 2, timeout: 60s
+2024-11-19 21:56:38,916 - INFO - Batch Completed
+2024-11-19 21:56:38,916 - INFO - Waiting For batch, 60 simulations to go
+2024-11-19 21:56:38,925 - INFO - Start round 5
+2024-11-19 21:56:38,937 - INFO - Start round 6
+2024-11-19 21:56:38,940 - INFO - Waiting for batch number: 3, timeout: 60s
+2024-11-19 21:56:38,940 - INFO - Batch Completed
+2024-11-19 21:56:38,940 - INFO - Waiting For batch, 60 simulations to go
+2024-11-19 21:56:38,951 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:38,956 - INFO - Start round 7
+2024-11-19 21:56:38,983 - INFO - Waiting for batch number: 4, timeout: 60s
+2024-11-19 21:56:40,760 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_6/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,761 - INFO - Batch Completed
+2024-11-19 21:56:40,761 - INFO - Waiting For batch, 60 simulations to go
+2024-11-19 21:56:40,780 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,791 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,802 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,813 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,822 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,829 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,838 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,846 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,854 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,861 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,868 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,875 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,876 - INFO - Start round 8
+2024-11-19 21:56:40,883 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,890 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,897 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,904 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,912 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,920 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,928 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,936 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,944 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,951 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,959 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,966 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,974 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,982 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,990 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:40,998 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,006 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,014 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,022 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,029 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,036 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,043 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,050 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,058 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,065 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,073 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,080 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,085 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,092 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,099 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,107 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,114 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,120 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,126 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,132 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,138 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,146 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,152 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,159 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,160 - INFO - Start round 9
+2024-11-19 21:56:41,166 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,171 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,178 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,185 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,192 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,198 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,204 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,211 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,219 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:41,220 - INFO - Waiting for batch number: 5, timeout: 10.651471138000488s
+2024-11-19 21:56:43,304 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,398 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,417 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,459 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,492 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,496 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,537 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,664 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,757 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:43,796 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:45,517 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:45,720 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_7/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:46,450 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/6_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:46,499 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/2_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:46,639 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/7_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:46,683 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/1_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:46,908 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/3_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:46,918 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/8_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:47,000 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:47,020 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/4_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:47,050 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/5_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:47,180 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/0_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:48,281 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:48,544 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:48,869 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:48,977 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:49,088 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:49,201 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:49,319 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:49,346 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:49,360 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:49,395 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:49,538 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:49,631 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:50,644 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:50,860 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:50,901 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:50,943 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:50,997 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:51,160 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:51,223 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:51,303 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:51,365 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:51,474 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:51,631 - INFO - Completed: 45, remaining: 15, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:51,703 - INFO - Completed: 46, remaining: 14, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:51,873 - INFO - Exception during simulation: 14 (of 60) futures unfinished
+2024-11-19 21:56:57,027 - INFO - Waiting for file RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_8/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,043 - INFO - Found all simulations of the batch, futures missed 14 simulations
+2024-11-19 21:56:57,045 - INFO - Updated progress bar
+2024-11-19 21:56:57,045 - INFO - Batch Completed
+2024-11-19 21:56:57,045 - INFO - Waiting For batch, 60 simulations to go
+2024-11-19 21:56:57,051 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,061 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,069 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,085 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,091 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,096 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,104 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,114 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,120 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,125 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,130 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,134 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,140 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,145 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,151 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,156 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,161 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,167 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,172 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,178 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,183 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,188 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,193 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,198 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,204 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,209 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,214 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,220 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,224 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,229 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:57,229 - INFO - Waiting for batch number: 6, timeout: 15.483079920423792s
+2024-11-19 21:56:59,597 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/9_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:59,728 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/17_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:59,805 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/20_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:59,830 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/18_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:59,935 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/10_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:59,938 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/16_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:59,956 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/14_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:56:59,995 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/11_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:00,057 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/13_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:00,110 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/15_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:00,239 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/19_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:01,718 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/12_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:01,969 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/27_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,035 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/29_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,153 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/26_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,231 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/30_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,281 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/24_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,292 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/28_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,336 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/31_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,389 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/23_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,495 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/25_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,530 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/22_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:02,571 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/21_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:03,508 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/32_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:03,675 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/34_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:03,693 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/33_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:03,794 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/35_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:03,826 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/36_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:03,892 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/38_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:04,033 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_bessy2_52m_PGM_2Perc_coupling_RP/round_9/37_bessy2_52m_PGM_2Perc_coupling_RP.rml
+2024-11-19 21:57:04,033 - INFO - Batch Completed
+2024-11-19 21:57:04,034 - INFO - Waiting For batch, 60 simulations to go
+2024-11-19 21:57:04,034 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-11-19 21:57:04,034 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-11-19 21:57:04,259 - INFO - Executor shutdown completed.
+2024-11-19 21:57:04,279 - INFO - Simulation completed successfully.
+2024-11-19 21:57:04,279 - INFO - Starting cleanup
+2024-11-19 21:57:05,845 - INFO - Done with the cleanup
+2024-11-19 21:57:05,846 - INFO - Create Pandas Recap Files
+2024-11-19 21:57:05,870 - INFO - End of the Simulations
+2024-11-19 22:05:20,679 - INFO - Simulation started, using 10 workers
+2024-11-19 22:05:20,683 - INFO - Start round 0
+2024-11-19 22:05:20,965 - INFO - Start round 1
+2024-11-19 22:05:20,969 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-11-19 22:05:20,969 - INFO - Batch Completed
+2024-11-19 22:05:20,969 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 22:05:20,978 - INFO - Start round 2
+2024-11-19 22:05:20,989 - INFO - Waiting for batch number: 1, timeout: 60s
+2024-11-19 22:05:20,990 - INFO - Batch Completed
+2024-11-19 22:05:20,990 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 22:05:21,003 - INFO - Start round 3
+2024-11-19 22:05:21,021 - INFO - Waiting for batch number: 2, timeout: 60s
+2024-11-19 22:05:21,021 - INFO - Batch Completed
+2024-11-19 22:05:21,021 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 22:05:21,028 - INFO - Start round 4
+2024-11-19 22:05:21,040 - INFO - Start round 5
+2024-11-19 22:05:21,043 - INFO - Waiting for batch number: 3, timeout: 60s
+2024-11-19 22:05:21,043 - INFO - Batch Completed
+2024-11-19 22:05:21,043 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 22:05:21,054 - INFO - Start round 6
+2024-11-19 22:05:21,059 - INFO - Waiting for batch number: 4, timeout: 60s
+2024-11-19 22:05:21,060 - INFO - Batch Completed
+2024-11-19 22:05:21,060 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 22:05:21,068 - INFO - Start round 7
+2024-11-19 22:05:21,075 - INFO - Waiting for batch number: 5, timeout: 60s
+2024-11-19 22:05:21,075 - INFO - Batch Completed
+2024-11-19 22:05:21,075 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 22:05:21,080 - INFO - Start round 8
+2024-11-19 22:05:21,090 - INFO - Waiting for batch number: 6, timeout: 60s
+2024-11-19 22:05:21,090 - INFO - Batch Completed
+2024-11-19 22:05:21,090 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 22:05:21,091 - INFO - Start round 9
+2024-11-19 22:05:21,102 - INFO - Waiting for batch number: 7, timeout: 60s
+2024-11-19 22:05:21,103 - INFO - Batch Completed
+2024-11-19 22:05:21,103 - INFO - Waiting For batch, 50 simulations to go
+2024-11-19 22:05:21,103 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-11-19 22:05:21,104 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-11-19 22:05:21,219 - INFO - Executor shutdown completed.
+2024-11-19 22:05:21,219 - INFO - Simulation completed successfully.
+2024-11-19 22:05:21,219 - INFO - Starting cleanup
+2024-11-19 22:05:21,997 - INFO - Done with the cleanup
+2024-11-19 22:05:21,997 - INFO - Create Pandas Recap Files
+2024-11-19 22:05:22,015 - INFO - End of the Simulations
