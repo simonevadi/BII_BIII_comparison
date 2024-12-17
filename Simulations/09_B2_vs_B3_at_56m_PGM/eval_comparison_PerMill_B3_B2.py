@@ -95,4 +95,4 @@ ax.minorticks_on()
  
 plt.suptitle('PGM-Undulator (SU), 1200 l/mm unknown grating')
 plt.tight_layout()
-plt.savefig('plot/Per Mill BESSY III with 56m PGM standard BL.pdf')
+plt.savefig('plot/Per Mill BESSY II_III at 56m PGM standard BL.pdf')

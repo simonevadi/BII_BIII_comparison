@@ -15,10 +15,9 @@ from helper_lib import get_reflectivity
 from helper_lib import scale_undulator_flux, order
 
 # import simulation parameters
-from parameter import energy_rp, energy_flux
 from parameter import SlitSize
 from parameter import rml_file_name_bessy3_56m as rml_file_name
-from parameter import colors, grating
+from parameter import grating
 
 
 # file/folder/ml index definition

@@ -58,8 +58,8 @@
    <param id="entranceArmLengthSag" enabled="T">23500</param>
    <param id="exitArmLengthSag" enabled="T">1e+19</param>
    <param id="entranceArmLengthMer" enabled="T">23500</param>
-   <param id="exitArmLengthMer" enabled="T">25990</param>
-   <param id="longRadius" auto="T" enabled="T">1885647.263753224</param>
+   <param id="exitArmLengthMer" enabled="T">25650</param>
+   <param id="longRadius" auto="T" enabled="T">1873852.820834308</param>
    <param id="shortRadius" auto="T" enabled="T">615.2109918531871</param>
    <param id="distancePreceding" enabled="T">23500</param>
    <param id="azimuthalAngle" enabled="T">90</param>
@@ -463,11 +463,11 @@
    <param id="totalWidth" enabled="T">40</param>
    <param id="totalLength" enabled="T">600</param>
    <param id="grazingIncAngle" enabled="T">0.75</param>
-   <param id="entranceArmLength" enabled="T">5100</param>
-   <param id="exitArmLength" enabled="T">2325</param>
+   <param id="entranceArmLength" enabled="T">5000</param>
+   <param id="exitArmLength" enabled="T">2110</param>
    <param id="designGrazingIncAngle" auto="T" enabled="T">0.75</param>
-   <param id="longHalfAxisA" auto="T" enabled="T">3712.5</param>
-   <param id="shortHalfAxisB" auto="T" enabled="T">45.07365695353301</param>
+   <param id="longHalfAxisA" auto="T" enabled="T">3555</param>
+   <param id="shortHalfAxisB" auto="T" enabled="T">42.51600585585795</param>
    <param id="figureRotation" comment="plane" enabled="T">1</param>
    <param id="parameter_a11" enabled="F">1</param>
    <param id="distancePreceding" enabled="T">5000</param>

@@ -1012,3 +1012,67 @@
 2024-12-16 13:55:04,049 - INFO - Done with the cleanup
 2024-12-16 13:55:04,049 - INFO - Create Pandas Recap Files
 2024-12-16 13:55:04,072 - INFO - End of the Simulations
+2024-12-17 12:09:04,211 - INFO - Simulation started, using 12 workers
+2024-12-17 12:09:04,213 - INFO - Start round 0
+2024-12-17 12:09:04,222 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/0_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,234 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/1_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,243 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/2_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,253 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/3_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,266 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/4_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,274 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/5_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,282 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/6_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,290 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/7_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,299 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/8_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,308 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/9_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,316 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/10_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,327 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/11_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,340 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/12_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,348 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/13_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,355 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/14_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,363 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/15_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,372 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/16_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,380 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/17_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,386 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/18_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,393 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/19_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,401 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/20_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,410 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/21_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,418 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/22_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,426 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/23_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,435 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/24_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,441 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/25_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,449 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/26_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,456 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/27_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,464 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/28_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,471 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/29_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,479 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/30_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,486 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/31_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,494 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/32_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,502 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/33_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,509 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/34_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,517 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/35_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,524 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/36_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,531 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/37_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,539 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/38_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,546 - INFO - Prepared sim number: 39: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/39_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,553 - INFO - Prepared sim number: 40: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/40_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,561 - INFO - Prepared sim number: 41: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_0/41_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,561 - INFO - Start round 1
+2024-12-17 12:09:04,565 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/0_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,568 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/1_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,572 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/2_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,578 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/3_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,584 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/4_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,589 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/5_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,595 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/6_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,598 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/7_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,602 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/8_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,606 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/9_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,609 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/10_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,614 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/11_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,621 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/12_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,626 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/13_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,632 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/14_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,636 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/15_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,640 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/16_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,644 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX/round_1/17_bessy3_37m_PGM_2Perc_coupling_errors_on_FLUX.rml
+2024-12-17 12:09:04,658 - INFO - Waiting for batch number: 0, timeout: 60s
