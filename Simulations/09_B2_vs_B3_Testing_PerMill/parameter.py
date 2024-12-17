@@ -2,13 +2,13 @@ import numpy as np
 
 # these must match the name of the rml files in the rml folder that you want to simulate
 
-rml_file_name_bessy2_56m     = 'bessy2_56m_PGM_2Perc_coupling_errors_off'
-rml_file_name_bessy3_56m     = 'bessy3_56m_PGM_2Perc_coupling_errors_off'
+rml_file_name_bessy2_52m     = 'bessy2_LoBeta_long_52'
+rml_file_name_bessy3_52m     = 'bessy3_long_52'
 
 
 order       = 1
 SlitSize    = np.array([.020])
-grating     = np.array([1200])
+grating     = np.array([2400])
 cff         = np.array([2.50])
 
 energy_flux = np.arange(50, 2101, 50)
