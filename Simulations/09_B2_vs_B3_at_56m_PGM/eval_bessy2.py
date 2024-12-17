@@ -46,27 +46,50 @@ fig, (axs) = plt.subplots(3, 2,figsize=(10,10))
 fig.suptitle(f"{rml_file_name}, {grating[0]} l/mm grating")
 
 
-# MIRROR COATING
-# de = 38.9579-30.0000
-# table = 'Henke'
-# theta = 
-# E = np.arange(50, 5001, de)
-# Ir  = rm.Material('Ir',  rho=22.56, kind='mirror',table=table)
-# Cr  = rm.Material('Cr',  rho=7.15,  kind='mirror',table=table)
-# B4C = rm.Material('C', rho=2.52,  kind='mirror',  table=table)
-# IrCrB4C = rm.Multilayer( tLayer=B4C, tThickness=40, 
-#                         bLayer=Cr, bThickness=60, 
-#                         nPairs=1, substrate=Ir)
+## MIRROR COATING
+#de = 38.9579-30.0000
+#table = 'Henke'
+#theta = 1.5
+#E = np.arange(50, 5001, de)
+#Ir  = rm.Material('Ir',  rho=22.56, kind='mirror',table=table)
+#Cr  = rm.Material('Cr',  rho=7.15,  kind='mirror',table=table)
+#B4C = rm.Material('C', rho=2.52,  kind='mirror',  table=table)
+#IrCrB4C = rm.Multilayer( tLayer=B4C, tThickness=40, 
+#                        bLayer=Cr, bThickness=60, 
+#                        nPairs=1, substrate=Ir)
+#
+#IrCrB4C, _ = get_reflectivity(IrCrB4C, E=E, theta=theta)
+#
+#ax2=axs[0,0]
+#ax2.set_xlabel('Energy [eV]')
+#ax2.set_ylabel('Reflectivity [a.u.]')
+#ax2.set_title('Mirror Coating Reflectivity')
+#ax2.plot(E, IrCrB4C, 'b', label='IrCrB4C')
+#ax2.legend()
+#
 
-# IrCrB4C, _ = get_reflectivity(IrCrB4C, E=E, theta=theta)
+# Mirror Coating
 
-# ax2=axs[0,0]
-# ax2.set_xlabel('Energy [eV]')
-# ax2.set_ylabel('Reflectivity [a.u.]')
-# ax2.set_title('Mirror Coating Reflectivity')
-# ax2.plot(E, IrCrB4C, 'b', label='IrCrB4C')
-# ax2.legend()
+table = 'Henke'
+incident_angle = 0.75           #Angel of incidence
+E   = np.arange(40, 2100, 1)
+Au  = rm.Material('Au',  rho=19.3, kind='mirror',table=table)
+Pt  = rm.Material('Pt',  rho=21.45, kind='mirror',table=table)
+# C   = rm.Material('C',   rho=2.2, kind='mirror',table=table)
 
+Au_r, _ = get_reflectivity(Au, E=E, theta=incident_angle)
+Pt_r, _ = get_reflectivity(Pt, E=E, theta=incident_angle)
+# C_r, _  = get_reflectivity(C, E=E, theta=incident_angle)
+
+ax2=axs[0,0]
+ax2.set_xlabel('Energy [eV]')
+ax2.set_ylabel('Reflectivity [a.u.]')
+ax2.set_title('Mirror Coating Reflectivity')
+ax2.plot(E, Au_r, label='Au')
+ax2.plot(E, Pt_r, label='Pt')
+# ax2.plot(E, C_r, label='C')
+ax2.minorticks_on()
+ax2.legend()
 
 
 # BEAMLINE TRANSMISSION / AVAIABLE FLUX
@@ -82,7 +105,8 @@ for ind, es_size in enumerate(SlitSize):
 ax.set_xlabel(r'Energy [eV]')
 ax.set_ylabel('Transmission [%]')
 ax.set_title('Available Flux [in transmitted bandwidth]')
-ax.grid(which='both', axis='both')
+# ax.grid(which='both', axis='both')
+ax.minorticks_on()
 ax.legend()
 
 
@@ -98,7 +122,8 @@ for ind, es_size in enumerate(SlitSize):
 ax.set_xlabel('Energy [eV]')
 ax.set_ylabel('Transmitted Bandwidth [eV]')
 ax.set_title('Transmitted bandwidth (tbw)')
-ax.grid(which='both', axis='both')
+# ax.grid(which='both', axis='both')
+ax.minorticks_on()
 
 
 
@@ -114,7 +139,8 @@ for ind, es_size in enumerate(SlitSize):
 ax.set_xlabel('Energy [eV]')
 ax.set_ylabel('RP [a.u.]')
 ax.set_title('Resolving Power')
-ax.grid(which='both', axis='both')
+# ax.grid(which='both', axis='both')
+ax.minorticks_on()
 ax.legend()
 
 
@@ -144,6 +170,7 @@ ax.plot(energy,focx*1000, label=f'ExitSlit {int(es_size*1000)} um' )
 ax.set_xlabel('Energy [eV]')
 ax.set_ylabel('Focus Size [um]')
 ax.set_title('Horizontal focus')
+ax.minorticks_on()
 ax.legend()
 
 
@@ -159,6 +186,7 @@ for ind, es_size in enumerate(SlitSize):
 
 ax.set_xlabel('Energy [eV]')
 ax.set_ylabel('Focus Size [um]')
+ax.minorticks_on()
 ax.set_title('Vertical focus')
 
 plt.suptitle('PGM, 1200 l/mm grating (unkonwn)')
@@ -182,7 +210,8 @@ for ind, es_size in enumerate(SlitSize):
 ax.set_xlabel('Energy [keV]')
 ax.set_ylabel('Energy/1000/bandwidth [a.u.]')
 ax.set_title('PerMil Transmission')
-ax.grid(which='both', axis='both')
+ax.minorticks_on()
+# ax.grid(which='both', axis='both')
 
  
 # PERMIL FLUX 
@@ -190,16 +219,17 @@ ax = axs[1]
 for ind, es_size in enumerate(SlitSize):
      filtered_flux = flux[flux['ExitSlit.openingHeight'] == es_size]
      energy = filtered_flux['SU.photonEnergy']
-     abs_flux = filtered_flux['PhotonFlux']
+     rel_flux = filtered_flux['PercentageRaysSurvived']
      filtered_rp = rp[rp['ExitSlit.openingHeight'] == es_size]
      bw = filtered_rp['Bandwidth']
-     ax.plot(energy,(energy/1000/bw)*abs_flux)
+     ax.plot(energy,(energy/1000/bw)*rel_flux)
  
 ax.set_xlabel(r'Energy [eV]')
 ax.set_ylabel('Flux [ph/s/tbw]')
 ax.set_title('Transmission / Per MIl bandwidth')
-ax.grid(which='both', axis='both')
+ax.minorticks_on()
+# ax.grid(which='both', axis='both')
  
-plt.suptitle('PGM-Dipole, 2400 l/mm blazed grating + ML')
+plt.suptitle('PGM-Undulator (SU), 1200 l/mm unknown grating')
 plt.tight_layout()
-plt.savefig('plot/PGM-2400-ML-PGM-PerMil.pdf')
+plt.savefig('plot/PerMill BESSY II with 56m PGM standard BL.pdf')
