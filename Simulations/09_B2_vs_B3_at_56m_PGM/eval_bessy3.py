@@ -225,7 +225,7 @@ for ind, es_size in enumerate(SlitSize):
      ax.plot(energy,(energy/1000/bw)*abs_flux)
  
 ax.set_xlabel(r'Energy [eV]')
-ax.set_ylabel('Flux [ph/s/tbw]')
+ax.set_ylabel('E/1000/BW*Flux[%]')
 ax.set_title('Transmission / Per MIl bandwidth')
 ax.minorticks_on()
 # ax.grid(which='both', axis='both')
