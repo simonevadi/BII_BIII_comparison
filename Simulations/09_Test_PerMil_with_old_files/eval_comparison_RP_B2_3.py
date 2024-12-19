@@ -18,13 +18,16 @@ moving_average = p.moving_average
 SlitSize = SlitSize*1000
 rml_comparison_list = {}
 rml_comparison_list[rml_file_name_bessy3_long_52]         = 0
+rml_comparison_list[rml_file_name_bessy2_LoBeta_long_52]  = 0
+
 #rml_comparison_list[rml_file_name_bessy3_short_37]        = 2
 #rml_comparison_list[rml_file_name_bessy2_HiBeta_long_52]  = 2
 #rml_comparison_list[rml_file_name_bessy2_HiBeta_short_37] = 2
-rml_comparison_list[rml_file_name_bessy2_LoBeta_long_52]  = 0
 #rml_comparison_list[rml_file_name_bessy2_LoBeta_short_37] = 2
+
+
 # set moving average window
-window = 10
+window = 1
 
 # prepare figures
 fig, (axs) = plt.subplots(3, 2,figsize=(10,10))

@@ -29,13 +29,9 @@ from parameter import SlitSize, cff, nrays_flux as nrays
 # define a list of dictionaries with the parameters to scan
 params = [  
             {beamline.PG.cFactor:cff}, 
-
-            {beamline.ExitSlit.openingHeight:SlitSize},
-            
-            {beamline.SU.photonEnergy:energy},
-            
+            {beamline.ExitSlit.openingHeight:SlitSize},           
+            {beamline.SU.photonEnergy:energy},           
             {beamline.PG.orderDiffraction:order},
-
             {beamline.SU.numberRays:nrays}
         ]
 
