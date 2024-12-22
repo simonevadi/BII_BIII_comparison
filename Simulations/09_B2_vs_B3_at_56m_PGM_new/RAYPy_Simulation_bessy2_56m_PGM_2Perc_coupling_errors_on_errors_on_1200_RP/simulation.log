@@ -1,0 +1,934 @@
+2024-12-22 11:58:51,338 - INFO - Simulation started, using 8 workers
+2024-12-22 11:58:51,340 - INFO - Start round 0
+2024-12-22 11:58:51,342 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,344 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,346 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,348 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,349 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,351 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,353 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,355 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,357 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,359 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,361 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,363 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,365 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,367 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,368 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,370 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,371 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,373 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,375 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,377 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,379 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,380 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,382 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,384 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,386 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,388 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,389 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,391 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,393 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,395 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,397 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,398 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,400 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,402 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,404 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,406 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,407 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,409 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,411 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,412 - INFO - Prepared sim number: 39: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:51,431 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-12-22 11:58:58,306 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:58,331 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:58,921 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:58,977 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:58:59,096 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:00,616 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:00,694 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:02,226 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:04,287 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:05,998 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:06,351 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:07,426 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:07,436 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:08,061 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:08,282 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:09,842 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:11,612 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:12,230 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:12,498 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:13,615 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:15,098 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:16,497 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:17,180 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:17,512 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:18,835 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:21,039 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:21,085 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:21,302 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:21,436 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:23,330 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:24,731 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:25,219 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:26,411 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:26,422 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:27,907 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:28,401 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:28,498 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:28,993 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:29,836 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,406 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,406 - INFO - Batch Completed
+2024-12-22 11:59:30,406 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 11:59:30,413 - INFO - Prepared sim number: 40: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,418 - INFO - Prepared sim number: 41: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,423 - INFO - Prepared sim number: 42: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,429 - INFO - Prepared sim number: 43: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,434 - INFO - Prepared sim number: 44: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,437 - INFO - Prepared sim number: 45: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,440 - INFO - Prepared sim number: 46: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,443 - INFO - Prepared sim number: 47: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,447 - INFO - Prepared sim number: 48: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,450 - INFO - Prepared sim number: 49: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,453 - INFO - Prepared sim number: 50: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,456 - INFO - Prepared sim number: 51: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,460 - INFO - Prepared sim number: 52: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,463 - INFO - Prepared sim number: 53: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,466 - INFO - Prepared sim number: 54: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,469 - INFO - Prepared sim number: 55: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,472 - INFO - Prepared sim number: 56: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,474 - INFO - Prepared sim number: 57: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,476 - INFO - Prepared sim number: 58: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,477 - INFO - Prepared sim number: 59: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,479 - INFO - Prepared sim number: 60: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,481 - INFO - Prepared sim number: 61: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,482 - INFO - Prepared sim number: 62: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,484 - INFO - Prepared sim number: 63: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,486 - INFO - Prepared sim number: 64: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,488 - INFO - Prepared sim number: 65: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,490 - INFO - Prepared sim number: 66: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,491 - INFO - Prepared sim number: 67: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,493 - INFO - Prepared sim number: 68: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,495 - INFO - Prepared sim number: 69: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,496 - INFO - Prepared sim number: 70: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,498 - INFO - Prepared sim number: 71: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,500 - INFO - Prepared sim number: 72: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,501 - INFO - Prepared sim number: 73: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,503 - INFO - Prepared sim number: 74: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,505 - INFO - Prepared sim number: 75: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,506 - INFO - Prepared sim number: 76: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,507 - INFO - Prepared sim number: 77: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,509 - INFO - Prepared sim number: 78: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,511 - INFO - Prepared sim number: 79: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:30,511 - INFO - Waiting for batch number: 1, timeout: 44.3087900519371s
+2024-12-22 11:59:35,370 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:35,908 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:36,754 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:37,056 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:38,762 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:39,094 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:41,257 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:41,361 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:41,789 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:43,850 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:43,997 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:45,209 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:45,808 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:47,630 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:48,121 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:48,221 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:49,568 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:49,694 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:51,933 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:53,288 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:53,882 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:54,112 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:54,785 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:56,697 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:57,233 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:57,296 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:59,738 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 11:59:59,935 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:00,530 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:02,436 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:03,016 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:03,686 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:03,774 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:05,402 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:05,667 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:07,239 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:07,386 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,037 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,448 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,564 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,564 - INFO - Batch Completed
+2024-12-22 12:00:08,564 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:00:08,568 - INFO - Prepared sim number: 80: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,572 - INFO - Prepared sim number: 81: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,576 - INFO - Prepared sim number: 82: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,582 - INFO - Prepared sim number: 83: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,582 - INFO - Start round 1
+2024-12-22 12:00:08,587 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,592 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,597 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,601 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,605 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,610 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,615 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,619 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,624 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,629 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,633 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,638 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,642 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,647 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,651 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,655 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,659 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,663 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,667 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,671 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,674 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,676 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,679 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,681 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,683 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,685 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,687 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,689 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,691 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,694 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,696 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,698 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,700 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,702 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,704 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,706 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:08,707 - INFO - Waiting for batch number: 2, timeout: 43.934040194749834s
+2024-12-22 12:00:13,604 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:14,690 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:15,738 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:16,366 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:16,721 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:17,955 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:18,114 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:20,466 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:21,071 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_0/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:23,028 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:23,218 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:23,340 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:24,231 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:25,913 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:26,826 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:27,782 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:27,948 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:29,853 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:30,330 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:32,442 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:32,857 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:33,142 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:33,300 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:33,377 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:35,349 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:38,055 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:38,152 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:38,992 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:40,156 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:41,241 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:41,962 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:42,309 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:44,368 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:46,108 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:46,955 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:47,102 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:47,188 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:47,788 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:47,843 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,695 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,695 - INFO - Batch Completed
+2024-12-22 12:00:48,695 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:00:48,700 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,703 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,706 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,709 - INFO - Prepared sim number: 39: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,711 - INFO - Prepared sim number: 40: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,713 - INFO - Prepared sim number: 41: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,714 - INFO - Prepared sim number: 42: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,715 - INFO - Prepared sim number: 43: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,717 - INFO - Prepared sim number: 44: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,718 - INFO - Prepared sim number: 45: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,720 - INFO - Prepared sim number: 46: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,721 - INFO - Prepared sim number: 47: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,723 - INFO - Prepared sim number: 48: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,724 - INFO - Prepared sim number: 49: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,726 - INFO - Prepared sim number: 50: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,727 - INFO - Prepared sim number: 51: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,728 - INFO - Prepared sim number: 52: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,730 - INFO - Prepared sim number: 53: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,731 - INFO - Prepared sim number: 54: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,732 - INFO - Prepared sim number: 55: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,734 - INFO - Prepared sim number: 56: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,735 - INFO - Prepared sim number: 57: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,737 - INFO - Prepared sim number: 58: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,738 - INFO - Prepared sim number: 59: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,739 - INFO - Prepared sim number: 60: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,741 - INFO - Prepared sim number: 61: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,742 - INFO - Prepared sim number: 62: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,743 - INFO - Prepared sim number: 63: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,745 - INFO - Prepared sim number: 64: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,746 - INFO - Prepared sim number: 65: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,748 - INFO - Prepared sim number: 66: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,749 - INFO - Prepared sim number: 67: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,750 - INFO - Prepared sim number: 68: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,752 - INFO - Prepared sim number: 69: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,753 - INFO - Prepared sim number: 70: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,754 - INFO - Prepared sim number: 71: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,756 - INFO - Prepared sim number: 72: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,757 - INFO - Prepared sim number: 73: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,759 - INFO - Prepared sim number: 74: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,760 - INFO - Prepared sim number: 75: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:48,760 - INFO - Waiting for batch number: 3, timeout: 44.60728772878647s
+2024-12-22 12:00:54,237 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:54,453 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:54,875 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:55,207 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:58,084 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:58,619 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:58,750 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:00:58,881 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:01,234 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:01,335 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:02,609 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:03,754 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:04,312 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:04,549 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:05,946 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:06,982 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:07,895 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:09,634 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:10,356 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:11,031 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:11,885 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:13,106 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:13,382 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:14,506 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:15,086 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:18,210 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:18,294 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:18,445 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:18,908 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:19,904 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:21,061 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:22,252 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:22,531 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:24,007 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:25,446 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:26,005 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:26,149 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:26,230 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,031 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,419 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,420 - INFO - Batch Completed
+2024-12-22 12:01:27,420 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:01:27,425 - INFO - Prepared sim number: 76: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,428 - INFO - Prepared sim number: 77: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,431 - INFO - Prepared sim number: 78: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,433 - INFO - Prepared sim number: 79: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,435 - INFO - Prepared sim number: 80: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,438 - INFO - Prepared sim number: 81: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,440 - INFO - Prepared sim number: 82: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,442 - INFO - Prepared sim number: 83: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,443 - INFO - Start round 2
+2024-12-22 12:01:27,445 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,446 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,448 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,450 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,451 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,453 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,454 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,456 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,457 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,459 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,460 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,461 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,463 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,464 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,466 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,467 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,469 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,470 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,472 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,473 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,475 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,476 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,477 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,479 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,481 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,482 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,484 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,485 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,487 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,488 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,490 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,491 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:27,491 - INFO - Waiting for batch number: 4, timeout: 44.506943160295485s
+2024-12-22 12:01:31,936 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:32,784 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:32,837 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:35,494 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:36,325 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:36,499 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:38,635 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:38,838 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:38,994 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_1/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:39,480 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:39,946 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:44,021 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:44,127 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:44,354 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:45,497 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:45,646 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:47,851 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:49,093 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:49,603 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:49,937 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:50,809 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:51,220 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:52,585 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:55,028 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:55,885 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:56,481 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:57,664 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:58,030 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:58,634 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:01:59,030 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:00,019 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:02,754 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:03,241 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:04,026 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:04,919 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:05,003 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:05,582 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:05,951 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,226 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,553 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,553 - INFO - Batch Completed
+2024-12-22 12:02:06,553 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:02:06,557 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,559 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,561 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,565 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,568 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,571 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,574 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,576 - INFO - Prepared sim number: 39: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,578 - INFO - Prepared sim number: 40: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,580 - INFO - Prepared sim number: 41: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,582 - INFO - Prepared sim number: 42: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,584 - INFO - Prepared sim number: 43: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,586 - INFO - Prepared sim number: 44: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,587 - INFO - Prepared sim number: 45: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,589 - INFO - Prepared sim number: 46: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,591 - INFO - Prepared sim number: 47: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,592 - INFO - Prepared sim number: 48: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,594 - INFO - Prepared sim number: 49: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,596 - INFO - Prepared sim number: 50: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,597 - INFO - Prepared sim number: 51: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,599 - INFO - Prepared sim number: 52: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,600 - INFO - Prepared sim number: 53: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,602 - INFO - Prepared sim number: 54: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,604 - INFO - Prepared sim number: 55: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,605 - INFO - Prepared sim number: 56: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,607 - INFO - Prepared sim number: 57: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,609 - INFO - Prepared sim number: 58: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,610 - INFO - Prepared sim number: 59: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,612 - INFO - Prepared sim number: 60: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,614 - INFO - Prepared sim number: 61: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,616 - INFO - Prepared sim number: 62: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,617 - INFO - Prepared sim number: 63: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,619 - INFO - Prepared sim number: 64: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,621 - INFO - Prepared sim number: 65: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,622 - INFO - Prepared sim number: 66: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,624 - INFO - Prepared sim number: 67: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,626 - INFO - Prepared sim number: 68: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,627 - INFO - Prepared sim number: 69: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,629 - INFO - Prepared sim number: 70: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,630 - INFO - Prepared sim number: 71: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:06,631 - INFO - Waiting for batch number: 5, timeout: 44.65165674448013s
+2024-12-22 12:02:11,320 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:13,063 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:13,731 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:14,690 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:15,737 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:16,357 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:18,487 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:19,361 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:19,582 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:19,741 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:19,864 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:21,441 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:23,539 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:23,602 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:25,421 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:25,511 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:26,680 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:27,034 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:28,137 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:28,820 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:29,029 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:31,066 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:33,068 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:34,008 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:34,572 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:34,923 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:34,941 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:35,985 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:36,896 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:37,596 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:38,665 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:40,146 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:42,056 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:42,418 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:43,163 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:43,933 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:44,035 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:44,839 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,282 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,608 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,608 - INFO - Batch Completed
+2024-12-22 12:02:45,609 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:02:45,613 - INFO - Prepared sim number: 72: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,617 - INFO - Prepared sim number: 73: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,621 - INFO - Prepared sim number: 74: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,625 - INFO - Prepared sim number: 75: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,629 - INFO - Prepared sim number: 76: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,631 - INFO - Prepared sim number: 77: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,634 - INFO - Prepared sim number: 78: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,636 - INFO - Prepared sim number: 79: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,638 - INFO - Prepared sim number: 80: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,640 - INFO - Prepared sim number: 81: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,641 - INFO - Prepared sim number: 82: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,643 - INFO - Prepared sim number: 83: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,643 - INFO - Start round 3
+2024-12-22 12:02:45,645 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,646 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,648 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,649 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,651 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,652 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,654 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,655 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,657 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,658 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,660 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,661 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,663 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,664 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,666 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,668 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,669 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,671 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,672 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,674 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,675 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,677 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,678 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,680 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,681 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,683 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,684 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,686 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:45,686 - INFO - Waiting for batch number: 6, timeout: 44.666047954559325s
+2024-12-22 12:02:50,131 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:50,830 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:52,655 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:52,869 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:53,750 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:54,596 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:56,177 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:56,802 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:57,913 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:02:59,131 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:00,246 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:00,693 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:02,239 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:03,080 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_2/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:03,444 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:03,966 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:05,169 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:05,878 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:07,057 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:07,518 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:07,939 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:10,940 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:12,764 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:12,873 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:13,071 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:14,117 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:14,432 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:14,465 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:18,175 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:18,317 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:18,789 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:20,658 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:21,142 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:22,668 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:22,869 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:23,244 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:23,247 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:23,829 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:24,849 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,097 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,097 - INFO - Batch Completed
+2024-12-22 12:03:25,098 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:03:25,103 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,107 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,111 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,114 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,116 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,119 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,122 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,124 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,127 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,130 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,132 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,135 - INFO - Prepared sim number: 39: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,138 - INFO - Prepared sim number: 40: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,140 - INFO - Prepared sim number: 41: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,143 - INFO - Prepared sim number: 42: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,146 - INFO - Prepared sim number: 43: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,148 - INFO - Prepared sim number: 44: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,151 - INFO - Prepared sim number: 45: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,154 - INFO - Prepared sim number: 46: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,156 - INFO - Prepared sim number: 47: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,159 - INFO - Prepared sim number: 48: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,161 - INFO - Prepared sim number: 49: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,164 - INFO - Prepared sim number: 50: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,167 - INFO - Prepared sim number: 51: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,168 - INFO - Prepared sim number: 52: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,170 - INFO - Prepared sim number: 53: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,171 - INFO - Prepared sim number: 54: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,173 - INFO - Prepared sim number: 55: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,174 - INFO - Prepared sim number: 56: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,175 - INFO - Prepared sim number: 57: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,177 - INFO - Prepared sim number: 58: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,179 - INFO - Prepared sim number: 59: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,180 - INFO - Prepared sim number: 60: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,181 - INFO - Prepared sim number: 61: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,183 - INFO - Prepared sim number: 62: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,185 - INFO - Prepared sim number: 63: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,186 - INFO - Prepared sim number: 64: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,187 - INFO - Prepared sim number: 65: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,189 - INFO - Prepared sim number: 66: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,190 - INFO - Prepared sim number: 67: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:25,191 - INFO - Waiting for batch number: 7, timeout: 44.74430682829448s
+2024-12-22 12:03:29,193 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:31,419 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:31,917 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:32,352 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:32,846 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:33,262 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:34,977 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:36,949 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:38,257 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:38,827 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:38,997 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:39,924 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:41,078 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:41,438 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:42,335 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:43,161 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:44,781 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:46,671 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:47,666 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:48,263 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:49,355 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:50,456 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:50,847 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:51,928 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:52,578 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:54,011 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:54,926 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:56,173 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:56,436 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:56,543 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:57,383 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:03:58,887 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:00,375 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:01,100 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:01,274 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:02,024 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:02,886 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,220 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,765 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,880 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,880 - INFO - Batch Completed
+2024-12-22 12:04:03,880 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:04:03,885 - INFO - Prepared sim number: 68: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,889 - INFO - Prepared sim number: 69: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,891 - INFO - Prepared sim number: 70: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,894 - INFO - Prepared sim number: 71: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,897 - INFO - Prepared sim number: 72: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,900 - INFO - Prepared sim number: 73: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,902 - INFO - Prepared sim number: 74: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,903 - INFO - Prepared sim number: 75: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,905 - INFO - Prepared sim number: 76: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,907 - INFO - Prepared sim number: 77: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,909 - INFO - Prepared sim number: 78: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,911 - INFO - Prepared sim number: 79: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,913 - INFO - Prepared sim number: 80: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,914 - INFO - Prepared sim number: 81: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,916 - INFO - Prepared sim number: 82: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,918 - INFO - Prepared sim number: 83: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,918 - INFO - Start round 4
+2024-12-22 12:04:03,920 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,921 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,924 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,925 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,927 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,928 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,930 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,932 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,933 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,935 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,936 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,938 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,940 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,941 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,943 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,944 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,946 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,947 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,949 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,951 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,952 - INFO - Prepared sim number: 20: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,954 - INFO - Prepared sim number: 21: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,955 - INFO - Prepared sim number: 22: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,957 - INFO - Prepared sim number: 23: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:03,957 - INFO - Waiting for batch number: 8, timeout: 44.71934399753809s
+2024-12-22 12:04:08,959 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:09,439 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:09,948 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:11,173 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:11,360 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:12,161 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:14,680 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:15,880 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:16,722 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:16,944 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:17,695 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:17,873 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:19,394 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:19,511 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:20,389 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:23,635 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/0_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:24,276 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/1_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:24,356 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_3/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:25,838 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/2_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:26,135 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/4_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:27,079 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/3_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:28,286 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/5_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:28,768 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/6_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:30,478 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/7_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:31,757 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/8_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:32,296 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/11_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:32,636 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/10_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:33,117 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/13_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:33,381 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/9_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:33,530 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/14_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:36,431 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/17_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:36,666 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/12_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:38,189 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/21_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:39,506 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/15_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:39,728 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/19_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:40,583 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/20_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:40,638 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/16_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:41,291 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/18_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:41,326 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/22_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,215 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/23_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,216 - INFO - Batch Completed
+2024-12-22 12:04:42,216 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:04:42,221 - INFO - Prepared sim number: 24: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,225 - INFO - Prepared sim number: 25: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,229 - INFO - Prepared sim number: 26: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,232 - INFO - Prepared sim number: 27: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,234 - INFO - Prepared sim number: 28: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,237 - INFO - Prepared sim number: 29: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,239 - INFO - Prepared sim number: 30: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,241 - INFO - Prepared sim number: 31: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,243 - INFO - Prepared sim number: 32: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,246 - INFO - Prepared sim number: 33: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,248 - INFO - Prepared sim number: 34: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,250 - INFO - Prepared sim number: 35: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,253 - INFO - Prepared sim number: 36: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,255 - INFO - Prepared sim number: 37: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,257 - INFO - Prepared sim number: 38: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,260 - INFO - Prepared sim number: 39: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,262 - INFO - Prepared sim number: 40: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,264 - INFO - Prepared sim number: 41: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,267 - INFO - Prepared sim number: 42: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,269 - INFO - Prepared sim number: 43: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,272 - INFO - Prepared sim number: 44: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,274 - INFO - Prepared sim number: 45: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,276 - INFO - Prepared sim number: 46: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,277 - INFO - Prepared sim number: 47: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,279 - INFO - Prepared sim number: 48: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,280 - INFO - Prepared sim number: 49: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,282 - INFO - Prepared sim number: 50: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,283 - INFO - Prepared sim number: 51: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,285 - INFO - Prepared sim number: 52: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,286 - INFO - Prepared sim number: 53: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,288 - INFO - Prepared sim number: 54: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,289 - INFO - Prepared sim number: 55: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,291 - INFO - Prepared sim number: 56: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,292 - INFO - Prepared sim number: 57: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,294 - INFO - Prepared sim number: 58: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,296 - INFO - Prepared sim number: 59: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,297 - INFO - Prepared sim number: 60: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,299 - INFO - Prepared sim number: 61: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,300 - INFO - Prepared sim number: 62: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,302 - INFO - Prepared sim number: 63: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:42,305 - INFO - Waiting for batch number: 9, timeout: 44.61361374060313s
+2024-12-22 12:04:46,853 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/26_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:48,297 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/25_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:48,927 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/30_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:49,063 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/31_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:49,204 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/24_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:52,639 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/27_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:53,100 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/29_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:53,455 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/28_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:53,479 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/32_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:54,690 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/34_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:54,809 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/33_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:56,681 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/36_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:57,682 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/35_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:04:59,086 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/40_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:00,130 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/38_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:01,951 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/39_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:02,156 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/43_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:02,560 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/42_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:02,769 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/37_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:04,318 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/44_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:04,959 - INFO - Completed: 21, remaining: 19, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/45_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:05,202 - INFO - Completed: 22, remaining: 18, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/41_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:07,384 - INFO - Completed: 23, remaining: 17, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/46_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:09,886 - INFO - Completed: 24, remaining: 16, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/53_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:10,258 - INFO - Completed: 25, remaining: 15, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/49_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:10,994 - INFO - Completed: 26, remaining: 14, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/47_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:11,084 - INFO - Completed: 27, remaining: 13, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/50_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:11,726 - INFO - Completed: 28, remaining: 12, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/52_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:12,095 - INFO - Completed: 29, remaining: 11, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/54_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:13,068 - INFO - Completed: 30, remaining: 10, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/48_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:14,687 - INFO - Completed: 31, remaining: 9, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/51_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:16,671 - INFO - Completed: 32, remaining: 8, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/59_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:17,324 - INFO - Completed: 33, remaining: 7, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/58_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:17,800 - INFO - Completed: 34, remaining: 6, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/55_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:19,082 - INFO - Completed: 35, remaining: 5, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/56_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:19,090 - INFO - Completed: 36, remaining: 4, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/60_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:19,607 - INFO - Completed: 37, remaining: 3, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/57_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,420 - INFO - Completed: 38, remaining: 2, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/63_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,745 - INFO - Completed: 39, remaining: 1, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/62_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,816 - INFO - Completed: 40, remaining: 0, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/61_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,816 - INFO - Batch Completed
+2024-12-22 12:05:20,816 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:05:20,819 - INFO - Prepared sim number: 64: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,824 - INFO - Prepared sim number: 65: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,828 - INFO - Prepared sim number: 66: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,830 - INFO - Prepared sim number: 67: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,833 - INFO - Prepared sim number: 68: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,835 - INFO - Prepared sim number: 69: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,837 - INFO - Prepared sim number: 70: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,839 - INFO - Prepared sim number: 71: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,841 - INFO - Prepared sim number: 72: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,844 - INFO - Prepared sim number: 73: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,845 - INFO - Prepared sim number: 74: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,847 - INFO - Prepared sim number: 75: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,849 - INFO - Prepared sim number: 76: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,851 - INFO - Prepared sim number: 77: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,853 - INFO - Prepared sim number: 78: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,855 - INFO - Prepared sim number: 79: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,856 - INFO - Prepared sim number: 80: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,858 - INFO - Prepared sim number: 81: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,860 - INFO - Prepared sim number: 82: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,862 - INFO - Prepared sim number: 83: RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:20,862 - INFO - Waiting for batch number: 10, timeout: 44.59882470488547s
+2024-12-22 12:05:26,197 - INFO - Completed: 1, remaining: 39, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/69_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:26,939 - INFO - Completed: 2, remaining: 38, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/65_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:28,056 - INFO - Completed: 3, remaining: 37, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/67_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:28,902 - INFO - Completed: 4, remaining: 36, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/66_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:29,553 - INFO - Completed: 5, remaining: 35, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/70_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:29,630 - INFO - Completed: 6, remaining: 34, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/64_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:30,537 - INFO - Completed: 7, remaining: 33, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/71_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:32,012 - INFO - Completed: 8, remaining: 32, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/68_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:32,909 - INFO - Completed: 9, remaining: 31, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/73_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:34,642 - INFO - Completed: 10, remaining: 30, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/72_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:35,943 - INFO - Completed: 11, remaining: 29, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/77_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:36,401 - INFO - Completed: 12, remaining: 28, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/76_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:37,090 - INFO - Completed: 13, remaining: 27, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/74_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:37,951 - INFO - Completed: 14, remaining: 26, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/78_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:38,357 - INFO - Completed: 15, remaining: 25, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/75_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:39,149 - INFO - Completed: 16, remaining: 24, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/80_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:39,414 - INFO - Completed: 17, remaining: 23, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/79_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:39,694 - INFO - Completed: 18, remaining: 22, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/81_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:40,719 - INFO - Completed: 19, remaining: 21, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/83_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:40,967 - INFO - Completed: 20, remaining: 20, RAYPy_Simulation_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP/round_4/82_bessy2_56m_PGM_2Perc_coupling_errors_on_errors_on_1200_RP.rml
+2024-12-22 12:05:40,968 - INFO - Batch Completed
+2024-12-22 12:05:40,968 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:05:40,968 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-12-22 12:05:40,968 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-12-22 12:05:40,982 - INFO - Executor shutdown completed.
+2024-12-22 12:05:40,982 - INFO - Simulation completed successfully.
+2024-12-22 12:05:40,983 - INFO - Starting cleanup
+2024-12-22 12:05:41,154 - INFO - Done with the cleanup
+2024-12-22 12:05:41,154 - INFO - Create Pandas Recap Files
+2024-12-22 12:05:41,162 - INFO - End of the Simulations
+2024-12-22 12:56:38,957 - INFO - Simulation started, using 8 workers
+2024-12-22 12:56:38,960 - INFO - Start round 0
+2024-12-22 12:56:38,965 - INFO - Waiting for batch number: 0, timeout: 60s
+2024-12-22 12:56:38,965 - INFO - Batch Completed
+2024-12-22 12:56:38,965 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,970 - INFO - Waiting for batch number: 1, timeout: 60s
+2024-12-22 12:56:38,970 - INFO - Batch Completed
+2024-12-22 12:56:38,970 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,971 - INFO - Start round 1
+2024-12-22 12:56:38,972 - INFO - Waiting for batch number: 2, timeout: 60s
+2024-12-22 12:56:38,972 - INFO - Batch Completed
+2024-12-22 12:56:38,972 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,973 - INFO - Waiting for batch number: 3, timeout: 60s
+2024-12-22 12:56:38,973 - INFO - Batch Completed
+2024-12-22 12:56:38,973 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,974 - INFO - Start round 2
+2024-12-22 12:56:38,975 - INFO - Waiting for batch number: 4, timeout: 60s
+2024-12-22 12:56:38,975 - INFO - Batch Completed
+2024-12-22 12:56:38,975 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,977 - INFO - Waiting for batch number: 5, timeout: 60s
+2024-12-22 12:56:38,977 - INFO - Batch Completed
+2024-12-22 12:56:38,977 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,978 - INFO - Start round 3
+2024-12-22 12:56:38,979 - INFO - Waiting for batch number: 6, timeout: 60s
+2024-12-22 12:56:38,979 - INFO - Batch Completed
+2024-12-22 12:56:38,979 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,981 - INFO - Waiting for batch number: 7, timeout: 60s
+2024-12-22 12:56:38,981 - INFO - Batch Completed
+2024-12-22 12:56:38,981 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,981 - INFO - Start round 4
+2024-12-22 12:56:38,982 - INFO - Waiting for batch number: 8, timeout: 60s
+2024-12-22 12:56:38,982 - INFO - Batch Completed
+2024-12-22 12:56:38,982 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,984 - INFO - Waiting for batch number: 9, timeout: 60s
+2024-12-22 12:56:38,984 - INFO - Batch Completed
+2024-12-22 12:56:38,984 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,985 - INFO - Waiting for batch number: 10, timeout: 60s
+2024-12-22 12:56:38,985 - INFO - Batch Completed
+2024-12-22 12:56:38,985 - INFO - Waiting For batch, 40 simulations to go
+2024-12-22 12:56:38,985 - INFO - Remaning Simulations 0, stop the simulations loop
+2024-12-22 12:56:38,985 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2024-12-22 12:56:38,998 - INFO - Executor shutdown completed.
+2024-12-22 12:56:38,998 - INFO - Simulation completed successfully.
+2024-12-22 12:56:38,998 - INFO - Starting cleanup
+2024-12-22 12:56:39,154 - INFO - Done with the cleanup
+2024-12-22 12:56:39,154 - INFO - Create Pandas Recap Files
+2024-12-22 12:56:39,162 - INFO - End of the Simulations

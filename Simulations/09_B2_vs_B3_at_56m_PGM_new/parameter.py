@@ -1,0 +1,43 @@
+import numpy as np
+
+# these must match the name of the rml files in the rml folder that you want to simulate
+
+# rml_file_name_bessy2_56m     = 'bessy2_56m_PGM_2Perc_coupling_errors_on'
+# rml_file_name_bessy3_56m     = 'bessy3_56m_PGM_2Perc_coupling_errors_on'
+# grating     = np.array([1200, 2400])
+# add_to_title = f'_errors_on_{grating[0]}'
+
+
+# rml_file_name_bessy2_56m     = 'bessy2_56m_PGM_2Perc_coupling_errors_off'
+# rml_file_name_bessy3_56m     = 'bessy3_56m_PGM_2Perc_coupling_errors_off'
+# grating     = np.array([1200, 2400])
+# add_to_title = f'_errors_off_{grating[0]}'
+
+rml_file_name_bessy2_56m     = 'bessy2_LoBeta_long_52'
+rml_file_name_bessy3_56m     = 'bessy3_long_52'
+grating     = np.array([1200, 2400])
+add_to_title = f'_errors_off_old'
+
+order       = 1
+SlitSize    = np.array([.020])
+cff         = np.array([2.50])
+
+energy_flux = np.arange(50, 2101, 100)
+energy_rp   = np.arange(50, 2101, 100)
+
+nrays_flux  = 1e5
+nrays_rp    = 1e5
+
+round_flux = 5
+round_rp   = 5
+
+ncpu       = 8
+
+### plotting colors
+import matplotlib
+import matplotlib.pyplot as plt
+# Generate 20 colors from the 'hsv' colormap which resembles a rainbow
+colors_rainbow = plt.cm.tab20(np.linspace(0, 2, int(max(1,2))))
+# Convert the colors to hex format for easy usage
+colors = [matplotlib.colors.rgb2hex(color) for color in colors_rainbow]
+colors = ["Red", "Orange", "Green", "Blue", "Indigo", "Violet"]
