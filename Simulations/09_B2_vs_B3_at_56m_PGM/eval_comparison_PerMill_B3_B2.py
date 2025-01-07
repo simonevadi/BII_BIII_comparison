@@ -55,12 +55,12 @@ for ind, es_size in enumerate(SlitSize):
      filtered_rp_b2 = rp_b2[rp_b2['ExitSlit.openingHeight'] == es_size]
      energy = filtered_rp_b2['SU.photonEnergy']
      bw = filtered_rp_b2['Bandwidth']
-     ax.plot(energy/1000,energy/(1000*bw), label='bessy2')
+     ax.plot(energy/1000,(energy/1000)/bw, label='bessy2')
 
      filtered_rp_b3 = rp_b3[rp_b3['ExitSlit.openingHeight'] == es_size]
      energy = filtered_rp_b3['SU.photonEnergy']
      bw = filtered_rp_b3['Bandwidth']
-     ax.plot(energy/1000,energy/(1000*bw), label='bessy3')
+     ax.plot(energy/1000,(energy/1000)/bw, label='bessy3')
 
 ax.set_xlabel('Energy [keV]')
 ax.set_ylabel('Energy/1000/bandwidth [a.u.]')
@@ -78,14 +78,14 @@ for ind, es_size in enumerate(SlitSize):
      abs_flux_b2 = filtered_flux_b2['PercentageRaysSurvived']
      filtered_rp = rp_b2[rp_b2['ExitSlit.openingHeight'] == es_size]
      bw_b2 = filtered_rp_b2['Bandwidth']
-     ax.plot(energy,(energy/1000/bw)*abs_flux_b2, label='bessy2')
+     ax.plot(energy,(energy/1000)/bw*abs_flux_b2, label='bessy2')
 
      filtered_flux_b3 = flux_b3[flux_b3['ExitSlit.openingHeight'] == es_size]
      energy = filtered_flux_b3['SU.photonEnergy']
      abs_flux_b3 = filtered_flux_b3['PercentageRaysSurvived']
      filtered_rp = rp_b3[rp_b3['ExitSlit.openingHeight'] == es_size]
      bw_b3 = filtered_rp_b3['Bandwidth']
-     ax.plot(energy,(energy/1000/bw)*abs_flux_b3, label='bessy3')
+     ax.plot(energy,(energy/1000)/bw*abs_flux_b3, label='bessy3')
 
 ax.set_xlabel(r'Energy [eV]')
 ax.set_ylabel('Flux [ph/s/tbw]')
@@ -96,3 +96,4 @@ ax.minorticks_on()
 plt.suptitle('PGM-Undulator (SU), 1200 l/mm unknown grating')
 plt.tight_layout()
 plt.savefig('plot/Per Mill BESSY II_III at 56m PGM standard BL.pdf')
+plt.show()

@@ -156,13 +156,13 @@ ax = axs[0]
 for ind, es_size in enumerate(SlitSize):
      filtered_rp_b2 = rp_b2[rp_b2['ExitSlit.openingHeight'] == es_size]
      energy = filtered_rp_b2['SU.photonEnergy']
-     bw = filtered_rp_b2['Bandwidth']
-     ax.scatter(energy/1000,energy/(1000*bw), label='bessy2 (new)')
+     bw_b2 = filtered_rp_b2['Bandwidth']
+     ax.scatter(energy/1000,energy/(1000*bw_b2), label='bessy2 (new)')
 
      filtered_rp_b3 = rp_b3[rp_b3['ExitSlit.openingHeight'] == es_size]
      energy = filtered_rp_b3['SU.photonEnergy']
-     bw = filtered_rp_b3['Bandwidth']
-     ax.scatter(energy/1000,energy/(1000*bw), label='bessy3 (new)')
+     bw_b3= filtered_rp_b3['Bandwidth']
+     ax.scatter(energy/1000,energy/(1000*bw_b3), label='bessy3 (new)')
      
 
 ax.set_xlabel('Energy [keV]')
@@ -171,7 +171,8 @@ ax.set_title('NEW PerMil Transmission')
 ax.minorticks_on()
 ax.legend()
 
- 
+# fig, (axs_new) = plt.subplots(1, 1,figsize=(15,10))
+
 # NEW PERMIL FLUX 
 ax = axs[1]
 for ind, es_size in enumerate(SlitSize):
@@ -188,6 +189,7 @@ for ind, es_size in enumerate(SlitSize):
      filtered_rp = rp_b3[rp_b3['ExitSlit.openingHeight'] == es_size]
      bw_b3 = filtered_rp_b3['Bandwidth']
      ax.scatter(energy_b3,(energy_b3/1000/bw_b3)*abs_flux_b3, label='bessy3 (new)')
+    #  axs_new.plot(energy_b3,bw_b3, label='bessy3 (new)')
      
 
 ax.set_xlabel(r'Energy [eV]')
@@ -199,4 +201,6 @@ ax.legend()
 plt.tight_layout()
 plt.savefig('plot/FluxRpFocus_comparison_permil_old.png')
 
-plt.show()
+
+
+# plt.show()

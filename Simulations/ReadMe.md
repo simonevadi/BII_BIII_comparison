@@ -15,4 +15,5 @@
 | 07_B3_1200_vs_2400_g.| comparison gratings            |more lines, higher RP |
 | 08_Coupling_B2_B3_co.| Comparison dif. coupl f. B2/B3 |higher Coup, lower RP |
 | 09_B2_vs_B3_at_56m_P.| Back to 56m BL, B2vsB3 +PerMill|                      |
+| 09_B2_vs_B3_at_56m_P._new| Same as before, but using new syntax for analysis|                      |
 | 10_B2_37m_vs_B3_56m_.| long vs short BL @ B3          |                      |
