@@ -1,0 +1,475 @@
+2025-01-09 14:10:09,022 - INFO - Simulation started, using 12 workers
+2025-01-09 14:10:09,023 - INFO - Start round 0
+2025-01-09 14:10:09,024 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,025 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,026 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,027 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,028 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,030 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,031 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,032 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,033 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,034 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,035 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,036 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,037 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,038 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,039 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,040 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,041 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,042 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,043 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,044 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,044 - INFO - Start round 1
+2025-01-09 14:10:09,045 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,046 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,047 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,048 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,049 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,050 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,051 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,052 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,053 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,054 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,054 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,055 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,056 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,057 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,058 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,059 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,060 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,061 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,062 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,063 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,063 - INFO - Start round 2
+2025-01-09 14:10:09,064 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,065 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,066 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,067 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,068 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,069 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,070 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,071 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,072 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,073 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,074 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,075 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,076 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,077 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,078 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,079 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,080 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,081 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,082 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,083 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:09,105 - INFO - Waiting for batch number: 0, timeout: 60s
+2025-01-09 14:10:18,716 - INFO - Simulation started, using 12 workers
+2025-01-09 14:10:18,718 - INFO - Start round 0
+2025-01-09 14:10:18,719 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,720 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,722 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,723 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,724 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,725 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,726 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,727 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,728 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,730 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,731 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,732 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,733 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,734 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,735 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,736 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,737 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,739 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,740 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,741 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:18,758 - INFO - Waiting for batch number: 0, timeout: 60s
+2025-01-09 14:10:29,060 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:29,283 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:32,125 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:32,754 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:33,064 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:34,229 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:34,475 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:34,500 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:34,584 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:34,778 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:36,562 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:37,883 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:41,764 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:42,232 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:43,746 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:43,968 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:44,160 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:44,276 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:44,806 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:45,199 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_0/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:10:45,199 - INFO - Batch Completed
+2025-01-09 14:10:45,199 - INFO - Waiting For batch, 60 simulations to go
+2025-01-09 14:10:45,199 - INFO - Remaning Simulations 0, stop the simulations loop
+2025-01-09 14:10:45,199 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2025-01-09 14:10:45,200 - INFO - Executor shutdown completed.
+2025-01-09 14:10:45,200 - INFO - Simulation completed successfully.
+2025-01-09 14:10:45,201 - INFO - Starting cleanup
+2025-01-09 14:10:45,236 - INFO - Done with the cleanup
+2025-01-09 14:10:45,236 - INFO - Create Pandas Recap Files
+2025-01-09 14:10:45,253 - INFO - End of the Simulations
+2025-01-09 14:27:22,609 - INFO - Simulation started, using 12 workers
+2025-01-09 14:27:22,610 - INFO - Start round 0
+2025-01-09 14:27:22,612 - INFO - Start round 1
+2025-01-09 14:27:22,613 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,614 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,615 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,616 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,617 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,617 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,618 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,619 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,620 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,621 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,622 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,623 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,625 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,626 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,628 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,630 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,630 - INFO - Start round 2
+2025-01-09 14:27:22,631 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,633 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,635 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,636 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,637 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,638 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,639 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,640 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,641 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,642 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,642 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,643 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,644 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,645 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,646 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,647 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,648 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,649 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,650 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,651 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:22,670 - INFO - Waiting for batch number: 0, timeout: 60s
+2025-01-09 14:27:26,343 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:26,714 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:26,791 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:27,162 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:27,225 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:29,309 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:30,254 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:30,386 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:30,437 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:30,574 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:30,744 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:31,910 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:32,027 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:32,314 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:32,843 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:32,852 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_1/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:32,959 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:35,832 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:37,406 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:37,524 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:39,886 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:40,541 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:40,745 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:41,012 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:42,795 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:43,381 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:43,567 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:44,643 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:44,923 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:49,389 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:49,460 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:49,561 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:49,936 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:50,784 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,009 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,275 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_2/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,276 - INFO - Batch Completed
+2025-01-09 14:27:51,276 - INFO - Waiting For batch, 60 simulations to go
+2025-01-09 14:27:51,276 - INFO - Start round 3
+2025-01-09 14:27:51,279 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,280 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,281 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,283 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,284 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,286 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,287 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,289 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,290 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,291 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,293 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,294 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,295 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,297 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,298 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,299 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,301 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,302 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,304 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,305 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,305 - INFO - Start round 4
+2025-01-09 14:27:51,307 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,308 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,309 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,311 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,312 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,313 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,315 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,316 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,317 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,319 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,320 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,322 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,323 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,324 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,326 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,327 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,328 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,330 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,331 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,332 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,332 - INFO - Start round 5
+2025-01-09 14:27:51,334 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,335 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,336 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,338 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,339 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,340 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,342 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,343 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,344 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,346 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,347 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,349 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,350 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,351 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,353 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,354 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,355 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,357 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,358 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,359 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:27:51,360 - INFO - Waiting for batch number: 1, timeout: 49.77292490005494s
+2025-01-09 14:28:01,980 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:03,427 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:04,908 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:04,938 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:05,287 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:05,479 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:06,118 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:06,142 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:06,981 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:07,161 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:07,316 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:08,065 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:16,923 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:17,879 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:18,031 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:18,250 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:18,779 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:19,221 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:20,428 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:20,835 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:21,195 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:21,312 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:21,921 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_3/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:23,941 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:30,509 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:30,696 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:32,146 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:32,910 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:33,625 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:33,880 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:34,005 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:34,731 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:34,807 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:36,345 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:36,841 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:38,181 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:28:41,133 - INFO - Exception during simulation: 24 (of 60) futures unfinished
+2025-01-09 14:28:46,142 - INFO - Waiting for file RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/16_bessy2_LoBeta_long_52_FLUX.rml, wait_time 11.894067595402397
+2025-01-09 14:28:51,147 - INFO - Waiting for file RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_4/17_bessy2_LoBeta_long_52_FLUX.rml, wait_time 6.894067595402397
+2025-01-09 14:28:56,154 - INFO - Waiting for file RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/5_bessy2_LoBeta_long_52_FLUX.rml, wait_time 1.8940675954023973
+2025-01-09 14:29:01,159 - INFO - Waiting for file RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_5/8_bessy2_LoBeta_long_52_FLUX.rml, wait_time -3.1059324045976027
+2025-01-09 14:29:01,160 - INFO - Found most simulations of the batch, futures missed at least 24 simulations
+2025-01-09 14:29:01,166 - INFO - Updated progress bar
+2025-01-09 14:29:01,169 - INFO - Batch Completed
+2025-01-09 14:29:01,169 - INFO - Waiting For batch, 60 simulations to go
+2025-01-09 14:29:01,170 - INFO - Start round 6
+2025-01-09 14:29:01,184 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,196 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,208 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,222 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,231 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,241 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,256 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,265 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,271 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,278 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,284 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,289 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,293 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,299 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,305 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,310 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,315 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,321 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,326 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,331 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,331 - INFO - Start round 7
+2025-01-09 14:29:01,336 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,341 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,346 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,351 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,356 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,361 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,365 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,370 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,376 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,381 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,385 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,390 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,395 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,400 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,405 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,410 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,415 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,420 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,425 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,430 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,430 - INFO - Start round 8
+2025-01-09 14:29:01,435 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,440 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,446 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,451 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,455 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,460 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,465 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,470 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,476 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,481 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,486 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,491 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,496 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,502 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,507 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,512 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,517 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,522 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,529 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,539 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:01,566 - INFO - Waiting for batch number: 2, timeout: 67.57627038160959s
+2025-01-09 14:29:14,578 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:15,712 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:16,531 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:17,765 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:17,891 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:18,134 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:18,295 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:19,624 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:19,746 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:21,664 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:22,151 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:22,184 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:31,969 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:32,425 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:32,867 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:34,199 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:34,580 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:34,907 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:34,947 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:35,114 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:35,216 - INFO - Completed: 21, remaining: 39, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_6/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:35,739 - INFO - Completed: 22, remaining: 38, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:36,869 - INFO - Completed: 23, remaining: 37, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:38,906 - INFO - Completed: 24, remaining: 36, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:47,084 - INFO - Completed: 25, remaining: 35, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:47,752 - INFO - Completed: 26, remaining: 34, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:47,793 - INFO - Completed: 27, remaining: 33, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:48,874 - INFO - Completed: 28, remaining: 32, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:49,220 - INFO - Completed: 29, remaining: 31, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:49,306 - INFO - Completed: 30, remaining: 30, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:49,668 - INFO - Completed: 31, remaining: 29, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:49,755 - INFO - Completed: 32, remaining: 28, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:49,965 - INFO - Completed: 33, remaining: 27, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:51,178 - INFO - Completed: 34, remaining: 26, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:51,531 - INFO - Completed: 35, remaining: 25, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:29:52,834 - INFO - Completed: 36, remaining: 24, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:03,350 - INFO - Completed: 37, remaining: 23, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:03,697 - INFO - Completed: 38, remaining: 22, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:05,462 - INFO - Completed: 39, remaining: 21, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:06,046 - INFO - Completed: 40, remaining: 20, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:07,023 - INFO - Completed: 41, remaining: 19, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:07,085 - INFO - Completed: 42, remaining: 18, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:07,664 - INFO - Completed: 43, remaining: 17, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:08,008 - INFO - Completed: 44, remaining: 16, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_7/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:09,142 - INFO - Exception during simulation: 16 (of 60) futures unfinished
+2025-01-09 14:30:14,155 - INFO - Waiting for file RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/3_bessy2_LoBeta_long_52_FLUX.rml, wait_time 14.452712935620344
+2025-01-09 14:30:19,161 - INFO - Waiting for file RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/8_bessy2_LoBeta_long_52_FLUX.rml, wait_time 9.452712935620344
+2025-01-09 14:30:24,166 - INFO - Waiting for file RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/8_bessy2_LoBeta_long_52_FLUX.rml, wait_time 4.452712935620344
+2025-01-09 14:30:29,171 - INFO - Waiting for file RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_8/16_bessy2_LoBeta_long_52_FLUX.rml, wait_time -0.5472870643796561
+2025-01-09 14:30:29,172 - INFO - Found most simulations of the batch, futures missed at least 16 simulations
+2025-01-09 14:30:29,177 - INFO - Updated progress bar
+2025-01-09 14:30:29,177 - INFO - Batch Completed
+2025-01-09 14:30:29,177 - INFO - Waiting For batch, 60 simulations to go
+2025-01-09 14:30:29,177 - INFO - Start round 9
+2025-01-09 14:30:29,182 - INFO - Prepared sim number: 0: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,186 - INFO - Prepared sim number: 1: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,190 - INFO - Prepared sim number: 2: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,193 - INFO - Prepared sim number: 3: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,196 - INFO - Prepared sim number: 4: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,199 - INFO - Prepared sim number: 5: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,201 - INFO - Prepared sim number: 6: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,203 - INFO - Prepared sim number: 7: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,204 - INFO - Prepared sim number: 8: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,205 - INFO - Prepared sim number: 9: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,206 - INFO - Prepared sim number: 10: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,207 - INFO - Prepared sim number: 11: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,208 - INFO - Prepared sim number: 12: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,209 - INFO - Prepared sim number: 13: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,210 - INFO - Prepared sim number: 14: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,211 - INFO - Prepared sim number: 15: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,212 - INFO - Prepared sim number: 16: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,213 - INFO - Prepared sim number: 17: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,214 - INFO - Prepared sim number: 18: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,215 - INFO - Prepared sim number: 19: RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:29,215 - INFO - Waiting for batch number: 3, timeout: 77.81085174248138s
+2025-01-09 14:30:39,390 - INFO - Completed: 1, remaining: 59, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/5_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:40,995 - INFO - Completed: 2, remaining: 58, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/11_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:41,087 - INFO - Completed: 3, remaining: 57, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/0_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:41,250 - INFO - Completed: 4, remaining: 56, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/6_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:43,153 - INFO - Completed: 5, remaining: 55, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/8_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:43,262 - INFO - Completed: 6, remaining: 54, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/3_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:43,599 - INFO - Completed: 7, remaining: 53, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/7_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:44,513 - INFO - Completed: 8, remaining: 52, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/2_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:46,888 - INFO - Completed: 9, remaining: 51, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/10_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:47,111 - INFO - Completed: 10, remaining: 50, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/1_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:47,534 - INFO - Completed: 11, remaining: 49, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/9_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:47,642 - INFO - Completed: 12, remaining: 48, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/4_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:50,693 - INFO - Completed: 13, remaining: 47, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/12_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:52,946 - INFO - Completed: 14, remaining: 46, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/13_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:53,216 - INFO - Completed: 15, remaining: 45, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/17_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:54,081 - INFO - Completed: 16, remaining: 44, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/15_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:54,097 - INFO - Completed: 17, remaining: 43, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/14_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:54,530 - INFO - Completed: 18, remaining: 42, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/16_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:55,782 - INFO - Completed: 19, remaining: 41, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/18_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:56,231 - INFO - Completed: 20, remaining: 40, RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/round_9/19_bessy2_LoBeta_long_52_FLUX.rml
+2025-01-09 14:30:56,231 - INFO - Batch Completed
+2025-01-09 14:30:56,231 - INFO - Waiting For batch, 60 simulations to go
+2025-01-09 14:30:56,231 - INFO - Remaning Simulations 0, stop the simulations loop
+2025-01-09 14:30:56,231 - INFO - Checking that all simulations are completed before stopping the ProcessPoolExecutor
+2025-01-09 14:30:56,245 - INFO - Executor shutdown completed.
+2025-01-09 14:30:56,246 - INFO - Simulation completed successfully.
+2025-01-09 14:30:56,247 - INFO - Starting cleanup
+2025-01-09 14:30:56,465 - INFO - Done with the cleanup
+2025-01-09 14:30:56,466 - INFO - Create Pandas Recap Files
+2025-01-09 14:30:56,484 - INFO - End of the Simulations
