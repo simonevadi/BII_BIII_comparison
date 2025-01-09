@@ -6,8 +6,13 @@ import pandas as pd
 # import simulation parameters
 
 from parameter import SlitSize
-from parameter import rml_file_name_bessy3_long_52 as rml_file_name_b3
-from parameter import rml_file_name_bessy2_LoBeta_long_52 as rml_file_name_b2
+from parameter import rml_file_name_bessy3_long_52 as rml_file_name_b2
+from parameter import rml_file_name_bessy2_LoBeta_long_52 as rml_file_name_b3
+
+SlitSize = SlitSize*1000
+rml_comparison_list = {}
+rml_comparison_list[rml_file_name_b2]  = 1
+rml_comparison_list[rml_file_name_b3]  = 1
 
 
 # file/folder/ml index definition
@@ -23,7 +28,7 @@ flux_b2 = pd.read_csv(os.path.join(flux_simulation_folder_b2, oe))
 oe = 'DetectorAtFocus' + '_RawRaysOutgoing.csv'
 flux_b3 = pd.read_csv(os.path.join(flux_simulation_folder_b3, oe))
 
-# Bandwidth normalized Trasnmission
+# Bandwidth normalized Transmission
 fig, (ax) = plt.subplots(1, 1,figsize=(15,10))
 
 for ind, es_size in enumerate(SlitSize):

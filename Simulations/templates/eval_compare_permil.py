@@ -51,7 +51,7 @@ rml_comparison_list.append(rml_file_name_bessy2_LoBeta_long_52)
 window = 1
 
 # prepare figures
-fig, (axs) = plt.subplots(1, 2,figsize=(15,10))
+fig, (axs) = plt.subplots(1, 2,figsize=(16,10))
 fig.suptitle(f"BESSYII/III PGM standard beamline comparison")
 
 
@@ -126,12 +126,6 @@ from parameter import rml_file_name_bessy3_long_52 as rml_file_name_b3
 from parameter import rml_file_name_bessy2_LoBeta_long_52 as rml_file_name_b2
 
 
-# # file/folder/ml index definition
-# flux_simulation_folder_b2 = 'RAYPy_Simulation_'+rml_file_name_b2+'_FLUX'
-# rp_simulation_folder_b2 = 'RAYPy_Simulation_'+rml_file_name_b2+'_RP'
-# flux_simulation_folder_b3 = 'RAYPy_Simulation_'+rml_file_name_b3+'_FLUX'
-# rp_simulation_folder_b3 = 'RAYPy_Simulation_'+rml_file_name_b3+'_RP'
-
 
 varying_var = SlitSize
 varying_var_n = 'Exit Slit'
@@ -169,50 +163,61 @@ ax.set_xlabel('Energy [keV]')
 ax.set_ylabel('Energy/1000/bandwidth [a.u.]')
 ax.set_title('NEW PerMil Transmission')
 ax.minorticks_on()
-ax.legend()
+#ax.legend()
 
 
 fig, (axs_new) = plt.subplots(1, 1,figsize=(15,10))
 
+
 # NEW PERMIL FLUX 
 ax = axs[1]
 for ind, es_size in enumerate(SlitSize):
-     filtered_flux_b2 = flux_b2[flux_b2['ExitSlit.openingHeight'] == es_size]
-     energy_b2 = filtered_flux_b2['SU.photonEnergy']
-     abs_flux_b2 = filtered_flux_b2['PercentageRaysSurvived']
-     abs_flux_rays_b2 = filtered_flux_b2['NumberRaysSurvived']
-     filtered_rp = rp_b2[rp_b2['ExitSlit.openingHeight'] == es_size]
-     bw_b2 = filtered_rp_b2['Bandwidth']
-     axs_new.scatter(energy_b2,(energy_b2/1000/bw_b2)*abs_flux_b2, label='bessy2 (new)', color='red')
-     n_rays_source_b2 = filtered_flux_b2['SU.numberRays']
-     bw_source_b2 = 0.001*filtered_flux_b2['SU.photonEnergy']
+    # BESSY 2:
+    filtered_flux_b2 = flux_b2[flux_b2['ExitSlit.openingHeight'] == es_size]
+    energy_b2 = filtered_flux_b2['SU.photonEnergy']
+    abs_flux_b2 = filtered_flux_b2['PercentageRaysSurvived']
+    filtered_rp_b2 = rp_b2[rp_b2['ExitSlit.openingHeight'] == es_size]
+    
+    bw_source_b2 = 0.001*filtered_flux_b2['SU.photonEnergy']
+    permilenergy_b2 = flux_b2['EnergyPerMilPerBw']
+    permilflux_b2 = flux_b2['FluxPerMilPerBwPerc']    
+    
+    
+    # BESSY 3:
+    filtered_flux_b3 = flux_b3[flux_b3['ExitSlit.openingHeight'] == es_size]
+    energy_b3 = filtered_flux_b3['SU.photonEnergy']
+    abs_flux_b3 = filtered_flux_b3['PercentageRaysSurvived']
+    filtered_rp_b3 = rp_b3[rp_b3['ExitSlit.openingHeight'] == es_size]
+    bw_b3 = filtered_rp_b3['Bandwidth']
+    bw_source_b3 = 0.001*filtered_flux_b2['SU.photonEnergy']
+    
+    
+    
+    
+    axs_new.plot(energy_b2,abs_flux_b2/bw_b2*bw_source_b2, label = 'bessy2 (new)', marker = 'o', color = 'blue')
+    axs_new.plot(energy_b3,abs_flux_b3/bw_b2*bw_source_b3, label = 'bessy3 (new)', marker = 'o', color = 'red')
+    
+    
+    axs_new.scatter(energy_b2, permilflux_b2, color ='green', label = 'BESSY II' )
+    
+    axs_new.legend()
+    axs_new.minorticks_on()
+    axs_new.grid()
+    axs_new.set_title('Bandwidth normalized transmission (BNT)')
+    axs_new.set_xlabel('Energy [eV]')
+    axs_new.set_ylabel('Transmission [%]')
+
+
+
      
-
-     #axs_new.plot(energy_b2,100*(abs_flux_rays_b2/bw_b2)/(n_rays_source_b2/bw_source_b2), label='bessy2 (new1)')
-     #axs_new.plot(energy_b2,(bw_source_b2), label='bessy3 (new1)')
-     axs_new.plot(energy_b2,abs_flux_b2/bw_b2*bw_source_b2, label='bessy2 (new1)')
-     
-
-     filtered_flux_b3 = flux_b3[flux_b3['ExitSlit.openingHeight'] == es_size]
-     energy_b3 = filtered_flux_b3['SU.photonEnergy']
-     abs_flux_b3 = filtered_flux_b3['PercentageRaysSurvived']
-     abs_flux_rays_b3 = filtered_flux_b3['NumberRaysSurvived']
-     bw_source_b3 = 0.001*filtered_flux_b3['SU.photonEnergy']
-
-     filtered_rp = rp_b3[rp_b3['ExitSlit.openingHeight'] == es_size]
-     bw_b3 = filtered_rp_b3['Bandwidth']
-     #ax.scatter(energy_b3,(energy_b3/1000/bw_b3)*abs_flux_b3, label='bessy3 (new)')
-     
-
-     axs_new.plot(energy_b3,abs_flux_b3/bw_b3*bw_source_b3, label='bessy3 (new1)')
 
 ax.set_xlabel(r'Energy [eV]')
 ax.set_ylabel('Flux [ph/s/tbw]')
 ax.set_title('NEW Transmission / Per MIl bandwidth')
 ax.minorticks_on()
-ax.legend()
+#ax.legend()
 
 plt.tight_layout()
-plt.savefig('plot/FluxRpFocus_comparison_permil_old_1.png')
+plt.savefig('plot/Comparision Source BW-normalized.png')
 
 # plt.show()
