@@ -9,18 +9,18 @@ rml_file_name_bessy3_long_52           = 'bessy3_long_52'
 
 
 order       = 1
-SlitSize    = np.array([.050, .020, .010, .005])
+SlitSize    = np.array([0.1, .050, .020, .015, .010, .005])
 grating     = np.array([1200])
 cff         = np.array([2.5])
 
-energy_flux = np.arange(100, 2101,500)
-energy_rp   = np.arange(100, 2101,500)
+energy_flux = np.arange(100, 2101,50)
+energy_rp   = np.arange(100, 2101,50)
 
 nrays_flux  = 1e5
 nrays_rp    = 1e5
 
-round_flux = 10
-round_rp   = 10
+round_flux = 20
+round_rp   = 20
 
 
 ncpu = 12
