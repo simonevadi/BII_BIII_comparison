@@ -9,6 +9,7 @@ simdata_B3= pd.read_csv('RAYPy_Simulation_bessy3_long_52_FLUX/DetectorAtFocus_Ra
 
 fig, (ax) = plt.subplots(1, 1,figsize=(15,10))
 
+color_list = []
 
 ExitSlit_list = simdata_B2['ExitSlit.openingHeight'].unique()
 for ExitSlit in ExitSlit_list:
@@ -20,8 +21,10 @@ for ExitSlit in ExitSlit_list:
     bnt_B3 = reduced_simdata_B3['FluxPerMilPerBwPerc']
     energy_B3 = reduced_simdata_B3['SU.photonEnergy']
     
-    ax.plot(energy_B2, bnt_B2/10, label=f'B2 ExitSlit {int(ExitSlit*1000)}'+' µm')
-    ax.plot(energy_B3, bnt_B3/10, label=f'B3 ExitSlit {int(ExitSlit*1000)}'+' µm', marker='o')
+    line, = ax.plot(energy_B2, bnt_B2/10, label=f'B2 ExitSlit {int(ExitSlit*1000)}'+' µm', linestyle='dashed')
+    color = line.get_color()
+    color_list.append(color)
+    ax.plot(energy_B3, bnt_B3/10, color=color, label=f'B3 ExitSlit {int(ExitSlit*1000)}'+' µm')
 
 ax.minorticks_on()
 ax.grid(linestyle='dotted', color='grey')
