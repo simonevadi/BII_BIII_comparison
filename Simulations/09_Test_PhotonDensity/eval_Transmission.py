@@ -28,19 +28,19 @@ for ExitSlit in ExitSlit_list:
     # Density Plot
     lines, = ax.plot(energy_B2lo, N_rays_B2lo, label = f'B2 low beta ExitSlit {int(ExitSlit*1000)}'+' µm', marker='s')
     used_colors = lines.get_color()
-    ax.plot(energy_B2hi, N_rays_B2hi, color = 'green', label = f'B2 high beta ExitSlit {int(ExitSlit*1000)}'+' µm', marker='+')
-    ax.plot(energy_B3, N_rays_B3, color = 'red', label = f'B3 ExitSlit {int(ExitSlit*1000)}'+' µm', marker='o')
+    ax.plot(energy_B2hi, N_rays_B2hi, color = used_colors, label = f'B2 high beta ExitSlit {int(ExitSlit*1000)}'+' µm', marker='+')
+    ax.plot(energy_B3, N_rays_B3, color = used_colors, label = f'B3 ExitSlit {int(ExitSlit*1000)}'+' µm', marker='o')
 
 
 ax.minorticks_on()
 ax.grid(linestyle='dotted', color='grey')
 ax.tick_params(axis='both', labelsize=14)
-ax.set_ylabel ('Photon density [%]', fontsize=14)
+ax.set_ylabel ('Transmission [%]', fontsize=14)
 # ax.set_ylabel(r'$\frac{N}{\mathrm{[µm^2]}} \, @ \, 0.1\% \, \mathrm{bandwidth}$' + ' in [%]', fontsize=16)
 ax.set_xlabel('Energy [eV]', fontsize= 16)
 ax.set_title('BESSY II (LowBeta) vs. BESSY III @ 56 m standard PGM-BL PhotonDensity', fontsize= 18)
 # ax.set_title('BESSY III @ 56 m standard PGM-BL bandwidth normalized transmission', fontsize= 18)
 ax.legend(fontsize=16, loc='best')
 plt.tight_layout()
-# plt.savefig('plot/Photon Density B2_B3.png')
+# plt.savefig('plot/Transmission B2_B3.png')
 plt.show()
