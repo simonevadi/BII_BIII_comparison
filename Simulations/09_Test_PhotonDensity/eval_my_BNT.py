@@ -4,24 +4,30 @@ import pandas as pd
 
 # Read CSV-File
 
-simdata_B2 = pd.read_csv('RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/DetectorAtFocus_RawRaysIncoming.csv')
-simdata_B3= pd.read_csv('RAYPy_Simulation_bessy3_long_52_FLUX/DetectorAtFocus_RawRaysIncoming.csv')
+simdata_B2lo = pd.read_csv('RAYPy_Simulation_bessy2lo_56m_PGM_2Perc_coupling_errors_on_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
+simdata_B2hi = pd.read_csv('RAYPy_Simulation_bessy2hi_56m_PGM_2Perc_coupling_errors_on_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
+simdata_B3= pd.read_csv('RAYPy_Simulation_bessy3_56m_PGM_2Perc_coupling_errors_on_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
 
 fig, (ax) = plt.subplots(1, 1,figsize=(15,10))
 
 
-ExitSlit_list = simdata_B2['ExitSlit.openingHeight'].unique()
+ExitSlit_list = simdata_B2lo['ExitSlit.openingHeight'].unique()
 for ExitSlit in ExitSlit_list:
-    reduced_simdata_B2 = simdata_B2[simdata_B2['ExitSlit.openingHeight']==ExitSlit]
-    bnt_B2 = reduced_simdata_B2['FluxPerMilPerBwPerc']
-    energy_B2 = reduced_simdata_B2['SU.photonEnergy']
+    reduced_simdata_B2lo = simdata_B2lo[simdata_B2lo['ExitSlit.openingHeight']==ExitSlit]
+    bnt_B2lo= reduced_simdata_B2lo['FluxPerMilPerBwPerc']
+    energy_B2lo= reduced_simdata_B2lo['SU.photonEnergy']
+
+    reduced_simdata_B2hi = simdata_B2hi[simdata_B2hi['ExitSlit.openingHeight']==ExitSlit]
+    bnt_B2hi = reduced_simdata_B2hi['FluxPerMilPerBwPerc']
+    energy_B2hi = reduced_simdata_B2hi['SU.photonEnergy']
 
     reduced_simdata_B3 = simdata_B3[simdata_B3['ExitSlit.openingHeight']==ExitSlit]
     bnt_B3 = reduced_simdata_B3['FluxPerMilPerBwPerc']
     energy_B3 = reduced_simdata_B3['SU.photonEnergy']
     
-    lines, = ax.plot(energy_B2, bnt_B2/10, label = f'B2 ExitSlit {int(ExitSlit*1000)}'+' µm')
+    lines, = ax.plot(energy_B2lo, bnt_B2lo/10, label = f'B2 ExitSlit {int(ExitSlit*1000)}'+' µm')
     used_colors = lines.get_color()
+    ax.plot(energy_B2hi, bnt_B2hi/10, label = f'B2 ExitSlit {int(ExitSlit*1000)}'+' µm', marker='s')
     ax.plot(energy_B3, bnt_B3/10, color = used_colors, label = f'B3 ExitSlit {int(ExitSlit*1000)}'+' µm', marker='o')
 
 

@@ -7,8 +7,9 @@ import pandas as pd
 # import simulation parameters
 from parameter import energy_rp, energy_flux
 from parameter import SlitSize
-from parameter import rml_file_name_bessy3_long_52
-from parameter import rml_file_name_bessy2_LoBeta_long_52
+from parameter import rml_file_name_bessy3_long_56
+from parameter import rml_file_name_bessy2_LoBeta_long_56
+from parameter import rml_file_name_bessy2_HiBeta_long_56
 from parameter import colors, grating
 
 from raypyng.postprocessing import PostProcessAnalyzed
@@ -17,8 +18,9 @@ moving_average = p.moving_average
 
 SlitSize = SlitSize*1000
 rml_comparison_list = {}
-rml_comparison_list[rml_file_name_bessy3_long_52]         = 0
-rml_comparison_list[rml_file_name_bessy2_LoBeta_long_52]  = 0
+rml_comparison_list[rml_file_name_bessy3_long_56]         = 3
+rml_comparison_list[rml_file_name_bessy2_LoBeta_long_56]  = 3
+rml_comparison_list[rml_file_name_bessy2_HiBeta_long_56]  = 3
 
 #rml_comparison_list[rml_file_name_bessy3_short_37]        = 2
 #rml_comparison_list[rml_file_name_bessy2_HiBeta_long_52]  = 2
@@ -137,6 +139,6 @@ for rml_file_name, ind in rml_comparison_list.items():
 handles, labels = flux_ax.get_legend_handles_labels()
 axs[0, 1].legend(handles, labels, loc='center', fontsize=16)
 plt.tight_layout()
-plt.savefig('plot/FluxRpFocus_comparison.pdf')
+# plt.savefig('plot/FluxRpFocus_comparison.pdf')
 
-# plt.show()
+plt.show()

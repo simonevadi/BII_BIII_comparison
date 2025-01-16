@@ -4,9 +4,9 @@ import pandas as pd
 
 # Read CSV-File
 
-simdata_B2lo = pd.read_csv('RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
-simdata_B2hi = pd.read_csv('RAYPy_Simulation_bessy2_HiBeta_long_52_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
-simdata_B3= pd.read_csv('RAYPy_Simulation_bessy3_long_52_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
+simdata_B2lo = pd.read_csv('RAYPy_Simulation_bessy2lo_56m_PGM_2Perc_coupling_errors_on_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
+simdata_B2hi = pd.read_csv('RAYPy_Simulation_bessy2hi_56m_PGM_2Perc_coupling_errors_on_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
+simdata_B3= pd.read_csv('RAYPy_Simulation_bessy3_56m_PGM_2Perc_coupling_errors_on_FLUX/DetectorAtFocus_RawRaysOutgoing.csv')
 
 fig, (ax) = plt.subplots(1, 1,figsize=(15,10))
 

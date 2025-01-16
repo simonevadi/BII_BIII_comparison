@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 from helper_lib import delete_round_folders
-from parameter import rml_file_name_bessy2_HiBeta_long_52 as rml_file_name
+from parameter import rml_file_name_bessy2_HiBeta_long_56 as rml_file_name
 
 this_file_dir=os.path.dirname(os.path.realpath(__file__))
 rml_file = os.path.join('rml/'+rml_file_name+'.rml')

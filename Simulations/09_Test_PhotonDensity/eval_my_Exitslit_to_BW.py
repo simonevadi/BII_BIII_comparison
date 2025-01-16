@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-simdata_dict = {2:os.path.join('RAYPy_Simulation_bessy2_LoBeta_long_52_FLUX',
+simdata_dict = {2:os.path.join('RAYPy_Simulation_bessy2lo_56m_PGM_2Perc_coupling_errors_on_FLUX',
                                'DetectorAtFocus_RawRaysIncoming.csv'), 
-                3:os.path.join('RAYPy_Simulation_bessy3_long_52_FLUX',
+                3:os.path.join('RAYPy_Simulation_bessy3_56m_PGM_2Perc_coupling_errors_on_FLUX',
                                'DetectorAtFocus_RawRaysIncoming.csv')
                 }
 

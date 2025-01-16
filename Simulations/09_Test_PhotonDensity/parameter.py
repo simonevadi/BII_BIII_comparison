@@ -1,27 +1,23 @@
 import numpy as np
 
-rml_file_name_bessy3_long_52           = 'bessy3_long_52'
-rml_file_name_bessy2_LoBeta_long_52    = 'bessy2_LoBeta_long_52'
-rml_file_name_bessy2_HiBeta_long_52    = 'Bessy2_HiBeta_long_52'
-
-#rml_file_name_bessy2_HiBeta_short_37   = 'Bessy2_HiBeta_short_37'
-#rml_file_name_bessy2_LoBeta_short_37   = 'Bessy2_LoBeta_short_37'
-#rml_file_name_bessy3_short_37          = 'Bessy3_short_37'
+rml_file_name_bessy2_LoBeta_long_56    = 'bessy2lo_56m_PGM_2Perc_coupling_errors_on'
+rml_file_name_bessy2_HiBeta_long_56    = 'bessy2hi_56m_PGM_2Perc_coupling_errors_on'
+rml_file_name_bessy3_long_56           = 'bessy3_56m_PGM_2Perc_coupling_errors_on'
 
 
 order       = 1
-SlitSize    = np.array([.025, .015, .008])
+SlitSize    = np.array([.040, .032, .024, .016, .008])
 grating     = np.array([1200])
 cff         = np.array([2.5])
 
-energy_flux = np.arange(100, 2101,100)
-energy_rp   = np.arange(100, 2101,100)
+energy_flux = np.arange(100, 2101,50)
+energy_rp   = np.arange(100, 2101,50)
 
-nrays_flux  = 1e4
-nrays_rp    = 1e4
+nrays_flux  = 1e5
+nrays_rp    = 1e5
 
-round_flux = 5
-round_rp   = 5
+round_flux = 20
+round_rp   = 20
 
 
 ncpu = 12
