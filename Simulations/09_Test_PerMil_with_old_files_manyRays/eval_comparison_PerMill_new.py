@@ -47,7 +47,7 @@ rp_b3 = pd.read_csv(os.path.join(rp_simulation_folder_b3, oe))
 source_flux_b3 = flux_b3.drop_duplicates(subset='SU.photonEnergy')[['SU.photonEnergy', 'SourcePhotonFlux']]
 print(flux_b3.columns)
 
-fig, (axs) = plt.subplots(2, 1,figsize=(10,10))
+fig, axs = plt.subplots(2, 1,figsize=(10,10))
 fig.suptitle(f"My Title {oe}")
 
 
@@ -97,4 +97,5 @@ ax.minorticks_on()
  
 plt.suptitle('PGM-Undulator (SU), 1200 l/mm unknown grating')
 plt.tight_layout()
-plt.savefig('plot/Comparison PerMill new.pdf')
+# plt.savefig('plot/Comparison PerMill new.pdf')
+plt.show()

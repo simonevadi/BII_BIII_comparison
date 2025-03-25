@@ -27,14 +27,14 @@ rml_comparison_list[rml_file_name_bessy3_56m]                 = 0
 window = 0
 
 # prepare figures
-fig, (axs) = plt.subplots(3, 2,figsize=(10,10))
+fig, (axs) = plt.subplots(2, 3,figsize=(16,9))
 fig.suptitle('Comparison BESSY II/III PGM beamline @ RP=10000', fontsize=14)
 
 
-# remove plot 0,1
-axs[0, 1].axis('off')
+# remove plot 0,0
+axs[0, 0].axis('off')
 # BEAMLINE TRANSMISSION
-flux_ax = axs[0,0]
+flux_ax = axs[0,1]
 flux_ax.set_xlabel(r'Energy [eV]')
 flux_ax.set_ylabel('Transmission [%]')
 flux_ax.set_title('Available Flux [in transmitted bandwidth]')
@@ -42,7 +42,7 @@ flux_ax.grid(which='major', linestyle='dotted')
 flux_ax.minorticks_on()
 
 # BANDWIDTH
-bw_ax = axs[1,0]
+bw_ax = axs[0,2]
 bw_ax.set_xlabel('Energy [eV]')
 bw_ax.set_ylabel('Transmitted Bandwidth [meV]')
 bw_ax.set_title('Transmitted Bandwidth (tbw)')
@@ -51,7 +51,7 @@ bw_ax.minorticks_on()
 
 
 # RESOLVING POWER
-rp_ax = axs[1,1]
+rp_ax = axs[1,0]
 rp_ax.set_xlabel('Energy [eV]')
 rp_ax.set_ylabel('RP [a.u.]')
 rp_ax.set_title('Resolving Power')
@@ -60,7 +60,7 @@ rp_ax.minorticks_on()
 
 
 # HORIZONTAL FOCUS
-hf_ax = axs[2,0]
+hf_ax = axs[1,1]
 hf_ax.set_xlabel('Energy [eV]')
 hf_ax.set_ylabel('Focus Size [um]')
 hf_ax.set_title('Horizontal Focus')
@@ -69,7 +69,7 @@ hf_ax.minorticks_on()
 
 
 # VERTICAL FOCUS
-vf_ax = axs[2,1]
+vf_ax = axs[1,2]
 vf_ax.set_xlabel('Energy [eV]')
 vf_ax.set_ylabel('Focus Size [um]')
 vf_ax.set_title('Vertical Focus')    
@@ -144,8 +144,9 @@ for rml_file_name, ind in rml_comparison_list.items():
 
 # flux_ax.legend()
 handles, labels = flux_ax.get_legend_handles_labels()
-axs[0, 1].legend(handles, labels, loc='center', fontsize=12)
+axs[0, 0].legend(handles, labels, loc='center', fontsize=12)
 plt.tight_layout()
-# plt.savefig('plot/Performance_comparison_BESSY II/III short/long.pdf')
+plt.savefig('plot/Performance_comparison_BESSY II_III RP10000.png')
+plt.savefig('plot/Performance_comparison_BESSY II_III RP10000.pdf')
 
 plt.show()

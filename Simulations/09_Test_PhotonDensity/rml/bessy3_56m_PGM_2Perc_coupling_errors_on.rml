@@ -3,7 +3,7 @@
  <version>1.15</version>
  <beamline>
   <object name="SU" type="Simple Undulator">
-   <param id="numberRays" enabled="T">100000</param>
+   <param id="numberRays" enabled="T">2000000</param>
    <param id="sigmaType" comment="standard" enabled="T">0</param>
    <param id="undulatorLength" enabled="T">4</param>
    <param id="electronDistributionType" comment="manual" enabled="T">0</param>
@@ -70,10 +70,10 @@
    <param id="surfaceCoating" comment="One coating" enabled="T">1</param>
    <param id="coatingFile" absolute="" enabled="F"></param>
    <param id="numberLayer" enabled="F">2</param>
-   <param id="materialCoating1" enabled="T">Ir</param>
+   <param id="materialCoating1" enabled="T">Pt</param>
    <param id="thicknessCoating1" enabled="T">30</param>
    <param id="roughnessCoating1" enabled="T">0.1</param>
-   <param id="densityCoating1" auto="T" enabled="T">22.39</param>
+   <param id="densityCoating1" auto="T" enabled="T">21.41</param>
    <param id="materialCoating2" enabled="F">B4C</param>
    <param id="thicknessCoating2" enabled="F">16</param>
    <param id="roughnessCoating2" enabled="F">0.1</param>
@@ -421,7 +421,7 @@
   <object name="ExitSlit" type="Slit">
    <param id="openingShape" comment="rectangle" enabled="T">0</param>
    <param id="openingWidth" enabled="T">5</param>
-   <param id="openingHeight" enabled="T">0.018</param>
+   <param id="openingHeight" enabled="T">0.062</param>
    <param id="centralBeamstop" comment="none" enabled="T">0</param>
    <param id="stopWidth" enabled="F">20</param>
    <param id="stopHeight" enabled="F">1</param>
@@ -650,7 +650,7 @@
   <axes>true</axes>
   <names>true</names>
   <angles>true</angles>
-  <scaling>1</scaling>
+  <scaling>0</scaling>
   <scaleLinear>1.168</scaleLinear>
   <scaleExponent>0.658</scaleExponent>
   <scaleLinearOffset>4400</scaleLinearOffset>

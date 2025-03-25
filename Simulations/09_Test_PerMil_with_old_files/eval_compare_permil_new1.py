@@ -72,6 +72,6 @@ ax[1].set_title('BESSY III')
 ax[1].legend()
 plt.suptitle('Comparison BESSY II vs. BESSY III @', fontsize=18)
 plt.tight_layout()
-plt.savefig('plot/Comparision BESSY II vs BESSY III with standard PGM BL @ dif µm ExitSlit.png')
+# plt.savefig('plot/Comparision BESSY II vs BESSY III with standard PGM BL @ dif µm ExitSlit.png')
 
-# plt.show()
+plt.show()

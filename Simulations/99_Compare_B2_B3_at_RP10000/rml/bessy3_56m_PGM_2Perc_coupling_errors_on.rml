@@ -70,10 +70,10 @@
    <param id="surfaceCoating" comment="One coating" enabled="T">1</param>
    <param id="coatingFile" absolute="" enabled="F"></param>
    <param id="numberLayer" enabled="F">2</param>
-   <param id="materialCoating1" enabled="T">Ir</param>
+   <param id="materialCoating1" enabled="T">Pt</param>
    <param id="thicknessCoating1" enabled="T">30</param>
    <param id="roughnessCoating1" enabled="T">0.1</param>
-   <param id="densityCoating1" auto="T" enabled="T">22.39</param>
+   <param id="densityCoating1" auto="T" enabled="T">21.41</param>
    <param id="materialCoating2" enabled="F">B4C</param>
    <param id="thicknessCoating2" enabled="F">16</param>
    <param id="roughnessCoating2" enabled="F">0.1</param>
