@@ -45,6 +45,5 @@ ax.set_title('BESSY II (LowBeta) vs. BESSY III @ 56 m standard PGM-BL PhotonDens
 # ax.set_title('BESSY III @ 56 m standard PGM-BL bandwidth normalized transmission', fontsize= 18)
 ax.legend(fontsize=16, loc='best')
 plt.tight_layout()
-plt.savefig('plot/Photon Density B2_B3 at 27mu.png')
 plt.savefig('plot/Photon Density B2_B3 at 27mu.pdf')
 plt.show()

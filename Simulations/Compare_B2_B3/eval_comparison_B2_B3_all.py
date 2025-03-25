@@ -147,6 +147,5 @@ handles, labels = flux_ax.get_legend_handles_labels()
 axs[0, 0].legend(handles, labels, loc='center', fontsize=12)
 plt.tight_layout()
 plt.savefig('plot/Performance_comparison_BESSY II and III short vs long.pdf')
-plt.savefig('plot/Performance_comparison_BESSY II and III short vs long.png')
 
 plt.show()
