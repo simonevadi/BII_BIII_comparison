@@ -12,7 +12,7 @@ rml_file_name_bessy3_long_56_errors_off          = 'bessy3_56m_PGM_2Perc_couplin
 order       = 1
 SlitSize    = np.array([.02])
 grating     = np.array([1200])
-cff         = np.array([2.5])
+cff         = np.array([2.25])
 
 energy_flux = np.arange(100, 2101,1)
 
