@@ -18,7 +18,7 @@ undulator_table_filename = os.path.join(this_file_dir, 'undulator_flux_curves','
 undulator_df = pd.read_csv(undulator_table_filename, delimiter='\t')
 
 # Read CSV-File of the Beamline Simulation
-BL_file_path = os.path.join('RAYPy_Simulation_bessy2lo_37m_PGM_2Perc_coupling_errors_on_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
+BL_file_path = os.path.join('RAYPy_Simulation_bessy2lo_37m_PGM_2Perc_coupl_err_on_1_5degree_1200l_V2_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
 BL_df = pd.read_csv(BL_file_path)
 
 
@@ -26,7 +26,7 @@ BL_df = pd.read_csv(BL_file_path)
 # PLOTTING AND ANALYSIS
 # Create the Main figure
 fig, (axs) = plt.subplots(4, 2, figsize=(20, 15))
-fig.suptitle('UE42 BESSY II (assumend) Standard PGM Beamline (37 m)', size=16)
+fig.suptitle('UE46 BESSY II (assumend) Standard PGM Beamline (37 m)', size=16)
 x_range = [50, 2150]
 
 # MIRROR REFLECTIVITY
@@ -34,7 +34,7 @@ ax1 = axs[0, 0]
 # Coatings:
 de = 38.9579-30.0000
 table = 'Henke'
-theta = 0.75
+theta = 1.5
 E = np.arange(50, 5001, de)
 Au  = rm.Material('Au',  rho=19.32, kind='mirror',table=table)
 Pt  = rm.Material('Pt',  rho=21.45, kind='mirror',table=table)
@@ -186,4 +186,5 @@ if not os.path.exists(plot_folder):
 plt.tight_layout()
 # plt.savefig('plot/Photon Density B2_B3 errors_on at 24 mu.png')
 plt.savefig('plot/Flux_curves UE46 @ BESSY II.pdf')
+plt.tight_layout()
 plt.show()

@@ -13,12 +13,12 @@ from parameter import SlitSize
 
 this_file_dir=os.path.dirname(os.path.realpath(__file__))
 
-# Read Undulator CSV-File BESSY II
+# Read Undulator CSV-File BESSY III
 undulator_table_filename = os.path.join(this_file_dir, 'undulator_flux_curves','b3_ue42_5_ver_300mA_flux.csv')
 undulator_df = pd.read_csv(undulator_table_filename)
 
 # Read CSV-File of the Beamline Simulation
-BL_file_path = os.path.join('RAYPy_Simulation_bessy3_56m_PGM_2Perc_coupling_errors_on_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
+BL_file_path = os.path.join('RAYPy_Simulation_bessy3_56m_PGM_2Perc_coupl_err_on0_75deg_1200l_V3_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
 BL_df = pd.read_csv(BL_file_path)
 
 
@@ -70,7 +70,7 @@ harms = [1,3,5] # The Harmonics from the ID. Typically 1,3,5, rather higher. Dep
 for harm in harms:
     ax2.plot(undulator_df[f'Energy{harm}[eV]'], undulator_df[f'Photons{harm}'], label=f'Harm. {harm}')
     
-ax2.set_title('UE46 Flux curve')
+ax2.set_title('UE42 Flux curve')
 ax2.set_xlabel('Energy [eV]')
 ax2.set_ylabel('Photon flux [ph/s/300 mA/0.1% BW]')
 ax2.legend(fontsize=12, loc='best')
@@ -185,5 +185,6 @@ if not os.path.exists(plot_folder):
 # Save the the figure
 plt.tight_layout()
 # plt.savefig('plot/Photon Density B2_B3 errors_on at 24 mu.png')
-plt.savefig('plot/Flux_curves UE42 @ BESSY III.pdf')
+# plt.savefig('plot/Flux_curves UE42 @ BESSY III.pdf')
+plt.tight_layout()
 plt.show()

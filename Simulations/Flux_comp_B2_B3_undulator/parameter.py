@@ -2,14 +2,14 @@ import numpy as np
 
 # Load in rml file 
 # BESSY II:
-rml_file_name_bessy2_LoBeta_37m_errors_on    = 'bessy2lo_37m_PGM_2Perc_coupling_errors_on'
+# rml_file_name_bessy2_LoBeta_37m_errors_on    = 'bessy2lo_37m_PGM_2Perc_coupl_err_on_1_5degree_1200l_V2'
 
 # BESSY III:
-rml_file_name_bessy3_long_56m_errors_on      = 'bessy3_56m_PGM_2Perc_coupling_errors_on'
+rml_file_name_bessy3_long_56m_errors_on      = 'bessy3_56m_PGM_2Perc_coupl_err_on0_75deg_1200l_V3'
 
 # Paramter
 order       = 1
-SlitSize    = np.array([.02])
+SlitSize    = np.array([.014]) # mm
 grating     = np.array([1200])
 cff         = np.array([2.25])
 
@@ -20,7 +20,7 @@ nrays_rp    = 1e5
 
 round_flux = 5
 
-ncpu = 10
+ncpu = 12
 ### plotting colors
 import matplotlib
 import matplotlib.pyplot as plt
