@@ -72,7 +72,7 @@ for harm in harms:
     
 ax2.set_title('UE42 Flux curve')
 ax2.set_xlabel('Energy [eV]')
-ax2.set_ylabel('Photon flux [ph/s/300 mA/0.1% BW]')
+ax2.set_ylabel('Photon flux [ph/s/300 mA/0.01% BW]')
 ax2.legend(fontsize=12, loc='best')
 ax2.set_xlim(x_range)
 ax2.minorticks_on()
@@ -106,9 +106,9 @@ for harm in harms:
     filtered_df = BL_df[(BL_df['PhotonEnergy'] >= Emin_harm) & (BL_df['PhotonEnergy'] <= Emax_harm)]
     ax4.plot(filtered_df['PhotonEnergy'], filtered_df[f'PhotonFlux{harm}'], label=f'Harm. {harm}')
 
-ax4.set_title('Flux curve 37 m PGM-Beamline')
+ax4.set_title('Flux curve 56 m PGM-Beamline')
 ax4.set_xlabel('Energy [eV]')
-ax4.set_ylabel('Photon flux [ph/s/300 mA/0.1% BW]')
+ax4.set_ylabel('Photon flux [ph/s/300 mA/0.01% BW]')
 ax4.legend(loc='best', fontsize=12)
 ax4.set_xlim(x_range)
 ax4.minorticks_on()
@@ -185,6 +185,6 @@ if not os.path.exists(plot_folder):
 # Save the the figure
 plt.tight_layout()
 # plt.savefig('plot/Photon Density B2_B3 errors_on at 24 mu.png')
-# plt.savefig('plot/Flux_curves UE42 @ BESSY III.pdf')
+plt.savefig('plot/Flux_curves UE42 @ BESSY III_imp_es 14_BW0_01.pdf')
 plt.tight_layout()
 plt.show()
