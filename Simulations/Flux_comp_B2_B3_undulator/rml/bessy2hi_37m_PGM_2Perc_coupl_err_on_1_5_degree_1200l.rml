@@ -7,10 +7,10 @@
    <param id="sigmaType" comment="standard" enabled="T">0</param>
    <param id="undulatorLength" enabled="T">4</param>
    <param id="electronDistributionType" comment="manual" enabled="T">0</param>
-   <param id="electronSigmaX" enabled="T">68.59</param>
-   <param id="electronSigmaXs" enabled="T">71.65000000000001</param>
-   <param id="electronSigmaY" enabled="T">11.21</param>
-   <param id="electronSigmaYs" enabled="T">8.75</param>
+   <param id="electronSigmaX" enabled="T">226.5</param>
+   <param id="electronSigmaXs" enabled="T">21.66</param>
+   <param id="electronSigmaY" enabled="T">18.76</param>
+   <param id="electronSigmaYs" enabled="T">5.23</param>
    <param id="sourceDepth" enabled="T">1</param>
    <param id="alignmentError" comment="No" enabled="T">1</param>
    <param id="translationXerror" enabled="F">0</param>
@@ -464,10 +464,10 @@
    <param id="totalLength" enabled="T">400</param>
    <param id="grazingIncAngle" enabled="T">1.5</param>
    <param id="entranceArmLength" enabled="T">5000</param>
-   <param id="exitArmLength" enabled="T">2001</param>
+   <param id="exitArmLength" enabled="T">2000</param>
    <param id="designGrazingIncAngle" auto="T" enabled="T">1.5</param>
-   <param id="longHalfAxisA" auto="T" enabled="T">3500.5</param>
-   <param id="shortHalfAxisB" auto="T" enabled="T">82.79947095389072</param>
+   <param id="longHalfAxisA" auto="T" enabled="T">3500</param>
+   <param id="shortHalfAxisB" auto="T" enabled="T">82.77877884536973</param>
    <param id="figureRotation" comment="plane" enabled="T">1</param>
    <param id="parameter_a11" enabled="F">1</param>
    <param id="distancePreceding" enabled="T">5000</param>
@@ -545,10 +545,10 @@
    <param id="totalLength" enabled="T">500</param>
    <param id="grazingIncAngle" enabled="T">1.5</param>
    <param id="entranceArmLength" enabled="T">5700</param>
-   <param id="exitArmLength" enabled="T">1450</param>
+   <param id="exitArmLength" enabled="T">1640</param>
    <param id="designGrazingIncAngle" auto="T" enabled="T">1.5</param>
-   <param id="longHalfAxisA" auto="T" enabled="T">3575</param>
-   <param id="shortHalfAxisB" auto="T" enabled="T">75.25588101087824</param>
+   <param id="longHalfAxisA" auto="T" enabled="T">3670</param>
+   <param id="shortHalfAxisB" auto="T" enabled="T">80.03470845278136</param>
    <param id="figureRotation" comment="plane" enabled="T">1</param>
    <param id="parameter_a11" enabled="F">1</param>
    <param id="distancePreceding" enabled="T">600</param>

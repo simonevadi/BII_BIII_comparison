@@ -13,12 +13,12 @@ from parameter import SlitSize
 
 this_file_dir=os.path.dirname(os.path.realpath(__file__))
 
-# Read Undulator CSV-File BESSY III
-undulator_table_filename = os.path.join(this_file_dir, 'undulator_flux_curves','b3_ue42_5_ver_300mA_flux.csv')
-undulator_df = pd.read_csv(undulator_table_filename)
+# Read Undulator CSV-File BESSY II
+undulator_table_filename = os.path.join(this_file_dir, 'undulator_flux_curves','b2_LoBeta_UE46_2025_smalerz_300mA_flux.txt')
+undulator_df = pd.read_csv(undulator_table_filename, delimiter='\t')
 
 # Read CSV-File of the Beamline Simulation
-BL_file_path = os.path.join('RAYPy_Simulation_bessy3_56m_PGM_2Perc_coupl_err_on0_75deg_1200l_V3_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
+BL_file_path = os.path.join('RAYPy_Simulation_bessy2lo_37m_PGM_2Perc_coupl_err_on_1_5degree_1200l_V2_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
 BL_df = pd.read_csv(BL_file_path)
 
 
@@ -26,7 +26,7 @@ BL_df = pd.read_csv(BL_file_path)
 # PLOTTING AND ANALYSIS
 # Create the Main figure
 fig, (axs) = plt.subplots(4, 2, figsize=(20, 15))
-fig.suptitle('UE42 BESSY III Standard PGM Beamline (56 m)', size=16)
+fig.suptitle('UE46 BESSY II (assumend) Standard PGM Beamline (37 m)', size=16)
 x_range = [50, 2150]
 
 # MIRROR REFLECTIVITY
@@ -34,7 +34,7 @@ ax1 = axs[0, 0]
 # Coatings:
 de = 38.9579-30.0000
 table = 'Henke'
-theta = 0.75
+theta = 1.5
 E = np.arange(50, 5001, de)
 Au  = rm.Material('Au',  rho=19.32, kind='mirror',table=table)
 Pt  = rm.Material('Pt',  rho=21.45, kind='mirror',table=table)
@@ -70,9 +70,9 @@ harms = [1,3,5] # The Harmonics from the ID. Typically 1,3,5, rather higher. Dep
 for harm in harms:
     ax2.plot(undulator_df[f'Energy{harm}[eV]'], undulator_df[f'Photons{harm}'], label=f'Harm. {harm}')
     
-ax2.set_title('UE42 Flux curve')
+ax2.set_title('UE46 Flux curve (HiBeta)')
 ax2.set_xlabel('Energy [eV]')
-ax2.set_ylabel('Photon flux [ph/s/300 mA/0.01% BW]')
+ax2.set_ylabel('Photon flux [ph/s/300 mA/0.1% BW]')
 ax2.legend(fontsize=12, loc='best')
 ax2.set_xlim(x_range)
 ax2.minorticks_on()
@@ -106,9 +106,9 @@ for harm in harms:
     filtered_df = BL_df[(BL_df['PhotonEnergy'] >= Emin_harm) & (BL_df['PhotonEnergy'] <= Emax_harm)]
     ax4.plot(filtered_df['PhotonEnergy'], filtered_df[f'PhotonFlux{harm}'], label=f'Harm. {harm}')
 
-ax4.set_title('Flux curve 56 m PGM-Beamline')
+ax4.set_title('Flux curve 37 m PGM-Beamline HiBeta')
 ax4.set_xlabel('Energy [eV]')
-ax4.set_ylabel('Photon flux [ph/s/300 mA/0.01% BW]')
+ax4.set_ylabel('Photon flux [ph/s/300 mA/0.1% BW]')
 ax4.legend(loc='best', fontsize=12)
 ax4.set_xlim(x_range)
 ax4.minorticks_on()
@@ -185,6 +185,6 @@ if not os.path.exists(plot_folder):
 # Save the the figure
 plt.tight_layout()
 # plt.savefig('plot/Photon Density B2_B3 errors_on at 24 mu.png')
-plt.savefig('plot/CDR-Plots/Flux_curves UE42 @ BESSY III_err_on.pdf')
+# plt.savefig('plot/Flux_curves UE46 @ BESSY II LoBeta.pdf')
 plt.tight_layout()
 plt.show()

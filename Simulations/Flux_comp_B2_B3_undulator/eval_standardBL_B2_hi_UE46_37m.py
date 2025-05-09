@@ -14,11 +14,11 @@ from parameter import SlitSize
 this_file_dir=os.path.dirname(os.path.realpath(__file__))
 
 # Read Undulator CSV-File BESSY II
-undulator_table_filename = os.path.join(this_file_dir, 'undulator_flux_curves','b2_LoBeta_UE46_2025_smalerz_300mA_flux.txt')
+undulator_table_filename = os.path.join(this_file_dir, 'undulator_flux_curves','b2_HiBeta_UE46_2025_smalerz_300mA_flux.txt')
 undulator_df = pd.read_csv(undulator_table_filename, delimiter='\t')
 
 # Read CSV-File of the Beamline Simulation
-BL_file_path = os.path.join('RAYPy_Simulation_bessy2lo_37m_PGM_2Perc_coupl_err_on_1_5degree_1200l_V2_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
+BL_file_path = os.path.join('RAYPy_Simulation_bessy2hi_37m_PGM_2Perc_coupl_err_on_1_5_degree_1200l_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
 BL_df = pd.read_csv(BL_file_path)
 
 
@@ -26,7 +26,7 @@ BL_df = pd.read_csv(BL_file_path)
 # PLOTTING AND ANALYSIS
 # Create the Main figure
 fig, (axs) = plt.subplots(4, 2, figsize=(20, 15))
-fig.suptitle('UE46 BESSY II (assumend) Standard PGM Beamline (37 m)', size=16)
+fig.suptitle('UE46 BESSY II HiBeta (assumend) Standard PGM Beamline (37 m)', size=16)
 x_range = [50, 2150]
 
 # MIRROR REFLECTIVITY
@@ -185,6 +185,6 @@ if not os.path.exists(plot_folder):
 # Save the the figure
 plt.tight_layout()
 # plt.savefig('plot/Photon Density B2_B3 errors_on at 24 mu.png')
-plt.savefig('plot/Flux_curves UE46 @ BESSY II.pdf')
+# plt.savefig('plot/Flux_curves UE46 @ BESSY II HiBeta.pdf')
 plt.tight_layout()
 plt.show()
