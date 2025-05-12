@@ -18,7 +18,7 @@ undulator_table_filename = os.path.join(this_file_dir, 'undulator_flux_curves','
 undulator_df = pd.read_csv(undulator_table_filename)
 
 # Read CSV-File of the Beamline Simulation
-BL_file_path = os.path.join('RAYPy_Simulation_bessy3_56m_PGM_2Perc_coupl_err_on0_75deg_1200l_V3_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
+BL_file_path = os.path.join('RAYPy_Simulation_bessy3_56m_PGM_2Perc_coupl_err_on0_75deg_1200l_V3_3nm rough_Au_FLUX', 'DetectorAtFocus_RawRaysOutgoing.csv')
 BL_df = pd.read_csv(BL_file_path)
 
 
@@ -26,7 +26,7 @@ BL_df = pd.read_csv(BL_file_path)
 # PLOTTING AND ANALYSIS
 # Create the Main figure
 fig, (axs) = plt.subplots(4, 2, figsize=(20, 15))
-fig.suptitle('UE42 BESSY III Standard PGM Beamline (56 m)', size=14)
+fig.suptitle('UE42 BESSY III Standard PGM Beamline (56 m); all Au @ 3 nm roughness', size=14)
 x_range = [50, 2150]
 
 # MIRROR REFLECTIVITY
@@ -189,6 +189,6 @@ if not os.path.exists(plot_folder):
 # Save the the figure
 plt.tight_layout()
 # plt.savefig('plot/Photon Density B2_B3 errors_on at 24 mu.png')
-# plt.savefig('plot/CDR-Plots/Flux_curves UE42 @ BESSY III_err_on.pdf')
+# plt.savefig('plot/Flux_curves UE42 @ BESSY III_err_on_bad_rough.pdf')
 plt.tight_layout()
 plt.show()
